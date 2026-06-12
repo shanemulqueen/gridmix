@@ -1,0 +1,837 @@
+oris,facility_name,state,coats_unit,cems_unit,status
+10567,"Ahlstrom Power Windsor Locks, LLC",CT,GT1,GT1,matched
+544,Devon,CT,,10,cems_only
+544,Devon,CT,11,11,matched
+544,Devon,CT,12,12,matched
+544,Devon,CT,13,13,matched
+544,Devon,CT,14,14,matched
+544,Devon,CT,15,15,matched
+544,Devon,CT,16,16,matched
+544,Devon,CT,17,17,matched
+544,Devon,CT,18,18,matched
+546,Montville,CT,5,5,matched
+546,Montville,CT,6,6,matched
+54605,"Pratt & Whitney, East Hartford",CT,001,001,matched
+55042,Bridgeport Energy,CT,BE1,BE1,matched
+55042,Bridgeport Energy,CT,BE2,BE2,matched
+55126,Milford Power Company LLC,CT,CT01,CT01,matched
+55126,Milford Power Company LLC,CT,CT02,CT02,matched
+55149,Lake Road Generating Company,CT,LRG1,LRG1,matched
+55149,Lake Road Generating Company,CT,LRG2,LRG2,matched
+55149,Lake Road Generating Company,CT,LRG3,LRG3,matched
+55517,"Wallingford Energy, LLC",CT,CT01,CT01,matched
+55517,"Wallingford Energy, LLC",CT,CT02,CT02,matched
+55517,"Wallingford Energy, LLC",CT,CT03,CT03,matched
+55517,"Wallingford Energy, LLC",CT,CT04,CT04,matched
+55517,"Wallingford Energy, LLC",CT,CT05,CT05,matched
+55517,"Wallingford Energy, LLC",CT,CT06,CT06,matched
+55517,"Wallingford Energy, LLC",CT,CT07,CT07,matched
+56047,CPV Towantic Energy Center,CT,1,1,matched
+56047,CPV Towantic Energy Center,CT,2,2,matched
+562,Middletown,CT,,10,cems_only
+562,Middletown,CT,12,12,matched
+562,Middletown,CT,13,13,matched
+562,Middletown,CT,14,14,matched
+562,Middletown,CT,15,15,matched
+562,Middletown,CT,2,2,matched
+562,Middletown,CT,3,3,matched
+562,Middletown,CT,4,4,matched
+56629,Waterbury Generation,CT,10,10,matched
+56798,Kleen Energy Systems Project,CT,U1,U1,matched
+56798,Kleen Energy Systems Project,CT,U2,U2,matched
+568,Bridgeport Harbor Station,CT,,BHB4,cems_only
+568,Bridgeport Harbor Station,CT,BHB1,,coats_only
+568,Bridgeport Harbor Station,CT,BHB2,,coats_only
+568,Bridgeport Harbor Station,CT,BHB3,BHB3,matched
+568,Bridgeport Harbor Station,CT,BHB5,BHB5,matched
+6156,New Haven Harbor,CT,NHB1,NHB1,matched
+6156,New Haven Harbor,CT,NHHS2,NHHS2,matched
+6156,New Haven Harbor,CT,NHHS3,NHHS3,matched
+6156,New Haven Harbor,CT,NHHS4,NHHS4,matched
+6635,Alfred L Pierce Generating Station,CT,AP-1,AP-1,matched
+10030,Energy Center Dover LLC,DE,2,2,matched
+10030,Energy Center Dover LLC,DE,3,3,matched
+52193,Delaware City Refinery,DE,,DCPP4,cems_only
+52193,Delaware City Refinery,DE,CCU 1,,coats_only
+52193,Delaware City Refinery,DE,CCU 2,,coats_only
+52193,Delaware City Refinery,DE,TURBINE GENERATORS,,coats_only
+57349,Garrison Energy Center,DE,2,,coats_only
+57349,Garrison Energy Center,DE,1,1,matched
+591,Christiana Substation,DE,11,11,matched
+591,Christiana Substation,DE,14,14,matched
+593,Edge Moor,DE,,10,cems_only
+593,Edge Moor,DE,3,3,matched
+593,Edge Moor,DE,4,4,matched
+593,Edge Moor,DE,5,5,matched
+594,Indian River,DE,,10,cems_only
+594,Indian River,DE,1,,coats_only
+594,Indian River,DE,2,,coats_only
+594,Indian River,DE,3,,coats_only
+594,Indian River,DE,4,4,matched
+7153,Hay Road,DE,**3,**3,matched
+7153,Hay Road,DE,1,1,matched
+7153,Hay Road,DE,2,2,matched
+7153,Hay Road,DE,5,5,matched
+7153,Hay Road,DE,6,6,matched
+7153,Hay Road,DE,7,7,matched
+7318,Van Sant,DE,**11,**11,matched
+7962,Warren F. Sam Beasley Pwr Station,DE,1,1,matched
+7962,Warren F. Sam Beasley Pwr Station,DE,2,2,matched
+10176,MBTA South Boston Power Facility,MA,A,A,matched
+10176,MBTA South Boston Power Facility,MA,B,B,matched
+10307,Bellingham,MA,1,1,matched
+10307,Bellingham,MA,2,2,matched
+10726,MASSPOWER,MA,1,1,matched
+10726,MASSPOWER,MA,2,2,matched
+10823,Deer Island Treatment,MA,S42,S42,matched
+10823,Deer Island Treatment,MA,S43,S43,matched
+1588,Mystic,MA,,MJ-1,cems_only
+1588,Mystic,MA,4,,coats_only
+1588,Mystic,MA,5,,coats_only
+1588,Mystic,MA,6,,coats_only
+1588,Mystic,MA,7,7,matched
+1588,Mystic,MA,81,81,matched
+1588,Mystic,MA,82,82,matched
+1588,Mystic,MA,93,93,matched
+1588,Mystic,MA,94,94,matched
+1592,Medway Station,MA,J1T1,J1T1,matched
+1592,Medway Station,MA,J1T2,J1T2,matched
+1592,Medway Station,MA,J2T1,J2T1,matched
+1592,Medway Station,MA,J2T2,J2T2,matched
+1592,Medway Station,MA,J3T1,J3T1,matched
+1592,Medway Station,MA,J3T2,J3T2,matched
+1595,Kendall Green Energy LLC,MA,,S6,cems_only
+1595,Kendall Green Energy LLC,MA,1,,coats_only
+1595,Kendall Green Energy LLC,MA,2,2,matched
+1595,Kendall Green Energy LLC,MA,3,3,matched
+1595,Kendall Green Energy LLC,MA,4,4,matched
+1599,Canal Station,MA,1,1,matched
+1599,Canal Station,MA,2,2,matched
+1599,Canal Station,MA,3,3,matched
+1660,Potter,MA,3,3,matched
+1660,Potter,MA,4,4,matched
+1660,Potter,MA,5,5,matched
+1678,Waters River,MA,,1,cems_only
+1678,Waters River,MA,2,2,matched
+1682,Cleary Flood,MA,8,8,matched
+1682,Cleary Flood,MA,9,9,matched
+50002,Pittsfield Generating,MA,1,1,matched
+50002,Pittsfield Generating,MA,2,2,matched
+50002,Pittsfield Generating,MA,3,3,matched
+52026,Dartmouth Power,MA,,2,cems_only
+52026,Dartmouth Power,MA,1,1,matched
+54805,"Milford Power, LLC",MA,1,1,matched
+55026,Dighton,MA,1,1,matched
+55041,Berkshire Power,MA,1,1,matched
+55079,Millennium Power,MA,1,1,matched
+55211,Bellingham Power Generation LLC,MA,1,1,matched
+55211,Bellingham Power Generation LLC,MA,2,2,matched
+55212,Blackstone Power Generation LLC,MA,1,1,matched
+55212,Blackstone Power Generation LLC,MA,2,2,matched
+55317,Fore River Energy Center,MA,11,11,matched
+55317,Fore River Energy Center,MA,12,12,matched
+59882,Exelon West Medway II,MA,J4,J4,matched
+59882,Exelon West Medway II,MA,J5,J5,matched
+6081,Stony Brook Energy Center,MA,001,001,matched
+6081,Stony Brook Energy Center,MA,002,002,matched
+6081,Stony Brook Energy Center,MA,003,003,matched
+6081,Stony Brook Energy Center,MA,004,004,matched
+6081,Stony Brook Energy Center,MA,005,005,matched
+60903,Salem Harbor Station NGCC,MA,1,1,matched
+60903,Salem Harbor Station NGCC,MA,2,2,matched
+63559,MMWEC Simple Cycle Gas Turbine,MA,1,1,matched
+10678,AES Warrior Run,MD,001,001,matched
+1554,Herbert A Wagner,MD,1,1,matched
+1554,Herbert A Wagner,MD,2,2,matched
+1554,Herbert A Wagner,MD,3,3,matched
+1554,Herbert A Wagner,MD,4,4,matched
+1556,Perryman,MD,CT2,,coats_only
+1556,Perryman,MD,**51,**51,matched
+1556,Perryman,MD,6-1,6-1,matched
+1556,Perryman,MD,6-2,6-2,matched
+1556,Perryman,MD,CT1,CT1,matched
+1556,Perryman,MD,CT3,CT3,matched
+1556,Perryman,MD,CT4,CT4,matched
+1564,Vienna,MD,8,8,matched
+1571,Chalk Point,MD,**GT3,**GT3,matched
+1571,Chalk Point,MD,**GT4,**GT4,matched
+1571,Chalk Point,MD,**GT5,**GT5,matched
+1571,Chalk Point,MD,**GT6,**GT6,matched
+1571,Chalk Point,MD,1,1,matched
+1571,Chalk Point,MD,2,2,matched
+1571,Chalk Point,MD,3,3,matched
+1571,Chalk Point,MD,4,4,matched
+1571,Chalk Point,MD,GT2,GT2,matched
+1571,Chalk Point,MD,SMECO,SMECO,matched
+1572,Dickerson,MD,1,1,matched
+1572,Dickerson,MD,2,2,matched
+1572,Dickerson,MD,3,3,matched
+1572,Dickerson,MD,GT2,GT2,matched
+1572,Dickerson,MD,GT3,GT3,matched
+1573,Morgantown,MD,1,1,matched
+1573,Morgantown,MD,2,2,matched
+1573,Morgantown,MD,GT3,GT3,matched
+1573,Morgantown,MD,GT4,GT4,matched
+1573,Morgantown,MD,GT5,GT5,matched
+1573,Morgantown,MD,GT6,GT6,matched
+54832,Brandywine Power Facility,MD,1,1,matched
+54832,Brandywine Power Facility,MD,2,2,matched
+56846,CPV St. Charles Energy Center,MD,GT1,GT1,matched
+56846,CPV St. Charles Energy Center,MD,GT2,GT2,matched
+59073,Cove Point LNG Terminal,MD,,214JA,cems_only
+59073,Cove Point LNG Terminal,MD,,214JB,cems_only
+59073,Cove Point LNG Terminal,MD,B921A,B921A,matched
+59073,Cove Point LNG Terminal,MD,B921B,B921B,matched
+59073,Cove Point LNG Terminal,MD,GT501A,GT501A,matched
+59073,Cove Point LNG Terminal,MD,GT501B,GT501B,matched
+59220,Wildcat Point Generation Facility,MD,CT1,CT1,matched
+59220,Wildcat Point Generation Facility,MD,CT2,CT2,matched
+602,Brandon Shores,MD,1,1,matched
+602,Brandon Shores,MD,2,2,matched
+60302,Keys Energy Center,MD,11,11,matched
+60302,Keys Energy Center,MD,12,12,matched
+7835,Rock Springs Generating Facility,MD,1,1,matched
+7835,Rock Springs Generating Facility,MD,2,2,matched
+7835,Rock Springs Generating Facility,MD,3,3,matched
+7835,Rock Springs Generating Facility,MD,4,4,matched
+1507,William F Wyman,ME,1,,coats_only
+1507,William F Wyman,ME,2,,coats_only
+1507,William F Wyman,ME,3,3,matched
+1507,William F Wyman,ME,4,4,matched
+50243,Bucksport Generation LLC,ME,B5,,coats_only
+50243,Bucksport Generation LLC,ME,GEN4,GEN4,matched
+55031,Androscoggin Energy,ME,CT01,CT01,matched
+55031,Androscoggin Energy,ME,CT02,CT02,matched
+55031,Androscoggin Energy,ME,CT03,CT03,matched
+55068,Maine Independence Station,ME,1,1,matched
+55068,Maine Independence Station,ME,2,2,matched
+55100,Rumford Power,ME,1,1,matched
+55294,Westbrook Energy Center,ME,1,1,matched
+55294,Westbrook Energy Center,ME,2,2,matched
+2364,Merrimack,NH,,CT1,cems_only
+2364,Merrimack,NH,,CT2,cems_only
+2364,Merrimack,NH,1,1,matched
+2364,Merrimack,NH,2,2,matched
+2367,Schiller,NH,,CT1,cems_only
+2367,Schiller,NH,4,4,matched
+2367,Schiller,NH,5,5,matched
+2367,Schiller,NH,6,6,matched
+55170,Granite Ridge Energy,NH,0001,0001,matched
+55170,Granite Ridge Energy,NH,0002,0002,matched
+55661,Newington Energy,NH,1,1,matched
+55661,Newington Energy,NH,2,2,matched
+8002,Newington,NH,1,1,matched
+10308,Sayreville Power LP,NJ,1001,1001,matched
+10308,Sayreville Power LP,NJ,1002,1002,matched
+10751,"Camden Plant Holding, LLC",NJ,004001,,coats_only
+10751,"Camden Plant Holding, LLC",NJ,002001,002001,matched
+2379,Carlls Corner Energy Center,NJ,002001,002001,matched
+2379,Carlls Corner Energy Center,NJ,003001,003001,matched
+2390,Sayreville,NJ,012001,012001,matched
+2390,Sayreville,NJ,014001,014001,matched
+2390,Sayreville,NJ,015001,015001,matched
+2390,Sayreville,NJ,016001,016001,matched
+2393,Gilbert Generating Station,NJ,04,04,matched
+2393,Gilbert Generating Station,NJ,05,05,matched
+2393,Gilbert Generating Station,NJ,06,06,matched
+2393,Gilbert Generating Station,NJ,07,07,matched
+2393,Gilbert Generating Station,NJ,9,9,matched
+2398,Bergen Generating Station,NJ,1101,1101,matched
+2398,Bergen Generating Station,NJ,1201,1201,matched
+2398,Bergen Generating Station,NJ,1301,1301,matched
+2398,Bergen Generating Station,NJ,1401,1401,matched
+2398,Bergen Generating Station,NJ,2101,2101,matched
+2398,Bergen Generating Station,NJ,2201,2201,matched
+2399,Burlington Generating Station,NJ,12001,,coats_only
+2399,Burlington Generating Station,NJ,14001,,coats_only
+2399,Burlington Generating Station,NJ,16001,,coats_only
+2399,Burlington Generating Station,NJ,18001,,coats_only
+2399,Burlington Generating Station,NJ,28001,,coats_only
+2399,Burlington Generating Station,NJ,30001,,coats_only
+2399,Burlington Generating Station,NJ,32001,,coats_only
+2399,Burlington Generating Station,NJ,34001,,coats_only
+2399,Burlington Generating Station,NJ,121,121,matched
+2399,Burlington Generating Station,NJ,122,122,matched
+2399,Burlington Generating Station,NJ,123,123,matched
+2399,Burlington Generating Station,NJ,124,124,matched
+2404,Kearny Generating Station,NJ,16001,,coats_only
+2404,Kearny Generating Station,NJ,17001,,coats_only
+2404,Kearny Generating Station,NJ,121,121,matched
+2404,Kearny Generating Station,NJ,122,122,matched
+2404,Kearny Generating Station,NJ,123,123,matched
+2404,Kearny Generating Station,NJ,124,124,matched
+2404,Kearny Generating Station,NJ,131,131,matched
+2404,Kearny Generating Station,NJ,132,132,matched
+2404,Kearny Generating Station,NJ,133,133,matched
+2404,Kearny Generating Station,NJ,134,134,matched
+2404,Kearny Generating Station,NJ,141,141,matched
+2404,Kearny Generating Station,NJ,142,142,matched
+2406,Linden Generating Station,NJ,1101,1101,matched
+2406,Linden Generating Station,NJ,1201,1201,matched
+2406,Linden Generating Station,NJ,2101,2101,matched
+2406,Linden Generating Station,NJ,2201,2201,matched
+2406,Linden Generating Station,NJ,5,5,matched
+2406,Linden Generating Station,NJ,6,6,matched
+2406,Linden Generating Station,NJ,7,7,matched
+2406,Linden Generating Station,NJ,8,8,matched
+2411,Sewaren Generating Station,NJ,1,,coats_only
+2411,Sewaren Generating Station,NJ,12001,,coats_only
+2411,Sewaren Generating Station,NJ,2,,coats_only
+2411,Sewaren Generating Station,NJ,3,,coats_only
+2411,Sewaren Generating Station,NJ,4,,coats_only
+2411,Sewaren Generating Station,NJ,7,7,matched
+2434,Howard M Down,NJ,006001,,coats_only
+2434,Howard M Down,NJ,U11,U11,matched
+50006,Linden Cogeneration Facility,NJ,10001,,coats_only
+50006,Linden Cogeneration Facility,NJ,004001,004001,matched
+50006,Linden Cogeneration Facility,NJ,005001,005001,matched
+50006,Linden Cogeneration Facility,NJ,006001,006001,matched
+50006,Linden Cogeneration Facility,NJ,007001,007001,matched
+50006,Linden Cogeneration Facility,NJ,008001,008001,matched
+50006,Linden Cogeneration Facility,NJ,009001,009001,matched
+50561,Eagle Point Power Generation,NJ,0001,0001,matched
+50561,Eagle Point Power Generation,NJ,0002,0002,matched
+5083,Cumberland Energy Center,NJ,004001,004001,matched
+5083,Cumberland Energy Center,NJ,05001,05001,matched
+54640,Lakewood,NJ,001001,001001,matched
+54640,Lakewood,NJ,002001,002001,matched
+55239,"Red Oak Power, LLC",NJ,1,1,matched
+55239,"Red Oak Power, LLC",NJ,2,2,matched
+55239,"Red Oak Power, LLC",NJ,3,3,matched
+55938,Ocean Peaking Power,NJ,OPP3,OPP3,matched
+55938,Ocean Peaking Power,NJ,OPP4,OPP4,matched
+56963,West Deptford Energy Station,NJ,E101,E101,matched
+56963,West Deptford Energy Station,NJ,E102,E102,matched
+56964,Bayonne Energy Center,NJ,GT1,GT1,matched
+56964,Bayonne Energy Center,NJ,GT10,GT10,matched
+56964,Bayonne Energy Center,NJ,GT2,GT2,matched
+56964,Bayonne Energy Center,NJ,GT3,GT3,matched
+56964,Bayonne Energy Center,NJ,GT4,GT4,matched
+56964,Bayonne Energy Center,NJ,GT5,GT5,matched
+56964,Bayonne Energy Center,NJ,GT6,GT6,matched
+56964,Bayonne Energy Center,NJ,GT7,GT7,matched
+56964,Bayonne Energy Center,NJ,GT8,GT8,matched
+56964,Bayonne Energy Center,NJ,GT9,GT9,matched
+57839,Woodbridge Energy Center,NJ,0001,0001,matched
+57839,Woodbridge Energy Center,NJ,0002,0002,matched
+58079,Newark Energy Center,NJ,U001,U001,matched
+58079,Newark Energy Center,NJ,U002,U002,matched
+58235,Clayville,NJ,U1,U1,matched
+6776,West Station,NJ,002001,002001,matched
+7138,Forked River Power,NJ,002001,002001,matched
+7138,Forked River Power,NJ,003001,003001,matched
+7288,Sherman Avenue,NJ,1,1,matched
+8008,Mickleton Energy Center,NJ,001001,001001,matched
+10190,"Castleton Power, LLC",NY,1,1,matched
+10464,"Black River Generation, LLC",NY,E0001,E0001,matched
+10464,"Black River Generation, LLC",NY,E0002,E0002,matched
+10464,"Black River Generation, LLC",NY,E0003,E0003,matched
+10617,"Beaver Falls, LLC",NY,1,1,matched
+10619,Allegany Station No. 133,NY,00001,00001,matched
+10620,Carthage Energy,NY,1,1,matched
+10621,"Syracuse, LLC",NY,1,1,matched
+10725,Selkirk Cogen Partners,NY,CTG101,CTG101,matched
+10725,Selkirk Cogen Partners,NY,CTG201,CTG201,matched
+10725,Selkirk Cogen Partners,NY,CTG301,CTG301,matched
+2480,Danskammer Generating Station,NY,1,1,matched
+2480,Danskammer Generating Station,NY,2,2,matched
+2480,Danskammer Generating Station,NY,3,3,matched
+2480,Danskammer Generating Station,NY,4,4,matched
+2490,Arthur Kill,NY,20,20,matched
+2490,Arthur Kill,NY,30,30,matched
+2490,Arthur Kill,NY,CT0001,CT0001,matched
+2493,East River,NY,1,1,matched
+2493,East River,NY,2,2,matched
+2493,East River,NY,60,60,matched
+2493,East River,NY,70,70,matched
+2494,Gowanus Generating Station,NY,CT01-1,CT01-1,matched
+2494,Gowanus Generating Station,NY,CT01-2,CT01-2,matched
+2494,Gowanus Generating Station,NY,CT01-3,CT01-3,matched
+2494,Gowanus Generating Station,NY,CT01-4,CT01-4,matched
+2494,Gowanus Generating Station,NY,CT01-5,CT01-5,matched
+2494,Gowanus Generating Station,NY,CT01-6,CT01-6,matched
+2494,Gowanus Generating Station,NY,CT01-7,CT01-7,matched
+2494,Gowanus Generating Station,NY,CT01-8,CT01-8,matched
+2494,Gowanus Generating Station,NY,CT02-1,CT02-1,matched
+2494,Gowanus Generating Station,NY,CT02-2,CT02-2,matched
+2494,Gowanus Generating Station,NY,CT02-3,CT02-3,matched
+2494,Gowanus Generating Station,NY,CT02-4,CT02-4,matched
+2494,Gowanus Generating Station,NY,CT02-5,CT02-5,matched
+2494,Gowanus Generating Station,NY,CT02-6,CT02-6,matched
+2494,Gowanus Generating Station,NY,CT02-7,CT02-7,matched
+2494,Gowanus Generating Station,NY,CT02-8,CT02-8,matched
+2494,Gowanus Generating Station,NY,CT03-1,CT03-1,matched
+2494,Gowanus Generating Station,NY,CT03-2,CT03-2,matched
+2494,Gowanus Generating Station,NY,CT03-3,CT03-3,matched
+2494,Gowanus Generating Station,NY,CT03-4,CT03-4,matched
+2494,Gowanus Generating Station,NY,CT03-5,CT03-5,matched
+2494,Gowanus Generating Station,NY,CT03-6,CT03-6,matched
+2494,Gowanus Generating Station,NY,CT03-7,CT03-7,matched
+2494,Gowanus Generating Station,NY,CT03-8,CT03-8,matched
+2494,Gowanus Generating Station,NY,CT04-1,CT04-1,matched
+2494,Gowanus Generating Station,NY,CT04-2,CT04-2,matched
+2494,Gowanus Generating Station,NY,CT04-3,CT04-3,matched
+2494,Gowanus Generating Station,NY,CT04-4,CT04-4,matched
+2494,Gowanus Generating Station,NY,CT04-5,CT04-5,matched
+2494,Gowanus Generating Station,NY,CT04-6,CT04-6,matched
+2494,Gowanus Generating Station,NY,CT04-7,CT04-7,matched
+2494,Gowanus Generating Station,NY,CT04-8,CT04-8,matched
+2499,Narrows Generating Station,NY,CT01-1,CT01-1,matched
+2499,Narrows Generating Station,NY,CT01-2,CT01-2,matched
+2499,Narrows Generating Station,NY,CT01-3,CT01-3,matched
+2499,Narrows Generating Station,NY,CT01-4,CT01-4,matched
+2499,Narrows Generating Station,NY,CT01-5,CT01-5,matched
+2499,Narrows Generating Station,NY,CT01-6,CT01-6,matched
+2499,Narrows Generating Station,NY,CT01-7,CT01-7,matched
+2499,Narrows Generating Station,NY,CT01-8,CT01-8,matched
+2499,Narrows Generating Station,NY,CT02-1,CT02-1,matched
+2499,Narrows Generating Station,NY,CT02-2,CT02-2,matched
+2499,Narrows Generating Station,NY,CT02-3,CT02-3,matched
+2499,Narrows Generating Station,NY,CT02-4,CT02-4,matched
+2499,Narrows Generating Station,NY,CT02-5,CT02-5,matched
+2499,Narrows Generating Station,NY,CT02-6,CT02-6,matched
+2499,Narrows Generating Station,NY,CT02-7,CT02-7,matched
+2499,Narrows Generating Station,NY,CT02-8,CT02-8,matched
+2500,Ravenswood Generating Station,NY,,CT0004,cems_only
+2500,Ravenswood Generating Station,NY,,CT0005,cems_only
+2500,Ravenswood Generating Station,NY,,CT0006,cems_only
+2500,Ravenswood Generating Station,NY,,CT0007,cems_only
+2500,Ravenswood Generating Station,NY,,CT0008,cems_only
+2500,Ravenswood Generating Station,NY,,CT0009,cems_only
+2500,Ravenswood Generating Station,NY,10,10,matched
+2500,Ravenswood Generating Station,NY,20,20,matched
+2500,Ravenswood Generating Station,NY,30,30,matched
+2500,Ravenswood Generating Station,NY,CT0001,CT0001,matched
+2500,Ravenswood Generating Station,NY,CT0010,CT0010,matched
+2500,Ravenswood Generating Station,NY,CT0011,CT0011,matched
+2500,Ravenswood Generating Station,NY,CT02-1,CT02-1,matched
+2500,Ravenswood Generating Station,NY,CT02-2,CT02-2,matched
+2500,Ravenswood Generating Station,NY,CT02-3,CT02-3,matched
+2500,Ravenswood Generating Station,NY,CT02-4,CT02-4,matched
+2500,Ravenswood Generating Station,NY,CT03-1,CT03-1,matched
+2500,Ravenswood Generating Station,NY,CT03-2,CT03-2,matched
+2500,Ravenswood Generating Station,NY,CT03-3,CT03-3,matched
+2500,Ravenswood Generating Station,NY,CT03-4,CT03-4,matched
+2500,Ravenswood Generating Station,NY,UCC001,UCC001,matched
+2504,74th Street,NY,,120,cems_only
+2504,74th Street,NY,,121,cems_only
+2504,74th Street,NY,,122,cems_only
+2504,74th Street,NY,CT0001,CT0001,matched
+2504,74th Street,NY,CT0002,CT0002,matched
+2511,E F Barrett,NY,,U00010,cems_only
+2511,E F Barrett,NY,10,10,matched
+2511,E F Barrett,NY,20,20,matched
+2511,E F Barrett,NY,U00004,U00004,matched
+2511,E F Barrett,NY,U00005,U00005,matched
+2511,E F Barrett,NY,U00006,U00006,matched
+2511,E F Barrett,NY,U00007,U00007,matched
+2511,E F Barrett,NY,U00008,U00008,matched
+2511,E F Barrett,NY,U00009,U00009,matched
+2511,E F Barrett,NY,U00011,U00011,matched
+2511,E F Barrett,NY,U00012,U00012,matched
+2511,E F Barrett,NY,U00013,U00013,matched
+2511,E F Barrett,NY,U00014,U00014,matched
+2511,E F Barrett,NY,U00015,U00015,matched
+2511,E F Barrett,NY,U00016,U00016,matched
+2511,E F Barrett,NY,U00017,U00017,matched
+2511,E F Barrett,NY,U00018,U00018,matched
+2511,E F Barrett,NY,U00019,U00019,matched
+2514,Glenwood,NY,40,,coats_only
+2514,Glenwood,NY,50,,coats_only
+2514,Glenwood,NY,U00020,U00020,matched
+2514,Glenwood,NY,U00021,U00021,matched
+2516,Northport,NY,1,1,matched
+2516,Northport,NY,2,2,matched
+2516,Northport,NY,3,3,matched
+2516,Northport,NY,4,4,matched
+2516,Northport,NY,UGT001,UGT001,matched
+2517,Port Jefferson Energy Center,NY,1,,coats_only
+2517,Port Jefferson Energy Center,NY,2,,coats_only
+2517,Port Jefferson Energy Center,NY,3,3,matched
+2517,Port Jefferson Energy Center,NY,4,4,matched
+2517,Port Jefferson Energy Center,NY,UGT001,UGT001,matched
+2517,Port Jefferson Energy Center,NY,UGT002,UGT002,matched
+2517,Port Jefferson Energy Center,NY,UGT003,UGT003,matched
+2521,West Babylon Facility,NY,UGT001,UGT001,matched
+2527,Greenidge Generation LLC,NY,4,,coats_only
+2527,Greenidge Generation LLC,NY,5,,coats_only
+2527,Greenidge Generation LLC,NY,6,6,matched
+2539,Bethlehem Energy Center (Albany),NY,10001,10001,matched
+2539,Bethlehem Energy Center (Albany),NY,10002,10002,matched
+2539,Bethlehem Energy Center (Albany),NY,10003,10003,matched
+2594,Oswego Harbor Power,NY,3,,coats_only
+2594,Oswego Harbor Power,NY,5,5,matched
+2594,Oswego Harbor Power,NY,6,6,matched
+2625,Bowline Generating Station,NY,1,1,matched
+2625,Bowline Generating Station,NY,2,2,matched
+2628,Hillburn,NY,001,001,matched
+2632,Shoemaker,NY,1,1,matched
+2679,Freeport Power Plant No. 2,NY,5,5,matched
+2679,Freeport Power Plant No. 2,NY,CT3,CT3,matched
+2682,S A Carlson,NY,10,10,matched
+2682,S A Carlson,NY,20,20,matched
+2682,S A Carlson,NY,9,9,matched
+50292,Bethpage Energy Center,NY,GT1,GT1,matched
+50292,Bethpage Energy Center,NY,GT2,GT2,matched
+50292,Bethpage Energy Center,NY,GT3,GT3,matched
+50292,Bethpage Energy Center,NY,GT4,GT4,matched
+50449,Indeck-Silver Springs Energy Center,NY,1,1,matched
+50450,Indeck-Oswego Energy Center,NY,1,1,matched
+50451,Indeck-Yerkes Energy Center,NY,1,1,matched
+50458,Indeck-Corinth Energy Center,NY,1,1,matched
+50472,Covanta Niagara,NY,,BLR05,cems_only
+50472,Covanta Niagara,NY,R1B01,R1B01,matched
+50472,Covanta Niagara,NY,R1B02,R1B02,matched
+50744,Sterling Power Plant,NY,00001,00001,matched
+50978,Carr Street Generating Station,NY,A,A,matched
+50978,Carr Street Generating Station,NY,B,B,matched
+54034,Rensselaer Cogen,NY,1GTDBS,1GTDBS,matched
+54041,Lockport,NY,011854,011854,matched
+54041,Lockport,NY,011855,011855,matched
+54041,Lockport,NY,011856,011856,matched
+54076,Indeck-Olean Energy Center,NY,1,1,matched
+54114,KIAC Cogeneration,NY,GT1,GT1,matched
+54114,KIAC Cogeneration,NY,GT2,GT2,matched
+54131,"World Generation X, LLC",NY,NTCT1,NTCT1,matched
+54149,Nissequogue Energy Center,NY,1,1,matched
+54547,Independence,NY,1,1,matched
+54547,Independence,NY,2,2,matched
+54547,Independence,NY,3,3,matched
+54547,Independence,NY,4,4,matched
+54574,"Saranac Power Partners, LP",NY,00001,00001,matched
+54574,"Saranac Power Partners, LP",NY,00002,00002,matched
+54592,Massena Energy Facility,NY,001,001,matched
+54593,Batavia Energy,NY,1,1,matched
+54914,Brooklyn Navy Yard Cogeneration,NY,1,1,matched
+54914,Brooklyn Navy Yard Cogeneration,NY,2,2,matched
+55375,Astoria Energy,NY,CT1,CT1,matched
+55375,Astoria Energy,NY,CT2,CT2,matched
+55375,Astoria Energy,NY,CT3,CT3,matched
+55375,Astoria Energy,NY,CT4,CT4,matched
+55405,Athens Generating Company,NY,1,1,matched
+55405,Athens Generating Company,NY,2,2,matched
+55405,Athens Generating Company,NY,3,3,matched
+55699,Bayswater Peaking Facility,NY,1,1,matched
+55699,Bayswater Peaking Facility,NY,2,2,matched
+55786,Edgewood Energy,NY,CT01,CT01,matched
+55786,Edgewood Energy,NY,CT02,CT02,matched
+55787,Shoreham Energy,NY,CT01,CT01,matched
+55787,Shoreham Energy,NY,CT02,CT02,matched
+55969,"Hawkeye Energy Greenport, LLC",NY,U-01,U-01,matched
+56032,Equus  Power I,NY,0001,0001,matched
+56188,Pinelawn Power,NY,00001,00001,matched
+56196,Poletti 500 MW CC,NY,CTG7A,CTG7A,matched
+56196,Poletti 500 MW CC,NY,CTG7B,CTG7B,matched
+56234,Caithness Long Island Energy Center,NY,0001,0001,matched
+56259,"Empire Generating Co, LLC",NY,CT-1,CT-1,matched
+56259,"Empire Generating Co, LLC",NY,CT-2,CT-2,matched
+56940,Valley Energy Center,NY,1,1,matched
+56940,Valley Energy Center,NY,2,2,matched
+57185,Cricket Valley Energy Center,NY,U001,U001,matched
+57185,Cricket Valley Energy Center,NY,U002,U002,matched
+57185,Cricket Valley Energy Center,NY,U003,U003,matched
+7146,Wading River Facility,NY,UGT007,UGT007,matched
+7146,Wading River Facility,NY,UGT008,UGT008,matched
+7146,Wading River Facility,NY,UGT009,UGT009,matched
+7146,Wading River Facility,NY,UGT013,UGT013,matched
+7146,Wading River Facility,NY,UGT014,UGT014,matched
+7314,Richard M Flynn (Holtsville),NY,001,001,matched
+7869,Glenwood Landing Energy Center,NY,UGT011,UGT011,matched
+7869,Glenwood Landing Energy Center,NY,UGT012,UGT012,matched
+7869,Glenwood Landing Energy Center,NY,UGT013,UGT013,matched
+7909,Vernon Boulevard,NY,VB01,VB01,matched
+7909,Vernon Boulevard,NY,VB02,VB02,matched
+7910,23rd and 3rd,NY,2301,2301,matched
+7910,23rd and 3rd,NY,2302,2302,matched
+7912,Brentwood,NY,BW01,BW01,matched
+7913,Hell Gate,NY,HG01,HG01,matched
+7913,Hell Gate,NY,HG02,HG02,matched
+7914,Harlem River Yard,NY,HR01,HR01,matched
+7914,Harlem River Yard,NY,HR02,HR02,matched
+7915,North 1st,NY,NO1,NO1,matched
+8006,Roseton Generating LLC,NY,1,1,matched
+8006,Roseton Generating LLC,NY,2,2,matched
+8007,Holtsville Facility,NY,U00001,U00001,matched
+8007,Holtsville Facility,NY,U00002,U00002,matched
+8007,Holtsville Facility,NY,U00003,U00003,matched
+8007,Holtsville Facility,NY,U00004,U00004,matched
+8007,Holtsville Facility,NY,U00005,U00005,matched
+8007,Holtsville Facility,NY,U00006,U00006,matched
+8007,Holtsville Facility,NY,U00007,U00007,matched
+8007,Holtsville Facility,NY,U00008,U00008,matched
+8007,Holtsville Facility,NY,U00009,U00009,matched
+8007,Holtsville Facility,NY,U00010,U00010,matched
+8007,Holtsville Facility,NY,U00011,U00011,matched
+8007,Holtsville Facility,NY,U00012,U00012,matched
+8007,Holtsville Facility,NY,U00013,U00013,matched
+8007,Holtsville Facility,NY,U00014,U00014,matched
+8007,Holtsville Facility,NY,U00015,U00015,matched
+8007,Holtsville Facility,NY,U00016,U00016,matched
+8007,Holtsville Facility,NY,U00017,U00017,matched
+8007,Holtsville Facility,NY,U00018,U00018,matched
+8007,Holtsville Facility,NY,U00019,U00019,matched
+8007,Holtsville Facility,NY,U00020,U00020,matched
+8053,Pouch Terminal,NY,PT01,PT01,matched
+8906,Astoria Generating Station,NY,20,20,matched
+8906,Astoria Generating Station,NY,31RH,31RH,matched
+8906,Astoria Generating Station,NY,32SH,32SH,matched
+8906,Astoria Generating Station,NY,41SH,41SH,matched
+8906,Astoria Generating Station,NY,42RH,42RH,matched
+8906,Astoria Generating Station,NY,51RH,51RH,matched
+8906,Astoria Generating Station,NY,52SH,52SH,matched
+8906,Astoria Generating Station,NY,CT0001,CT0001,matched
+10113,Gilberton Power Company,PA,031,031,matched
+10113,Gilberton Power Company,PA,032,032,matched
+10143,Colver Green Energy,PA,AAB01,AAB01,matched
+10343,Mt. Carmel Cogeneration,PA,SG-101,SG-101,matched
+10603,Ebensburg Power Company,PA,031,031,matched
+10870,Hazleton Generation,PA,TURB2,TURB2,matched
+10870,Hazleton Generation,PA,TURB3,TURB3,matched
+10870,Hazleton Generation,PA,TURB4,TURB4,matched
+10870,Hazleton Generation,PA,TURBIN,TURBIN,matched
+3096,Brunot Island Power Station,PA,1A,,coats_only
+3096,Brunot Island Power Station,PA,2A,2A,matched
+3096,Brunot Island Power Station,PA,2B,2B,matched
+3096,Brunot Island Power Station,PA,3,3,matched
+3111,Mountain,PA,031,031,matched
+3111,Mountain,PA,032,032,matched
+3113,Portland,PA,5,5,matched
+3116,Tolna,PA,031,031,matched
+3116,Tolna,PA,032,032,matched
+3118,Conemaugh,PA,1,1,matched
+3118,Conemaugh,PA,2,2,matched
+3122,Homer City,PA,1,1,matched
+3122,Homer City,PA,2,2,matched
+3122,Homer City,PA,3,3,matched
+3130,Seward,PA,1,1,matched
+3130,Seward,PA,2,2,matched
+3131,Shawville,PA,1,1,matched
+3131,Shawville,PA,2,2,matched
+3131,Shawville,PA,3,3,matched
+3131,Shawville,PA,4,4,matched
+3132,Warren,PA,005,005,matched
+3136,Keystone,PA,1,1,matched
+3136,Keystone,PA,2,2,matched
+3138,New Castle,PA,3,3,matched
+3138,New Castle,PA,4,4,matched
+3138,New Castle,PA,5,5,matched
+3140,"Brunner Island, LLC",PA,1,1,matched
+3140,"Brunner Island, LLC",PA,2,2,matched
+3140,"Brunner Island, LLC",PA,3,3,matched
+3148,"Martins Creek, LLC",PA,3,3,matched
+3148,"Martins Creek, LLC",PA,4,4,matched
+3149,"Montour, LLC",PA,1,1,matched
+3149,"Montour, LLC",PA,2,2,matched
+3161,Eddystone Generating Station,PA,3,3,matched
+3161,Eddystone Generating Station,PA,4,4,matched
+3168,Richmond,PA,91,91,matched
+3168,Richmond,PA,92,92,matched
+3176,Hunlock Creek Generating LLC,PA,CT5,CT5,matched
+3176,Hunlock Creek Generating LLC,PA,CT6,CT6,matched
+50279,PEI Power Corporation,PA,2,2,matched
+50397,Pixelle Specialty Solutions,PA,,038,cems_only
+50397,Pixelle Specialty Solutions,PA,036,036,matched
+50397,Pixelle Specialty Solutions,PA,039,039,matched
+50463,Procter & Gamble Paper Products,PA,328001,328001,matched
+50463,Procter & Gamble Paper Products,PA,328002,328002,matched
+50611,"Rausch Creek Generation, LLC",PA,031,031,matched
+50776,Panther Creek Energy Facility,PA,1,1,matched
+50776,Panther Creek Energy Facility,PA,2,2,matched
+50888,Northampton Generating Plant,PA,NGC01,NGC01,matched
+50974,Scrubgrass Generating Plant,PA,1,1,matched
+50974,Scrubgrass Generating Plant,PA,2,2,matched
+54634,St. Nicholas Cogeneration Project,PA,1,1,matched
+54638,"Domtar Paper Company, LLC",PA,040,040,matched
+54638,"Domtar Paper Company, LLC",PA,041,041,matched
+54785,Grays Ferry Cogen Partnership,PA,2,2,matched
+54785,Grays Ferry Cogen Partnership,PA,25,25,matched
+55193,Ontelaunee Energy Center,PA,CT1,CT1,matched
+55193,Ontelaunee Energy Center,PA,CT2,CT2,matched
+55196,Springdale Generating Station (55196),PA,1,1,matched
+55196,Springdale Generating Station (55196),PA,2,2,matched
+55231,Liberty Electric Power Plant,PA,0001,0001,matched
+55231,Liberty Electric Power Plant,PA,0002,0002,matched
+55233,Handsome Lake Energy,PA,EU-1A,EU-1A,matched
+55233,Handsome Lake Energy,PA,EU-1B,EU-1B,matched
+55233,Handsome Lake Energy,PA,EU-2A,EU-2A,matched
+55233,Handsome Lake Energy,PA,EU-2B,EU-2B,matched
+55233,Handsome Lake Energy,PA,EU-3A,EU-3A,matched
+55233,Handsome Lake Energy,PA,EU-3B,EU-3B,matched
+55233,Handsome Lake Energy,PA,EU-4A,EU-4A,matched
+55233,Handsome Lake Energy,PA,EU-4B,EU-4B,matched
+55233,Handsome Lake Energy,PA,EU-5A,EU-5A,matched
+55233,Handsome Lake Energy,PA,EU-5B,EU-5B,matched
+55298,Fairless Energy Center,PA,1A,1A,matched
+55298,Fairless Energy Center,PA,1B,1B,matched
+55298,Fairless Energy Center,PA,2A,2A,matched
+55298,Fairless Energy Center,PA,2B,2B,matched
+55337,Helix Ironwood LLC,PA,0001,0001,matched
+55337,Helix Ironwood LLC,PA,0002,0002,matched
+55347,"Armstrong Power, LLC",PA,1,1,matched
+55347,"Armstrong Power, LLC",PA,2,2,matched
+55347,"Armstrong Power, LLC",PA,3,3,matched
+55347,"Armstrong Power, LLC",PA,4,4,matched
+55377,Gans Generating Facility,PA,8,8,matched
+55377,Gans Generating Facility,PA,9,9,matched
+55516,Fayette Power Company LLC,PA,CTG1,CTG1,matched
+55516,Fayette Power Company LLC,PA,CTG2,CTG2,matched
+55524,York Energy Center,PA,1,1,matched
+55524,York Energy Center,PA,2,2,matched
+55524,York Energy Center,PA,3,3,matched
+55524,York Energy Center,PA,5,5,matched
+55524,York Energy Center,PA,6,6,matched
+55654,Chambersburg Units 12 & 13,PA,12,12,matched
+55654,Chambersburg Units 12 & 13,PA,13,13,matched
+55667,"Lower Mount Bethel Energy, LLC",PA,CT01,CT01,matched
+55667,"Lower Mount Bethel Energy, LLC",PA,CT02,CT02,matched
+55690,Bethlehem Power Plant,PA,1,1,matched
+55690,Bethlehem Power Plant,PA,2,2,matched
+55690,Bethlehem Power Plant,PA,3,3,matched
+55690,Bethlehem Power Plant,PA,5,5,matched
+55690,Bethlehem Power Plant,PA,6,6,matched
+55690,Bethlehem Power Plant,PA,7,7,matched
+55710,Springdale Generating Station (55710),PA,3,3,matched
+55710,Springdale Generating Station (55710),PA,4,4,matched
+55801,"Marcus Hook Energy, LP",PA,0001,0001,matched
+55801,"Marcus Hook Energy, LP",PA,0002,0002,matched
+55801,"Marcus Hook Energy, LP",PA,0003,0003,matched
+55976,Hunterstown Combined Cycle,PA,CT101,CT101,matched
+55976,Hunterstown Combined Cycle,PA,CT201,CT201,matched
+55976,Hunterstown Combined Cycle,PA,CT301,CT301,matched
+56397,Hunlock Unit 4,PA,4,4,matched
+58420,Hamilton Liberty Generation Plant,PA,CT1,CT1,matched
+58420,Hamilton Liberty Generation Plant,PA,CT2,CT2,matched
+58426,Hamilton Patriot Generation Plant,PA,CT1,CT1,matched
+58426,Hamilton Patriot Generation Plant,PA,CT2,CT2,matched
+58933,Shell Chemical Appalachia LLC,PA,101,101,matched
+58933,Shell Chemical Appalachia LLC,PA,102,102,matched
+58933,Shell Chemical Appalachia LLC,PA,103,103,matched
+59906,Moxie Freedom Generation Plant,PA,201,201,matched
+59906,Moxie Freedom Generation Plant,PA,202,202,matched
+60357,Lackawanna Energy Center,PA,1,1,matched
+60357,Lackawanna Energy Center,PA,2,2,matched
+60357,Lackawanna Energy Center,PA,3,3,matched
+60368,Hummel Station,PA,CT1,CT1,matched
+60368,Hummel Station,PA,CT2,CT2,matched
+60368,Hummel Station,PA,CT3,CT3,matched
+60464,Tenaska Westmoreland Generating Station,PA,101,101,matched
+60464,Tenaska Westmoreland Generating Station,PA,102,102,matched
+60589,"CPV Fairview, LLC",PA,CT-1,CT-1,matched
+60589,"CPV Fairview, LLC",PA,CT-2,CT-2,matched
+61028,Hickory Run Energy Station,PA,CT1,CT1,matched
+61028,Hickory Run Energy Station,PA,CT2,CT2,matched
+61035,Birdsboro Power,PA,01,01,matched
+62565,Hill Top Energy Center,PA,01,01,matched
+8012,Croydon Generating Station,PA,11,11,matched
+8012,Croydon Generating Station,PA,12,12,matched
+8012,Croydon Generating Station,PA,21,21,matched
+8012,Croydon Generating Station,PA,22,22,matched
+8012,Croydon Generating Station,PA,31,31,matched
+8012,Croydon Generating Station,PA,32,32,matched
+8012,Croydon Generating Station,PA,41,41,matched
+8012,Croydon Generating Station,PA,42,42,matched
+3236,Manchester Street Station,RI,10,10,matched
+3236,Manchester Street Station,RI,11,11,matched
+3236,Manchester Street Station,RI,9,9,matched
+51030,Ocean State Power,RI,1,1,matched
+51030,Ocean State Power,RI,2,2,matched
+54324,Ocean State Power II,RI,3,3,matched
+54324,Ocean State Power II,RI,4,4,matched
+55048,"Tiverton Power, LLC",RI,1,1,matched
+55107,Rhode Island State Energy Center,RI,RISEP1,RISEP1,matched
+55107,Rhode Island State Energy Center,RI,RISEP2,RISEP2,matched
+10633,Hopewell Cogeneration Facility,VA,1,1,matched
+10633,Hopewell Cogeneration Facility,VA,2,2,matched
+10633,Hopewell Cogeneration Facility,VA,3,3,matched
+3775,Clinch River,VA,1,1,matched
+3775,Clinch River,VA,2,2,matched
+3785,Tasley Energy Center,VA,TA10,TA10,matched
+3797,Chesterfield Power Station,VA,**8A,**8A,matched
+3797,Chesterfield Power Station,VA,5,5,matched
+3797,Chesterfield Power Station,VA,6,6,matched
+3797,Chesterfield Power Station,VA,7,7,matched
+3804,Possum Point Power Station,VA,,5,cems_only
+3804,Possum Point Power Station,VA,6A,6A,matched
+3804,Possum Point Power Station,VA,6B,6B,matched
+3809,Yorktown Power Station,VA,3,3,matched
+52019,Doswell Limited Partnership,VA,501,501,matched
+52019,Doswell Limited Partnership,VA,502,502,matched
+52019,Doswell Limited Partnership,VA,601,601,matched
+52019,Doswell Limited Partnership,VA,602,602,matched
+52019,Doswell Limited Partnership,VA,CT1,CT1,matched
+52019,Doswell Limited Partnership,VA,CT2,CT2,matched
+52019,Doswell Limited Partnership,VA,CT3,CT3,matched
+52087,Elizabeth River Combustion Turbine Sta,VA,CT-1,CT-1,matched
+52087,Elizabeth River Combustion Turbine Sta,VA,CT-2,CT-2,matched
+52087,Elizabeth River Combustion Turbine Sta,VA,CT-3,CT-3,matched
+54304,Birchwood Power Facility,VA,001,001,matched
+54844,Gordonsville Power Station,VA,1,1,matched
+54844,Gordonsville Power Station,VA,2,2,matched
+55285,Wolf Hills Energy,VA,WH01,WH01,matched
+55285,Wolf Hills Energy,VA,WH02,WH02,matched
+55285,Wolf Hills Energy,VA,WH03,WH03,matched
+55285,Wolf Hills Energy,VA,WH04,WH04,matched
+55285,Wolf Hills Energy,VA,WH05,WH05,matched
+55285,Wolf Hills Energy,VA,WH06,WH06,matched
+55285,Wolf Hills Energy,VA,WH07,WH07,matched
+55285,Wolf Hills Energy,VA,WH08,WH08,matched
+55285,Wolf Hills Energy,VA,WH09,WH09,matched
+55285,Wolf Hills Energy,VA,WH10,WH10,matched
+55381,Commonwealth Chesapeake,VA,CT-001,CT-001,matched
+55381,Commonwealth Chesapeake,VA,CT-002,CT-002,matched
+55381,Commonwealth Chesapeake,VA,CT-003,CT-003,matched
+55381,Commonwealth Chesapeake,VA,CT-004,CT-004,matched
+55381,Commonwealth Chesapeake,VA,CT-005,CT-005,matched
+55381,Commonwealth Chesapeake,VA,CT-006,CT-006,matched
+55381,Commonwealth Chesapeake,VA,CT-007,CT-007,matched
+55439,Tenaska Virginia Generating Station,VA,CTGDB1,CTGDB1,matched
+55439,Tenaska Virginia Generating Station,VA,CTGDB2,CTGDB2,matched
+55439,Tenaska Virginia Generating Station,VA,CTGDB3,CTGDB3,matched
+55738,Buchanan Units 1 & 2,VA,1,1,matched
+55738,Buchanan Units 1 & 2,VA,2,2,matched
+55939,Warren County Power Station,VA,1A,1A,matched
+55939,Warren County Power Station,VA,1B,1B,matched
+55939,Warren County Power Station,VA,1C,1C,matched
+56807,Bear Garden Generating Station,VA,1A,1A,matched
+56807,Bear Garden Generating Station,VA,1B,1B,matched
+56808,Virginia City Hybrid Energy Center,VA,1,1,matched
+56808,Virginia City Hybrid Energy Center,VA,2,2,matched
+58260,Brunswick County Power Station,VA,1A,1A,matched
+58260,Brunswick County Power Station,VA,1B,1B,matched
+58260,Brunswick County Power Station,VA,1C,1C,matched
+59004,"Potomac Energy Center, LLC",VA,CT1,CT1,matched
+59004,"Potomac Energy Center, LLC",VA,CT2,CT2,matched
+59913,Greensville County Power Station,VA,1A,1A,matched
+59913,Greensville County Power Station,VA,1B,1B,matched
+59913,Greensville County Power Station,VA,1C,1C,matched
+7032,Gravel Neck Combustion Turbine,VA,3,3,matched
+7032,Gravel Neck Combustion Turbine,VA,4,4,matched
+7032,Gravel Neck Combustion Turbine,VA,5,5,matched
+7032,Gravel Neck Combustion Turbine,VA,6,6,matched
+7212,Darbytown Combustion Turbine,VA,1,1,matched
+7212,Darbytown Combustion Turbine,VA,2,2,matched
+7212,Darbytown Combustion Turbine,VA,3,3,matched
+7212,Darbytown Combustion Turbine,VA,4,4,matched
+7213,Clover Power Station,VA,1,1,matched
+7213,Clover Power Station,VA,2,2,matched
+7836,Marsh Run Generation Facility,VA,EU1,EU1,matched
+7836,Marsh Run Generation Facility,VA,EU2,EU2,matched
+7836,Marsh Run Generation Facility,VA,EU3,EU3,matched
+7837,Louisa Generation Facility,VA,EU1,EU1,matched
+7837,Louisa Generation Facility,VA,EU2,EU2,matched
+7837,Louisa Generation Facility,VA,EU3,EU3,matched
+7837,Louisa Generation Facility,VA,EU4,EU4,matched
+7837,Louisa Generation Facility,VA,EU5,EU5,matched
+7838,Remington Combustion Turbine Station,VA,1,1,matched
+7838,Remington Combustion Turbine Station,VA,2,2,matched
+7838,Remington Combustion Turbine Station,VA,3,3,matched
+7838,Remington Combustion Turbine Station,VA,4,4,matched
+7839,Ladysmith Combustion Turbine Sta,VA,1,1,matched
+7839,Ladysmith Combustion Turbine Sta,VA,2,2,matched
+7839,Ladysmith Combustion Turbine Sta,VA,3,3,matched
+7839,Ladysmith Combustion Turbine Sta,VA,4,4,matched
+7839,Ladysmith Combustion Turbine Sta,VA,5,5,matched
+3734,Berlin 5,VT,A,A,matched
+3734,Berlin 5,VT,B,B,matched
+3754,Penny Lane Gas Turbine,VT,CT1,CT1,matched
+3754,Penny Lane Gas Turbine,VT,CT2,CT2,matched
