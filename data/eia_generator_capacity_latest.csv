@@ -1,0 +1,1435 @@
+period,plantid,plantName,stateid,generatorid,unit,technology,energy_source_code,prime_mover_code,status,statusDescription,nameplate-capacity-mw,net-summer-capacity-mw,net-winter-capacity-mw
+2026-03,10567,Algonquin Windsor Locks,CT,GTG,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,40.0,35.0,45.0
+2026-03,10567,Algonquin Windsor Locks,CT,GTG2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,15.0,13.0,15.0
+2026-03,10567,Algonquin Windsor Locks,CT,STG,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,16.0,16.0,16.0
+2021-02,50498,Capitol District Energy Center,CT,GTG,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,39.8,52.4,61.3
+2021-02,50498,Capitol District Energy Center,CT,STG,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,30.7,,
+2026-03,540,Branford,CT,UN10,,Petroleum Liquids,KER,GT,OP,Operating,21.8,17.4,22.5
+2026-03,542,Cos Cob,CT,UN10,,Petroleum Liquids,KER,GT,OP,Operating,25.0,19.1,24.0
+2026-03,542,Cos Cob,CT,UN11,,Petroleum Liquids,KER,GT,OP,Operating,25.0,18.7,23.6
+2026-03,542,Cos Cob,CT,UN12,,Petroleum Liquids,KER,GT,OP,Operating,25.0,19.1,24.0
+2026-03,542,Cos Cob,CT,UN13,,Petroleum Liquids,KER,GT,OP,Operating,20.0,19.1,24.0
+2026-03,542,Cos Cob,CT,un14,,Petroleum Liquids,KER,GT,OP,Operating,20.0,19.6,23.5
+2026-03,544,Devon Station,CT,10,,Petroleum Liquids,KER,GT,OP,Operating,18.6,14.4,19.2
+2026-03,544,Devon Station,CT,11,,Petroleum Liquids,KER,GT,OP,Operating,51.0,29.2,38.8
+2026-03,544,Devon Station,CT,12,,Petroleum Liquids,KER,GT,OP,Operating,51.0,29.2,38.4
+2026-03,544,Devon Station,CT,13,,Petroleum Liquids,KER,GT,OP,Operating,51.0,29.9,38.9
+2026-03,544,Devon Station,CT,14,,Petroleum Liquids,KER,GT,OP,Operating,51.0,29.7,40.3
+2026-03,546,Montville Station,CT,10,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.7,2.7,2.7
+2026-03,546,Montville Station,CT,11,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.7,2.7,2.7
+2026-03,546,Montville Station,CT,5,,Natural Gas Steam Turbine,NG,ST,OP,Operating,75.0,81.0,83.0
+2026-03,546,Montville Station,CT,6,,Petroleum Liquids,RFO,ST,OP,Operating,414.9,410.0,410.0
+2026-03,54605,Pratt & Whitney,CT,FT-8,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,25.8,28.0,31.0
+2026-03,55042,Bridgeport Energy Project,CT,GEN1,BPE1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,170.0,180.0,195.0
+2026-03,55042,Bridgeport Energy Project,CT,GEN2,BPE1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,170.0,180.0,195.0
+2026-03,55042,Bridgeport Energy Project,CT,GEN3,BPE1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,180.0,178.0,185.0
+2026-03,55126,Milford Power Project,CT,CA01,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,289.0,256.2,291.2
+2026-03,55126,Milford Power Project,CT,CA02,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,289.0,253.9,290.2
+2026-03,55149,Lake Road Generating Plant,CT,U1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,280.0,278.0,295.0
+2026-03,55149,Lake Road Generating Plant,CT,U2,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,280.0,277.9,307.8
+2026-03,55149,Lake Road Generating Plant,CT,U3,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,280.0,272.9,295.1
+2026-03,55517,Wallingford Energy,CT,CTG1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,46.3,50.4
+2026-03,55517,Wallingford Energy,CT,CTG2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,44.5,48.8
+2026-03,55517,Wallingford Energy,CT,CTG3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,45.1,49.0
+2026-03,55517,Wallingford Energy,CT,CTG4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,44.2,50.3
+2026-03,55517,Wallingford Energy,CT,CTG5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,46.6,50.3
+2026-03,55517,Wallingford Energy,CT,CTG6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,45.3,50.4
+2026-03,55517,Wallingford Energy,CT,CTG7,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,46.0,50.8
+2026-03,557,Tunnel,CT,1,,Conventional Hydroelectric,WAT,HY,OP,Operating,1.0,0.8,1.1
+2026-03,557,Tunnel,CT,10,,Petroleum Liquids,JF,GT,SB,Standby/Backup: available for service but not normally used,18.5,16.5,21.8
+2026-03,557,Tunnel,CT,2,,Conventional Hydroelectric,WAT,HY,OP,Operating,1.0,0.8,1.1
+2026-03,56047,CPV Towantic Energy Center,CT,CTG1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,280.5,249.5,290.4
+2026-03,56047,CPV Towantic Energy Center,CT,CTG2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,280.5,234.0,281.3
+2026-03,56047,CPV Towantic Energy Center,CT,STG,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,280.5,260.3,287.9
+2026-03,561,Franklin Drive,CT,UN19,,Petroleum Liquids,KER,GT,OP,Operating,21.8,16.1,21.2
+2026-03,56189,"Waterside Power, LLC",CT,4,,Petroleum Liquids,DFO,GT,OP,Operating,23.2,23.3,23.9
+2026-03,56189,"Waterside Power, LLC",CT,5,,Petroleum Liquids,DFO,GT,OP,Operating,23.2,23.3,23.9
+2026-03,56189,"Waterside Power, LLC",CT,7,,Petroleum Liquids,DFO,GT,OP,Operating,23.2,23.3,23.9
+2026-03,562,Middletown,CT,10,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,18.5,17.2,22.1
+2026-03,562,Middletown,CT,2,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,113.6,117.0,120.0
+2026-03,562,Middletown,CT,3,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,239.4,236.0,245.0
+2026-03,562,Middletown,CT,4,,Petroleum Liquids,RFO,ST,OS,Out of service and NOT expected to return to service in next calendar year,414.9,400.0,402.0
+2023-05,563,South Meadow,CT,11,,Petroleum Liquids,KER,GT,SB,Standby/Backup: available for service but not normally used,41.8,35.7,46.9
+2023-05,563,South Meadow,CT,12,,Petroleum Liquids,KER,GT,SB,Standby/Backup: available for service but not normally used,41.8,37.7,47.8
+2023-05,563,South Meadow,CT,13,,Petroleum Liquids,KER,GT,SB,Standby/Backup: available for service but not normally used,41.8,38.3,47.9
+2023-05,563,South Meadow,CT,14,,Petroleum Liquids,KER,GT,SB,Standby/Backup: available for service but not normally used,41.8,36.7,46.3
+2026-03,565,Torrington,CT,UN10,,Petroleum Liquids,KER,GT,OP,Operating,21.8,17.4,22.5
+2026-03,56629,Waterbury Generation,CT,10,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,96.0,96.0,100.0
+2026-03,56798,Kleen Energy Systems Project,CT,ST,CC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,295.0,268.0,233.0
+2026-03,56798,Kleen Energy Systems Project,CT,U1,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,199.0,177.0,195.0
+2026-03,56798,Kleen Energy Systems Project,CT,U2,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,199.0,177.0,195.0
+2021-05,568,Bridgeport Station,CT,3,,Conventional Steam Coal,SUB,ST,OP,Operating,400.0,257.6,323.5
+2021-09,568,Bridgeport Station,CT,4,,Petroleum Liquids,KER,GT,OP,Operating,18.6,16.6,21.9
+2026-03,568,Bridgeport Station,CT,501,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,375.7,334.0,362.0
+2026-03,568,Bridgeport Station,CT,502,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,200.6,162.2,153.8
+2023-04,581,North Main Street,CT,5,,Petroleum Liquids,DFO,GT,OP,Operating,19.0,15.3,18.8
+2026-03,6156,New Haven Steam,CT,1,,Petroleum Liquids,RFO,ST,OP,Operating,460.0,432.6,453.3
+2026-03,6156,New Haven Steam,CT,2,,Petroleum Liquids,KER,GT,OP,Operating,60.5,43.2,47.7
+2026-03,6156,New Haven Steam,CT,3,,Petroleum Liquids,KER,GT,OP,Operating,60.5,43.2,47.7
+2026-03,6156,New Haven Steam,CT,4,,Petroleum Liquids,KER,GT,OP,Operating,60.5,43.2,47.7
+2026-03,6635,A L Pierce,CT,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,84.0,74.1,94.6
+2026-03,10030,Energy Center Dover,DE,COG1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,18.0,15.0,15.0
+2026-03,10030,Energy Center Dover,DE,KD-1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,50.0,44.0,50.0
+2026-03,10030,Energy Center Dover,DE,KD-2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,44.0,50.0
+2026-03,52193,Delaware City Plant,DE,CT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,92.0,65.0,72.0
+2026-03,52193,Delaware City Plant,DE,CT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,92.0,65.0,72.0
+2026-03,52193,Delaware City Plant,DE,G1,,Other Gases,OG,ST,OP,Operating,27.5,29.5,29.5
+2026-03,52193,Delaware City Plant,DE,G2,,Other Gases,OG,ST,OP,Operating,27.5,29.5,29.5
+2026-03,52193,Delaware City Plant,DE,G3,,Other Gases,OG,ST,SB,Standby/Backup: available for service but not normally used,75.0,66.0,66.0
+2026-03,52193,Delaware City Plant,DE,G4,,Other Gases,OG,ST,OP,Operating,10.0,10.0,10.0
+2026-03,57349,Garrison Energy Center LLC,DE,CTG1,GEC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,235.0,186.0,200.0
+2026-03,57349,Garrison Energy Center LLC,DE,STG2,GEC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,126.0,123.0,123.0
+2026-03,591,Christiana,DE,CH11,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,27.5,25.0,25.0
+2026-03,591,Christiana,DE,CH14,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,27.5,25.0,25.0
+2026-03,592,Delaware City 10,DE,DC10,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,18.5,18.0,18.0
+2026-03,593,Edge Moor,DE,10,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,12.5,12.0,15.0
+2026-03,593,Edge Moor,DE,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,75.0,86.0,86.0
+2026-03,593,Edge Moor,DE,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,176.8,171.0,172.0
+2026-03,593,Edge Moor,DE,5,,Natural Gas Steam Turbine,NG,ST,OP,Operating,446.0,438.0,438.0
+2026-03,594,Indian River Generating Station,DE,10,,Petroleum Liquids,DFO,GT,OP,Operating,18.6,16.1,16.1
+2025-01,594,Indian River Generating Station,DE,4,,Conventional Steam Coal,BIT,ST,OP,Operating,445.5,410.0,410.0
+2026-03,597,West Station (DE),DE,WEST,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,16.2,15.0,19.0
+2021-04,599,McKee Run,DE,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,113.6,103.1,104.1
+2026-03,7153,Hay Road,DE,HR1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,103.5,124.0,124.0
+2026-03,7153,Hay Road,DE,HR2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,103.5,124.0,124.0
+2026-03,7153,Hay Road,DE,HR3,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,122.0,124.0,124.0
+2026-03,7153,Hay Road,DE,HR4,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,207.0,192.0,192.0
+2026-03,7153,Hay Road,DE,HR5,CC2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,122.4,124.0,124.0
+2026-03,7153,Hay Road,DE,HR6,CC2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,122.4,124.0,124.0
+2026-03,7153,Hay Road,DE,HR7,CC2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,122.4,124.0,124.0
+2026-03,7153,Hay Road,DE,HR8,CC2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,195.0,192.0,192.0
+2026-03,7318,Van Sant Station,DE,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,45.1,42.0,42.0
+2026-03,7962,Warren F Sam Beasley Generation Station,DE,001,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,45.0,48.0,48.0
+2026-03,7962,Warren F Sam Beasley Generation Station,DE,002,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,51.0,50.0,50.0
+2020-02,10029,General Electric Aircraft Engines,MA,GEN5,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,10.0,8.5,8.5
+2020-02,10029,General Electric Aircraft Engines,MA,GEN6,,Natural Gas Steam Turbine,NG,ST,OP,Operating,10.0,8.5,8.5
+2020-02,10029,General Electric Aircraft Engines,MA,GEN7,,Natural Gas Steam Turbine,NG,ST,OP,Operating,12.5,6.8,7.8
+2026-03,10029,General Electric Aircraft Engines,MA,PV,,Solar Photovoltaic,SUN,PV,OP,Operating,1.5,1.5,1.5
+2026-03,10176,M Street Jet,MA,NO.6,,Petroleum Liquids,KER,GT,OP,Operating,69.0,50.0,68.0
+2026-03,10307,Bellingham Cogeneration Facility,MA,CT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,128.7,102.0,126.0
+2026-03,10307,Bellingham Cogeneration Facility,MA,CT2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,128.7,102.0,126.0
+2026-03,10307,Bellingham Cogeneration Facility,MA,ST1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,128.7,60.0,84.0
+2026-03,10726,Masspower,MA,GEN1,G321,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,90.0,83.0,95.0
+2026-03,10726,Masspower,MA,GEN2,G321,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,90.0,83.0,95.0
+2026-03,10726,Masspower,MA,GEN3,G321,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,80.9,79.0,90.0
+2026-03,10823,Deer Island Treatment Plant,MA,G101,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,26.0,22.0,27.0
+2026-03,10823,Deer Island Treatment Plant,MA,G201,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,26.0,22.0,27.0
+2026-03,10823,Deer Island Treatment Plant,MA,H101,,Conventional Hydroelectric,WAT,HY,OP,Operating,1.0,1.0,1.0
+2026-03,10823,Deer Island Treatment Plant,MA,H201,,Conventional Hydroelectric,WAT,HY,OP,Operating,1.0,1.0,1.0
+2026-03,10823,Deer Island Treatment Plant,MA,PV101,,Solar Photovoltaic,SUN,PV,OP,Operating,0.1,0.1,0.1
+2026-03,10823,Deer Island Treatment Plant,MA,S101,,Other Waste Biomass,OBG,ST,OP,Operating,17.5,9.0,17.5
+2026-03,10823,Deer Island Treatment Plant,MA,WT101,,Onshore Wind Turbine,WND,WT,OP,Operating,0.6,0.6,0.6
+2026-03,10823,Deer Island Treatment Plant,MA,WT102,,Onshore Wind Turbine,WND,WT,OP,Operating,0.6,0.6,0.6
+2026-03,1586,Exelon Framingham LLC,MA,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,14.2,10.1,14.2
+2026-03,1586,Exelon Framingham LLC,MA,GT2,,Petroleum Liquids,DFO,GT,OP,Operating,14.2,9.2,14.7
+2026-03,1586,Exelon Framingham LLC,MA,GT3,,Petroleum Liquids,DFO,GT,OP,Operating,14.2,11.3,15.3
+2021-05,1588,Mystic Generating Station,MA,7,,Petroleum Liquids,RFO,ST,OP,Operating,617.0,512.4,559.8
+2021-05,1588,Mystic Generating Station,MA,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,14.2,9.1,13.2
+2024-05,1588,Mystic Generating Station,MA,GT81,G941,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,278.6,224.7,268.2
+2024-05,1588,Mystic Generating Station,MA,GT82,G941,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,278.6,224.7,268.2
+2024-05,1588,Mystic Generating Station,MA,GT93,G942,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,278.6,227.4,270.5
+2024-05,1588,Mystic Generating Station,MA,GT94,G942,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,278.6,227.4,270.5
+2024-05,1588,Mystic Generating Station,MA,ST85,G941,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,315.0,254.0,303.2
+2024-05,1588,Mystic Generating Station,MA,ST96,G942,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,315.0,257.1,305.9
+2026-03,1592,Exelon Medway LLC,MA,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,45.0,42.0,58.8
+2026-03,1592,Exelon Medway LLC,MA,GT2,,Petroleum Liquids,DFO,GT,OP,Operating,45.0,39.8,60.9
+2026-03,1592,Exelon Medway LLC,MA,GT3,,Petroleum Liquids,DFO,GT,OP,Operating,45.0,41.1,60.7
+2026-03,1595,Kendall Square Station,MA,3,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,27.2,22.9,22.9
+2026-03,1595,Kendall Square Station,MA,GEN4,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,186.2,183.1,187.4
+2026-03,1595,Kendall Square Station,MA,JET1,,Petroleum Liquids,DFO,GT,OP,Operating,21.3,18.0,23.0
+2026-03,1599,Canal,MA,1,,Petroleum Liquids,RFO,ST,OP,Operating,585.0,560.0,567.0
+2026-03,1599,Canal,MA,2,,Petroleum Liquids,RFO,ST,OP,Operating,580.0,558.8,562.0
+2026-03,1599,Canal,MA,3,,Petroleum Liquids,DFO,GT,OP,Operating,330.0,330.0,367.7
+2022-05,1631,Doreen,MA,DORE,,Petroleum Liquids,KER,GT,OP,Operating,21.1,16.1,20.7
+2021-06,1642,Essential Power Massachusetts LLC,MA,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,113.6,91.8,100.1
+2022-05,1642,Essential Power Massachusetts LLC,MA,GT-1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.0,33.3,48.0
+2022-05,1642,Essential Power Massachusetts LLC,MA,GT-2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.0,33.4,48.0
+2022-05,1642,Essential Power Massachusetts LLC,MA,WS10,,Petroleum Liquids,KER,GT,OP,Operating,17.0,17.1,21.9
+2022-05,1643,Woodland Road,MA,WOOD,,Petroleum Liquids,KER,GT,OP,Operating,20.4,16.5,21.0
+2023-12,1660,Potter Station 2,MA,CC2,POT2,Natural Gas Fired Combined Cycle,NG,CT,OS,Out of service and NOT expected to return to service in next calendar year,76.0,62.6,77.6
+2023-12,1660,Potter Station 2,MA,CC3,POT2,Natural Gas Fired Combined Cycle,NG,CA,OS,Out of service and NOT expected to return to service in next calendar year,25.0,15.5,18.5
+2026-03,1660,Potter Station 2,MA,WAT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.0,52.6,57.4
+2026-03,1660,Potter Station 2,MA,WAT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.0,52.6,57.4
+2026-03,1678,Waters River,MA,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,21.3,16.0,22.0
+2026-03,1678,Waters River,MA,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,43.6,30.0,44.0
+2020-12,1682,Cleary Flood Hybrid,MA,8,,Petroleum Liquids,RFO,ST,OP,Operating,28.3,26.0,26.5
+2026-03,1682,Cleary Flood Hybrid,MA,9A,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,23.0,18.0,21.4
+2026-03,1682,Cleary Flood Hybrid,MA,BS1,,Batteries,MWH,BA,OP,Operating,3.0,2.9,3.0
+2026-03,1682,Cleary Flood Hybrid,MA,CA9,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,95.0,85.0,87.0
+2026-03,50002,Pittsfield Generating LP,MA,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,40.7,36.7,45.0
+2026-03,50002,Pittsfield Generating LP,MA,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,40.7,35.2,44.1
+2026-03,50002,Pittsfield Generating LP,MA,GEN3,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,40.7,38.2,45.2
+2026-03,50002,Pittsfield Generating LP,MA,GEN4,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,53.4,47.6,51.5
+2026-03,52026,Dartmouth Power Associates LP,MA,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,41.9,62.1,67.7
+2026-03,52026,Dartmouth Power Associates LP,MA,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,32.2,,
+2026-03,52026,Dartmouth Power Associates LP,MA,GEN3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,23.3,19.6,21.8
+2024-09,54586,Tanner Street Generation,MA,TRENT,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,57.9,58.0,58.0
+2024-09,54586,Tanner Street Generation,MA,VAX,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,27.1,17.0,19.0
+2026-03,54805,Milford Power LP,MA,GT-1,ST-1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,128.9,123.0,125.0
+2026-03,54805,Milford Power LP,MA,ST-1,ST-1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,120.4,81.8,98.1
+2021-03,54907,Mass Inst Tech Cntrl Utilities/Cogen Plt,MA,CTG1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,21.2,19.0,23.0
+2026-03,54907,Mass Inst Tech Cntrl Utilities/Cogen Plt,MA,GT200,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,21.7,17.7,20.7
+2026-03,54907,Mass Inst Tech Cntrl Utilities/Cogen Plt,MA,GT300,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,21.7,17.7,20.7
+2026-03,55026,Dighton Power Plant,MA,UNT1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,200.0,165.6,189.5
+2026-03,55041,Berkshire Power,MA,GEN2,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,289.0,229.2,246.8
+2026-03,55079,Millennium Power,MA,CT01,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,295.2,222.1,253.0
+2026-03,55079,Millennium Power,MA,ST01,CC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,132.3,108.0,122.9
+2026-03,55211,ANP Bellingham Energy Project,MA,U1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,289.0,258.1,286.9
+2026-03,55211,ANP Bellingham Energy Project,MA,U2,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,289.0,262.1,287.8
+2026-03,55212,ANP Blackstone Energy Project,MA,U1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,289.0,239.8,276.9
+2026-03,55212,ANP Blackstone Energy Project,MA,U2,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,289.0,241.9,281.9
+2026-03,55317,Fore River Generating Station,MA,GT11,G942,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,278.6,231.0,255.0
+2026-03,55317,Fore River Generating Station,MA,GT12,G942,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,278.6,231.0,255.0
+2026-03,55317,Fore River Generating Station,MA,ST15,G942,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,315.0,262.0,280.0
+2026-03,59882,Exelon West Medway II LLC,MA,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,131.8,94.4,103.5
+2026-03,59882,Exelon West Medway II LLC,MA,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,131.8,94.2,103.5
+2026-03,6081,Stony Brook,MA,1,,Petroleum Liquids,DFO,GT,OP,Operating,85.0,65.0,85.0
+2026-03,6081,Stony Brook,MA,2,,Petroleum Liquids,DFO,GT,OP,Operating,85.0,65.0,85.0
+2026-03,6081,Stony Brook,MA,5051S,,Solar Photovoltaic,SUN,PV,OP,Operating,6.9,6.9,6.9
+2026-03,6081,Stony Brook,MA,BS#1,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.0,2.0,2.0
+2026-03,6081,Stony Brook,MA,BS#2,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.0,2.0,2.0
+2026-03,6081,Stony Brook,MA,CA1,CC1,Petroleum Liquids,DFO,CA,OP,Operating,105.0,96.0,105.0
+2026-03,6081,Stony Brook,MA,CT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,85.0,69.7,87.0
+2026-03,6081,Stony Brook,MA,CT2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,85.0,69.7,87.0
+2026-03,6081,Stony Brook,MA,CT3,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,85.0,69.7,87.0
+2026-03,6081,Stony Brook,MA,EDSI,,Petroleum Liquids,DFO,IC,OP,Operating,0.6,0.6,0.6
+2026-03,60903,Salem Harbor Power Development LP,MA,1,0001,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,158.4,337.8,352.6
+2026-03,60903,Salem Harbor Power Development LP,MA,2,0002,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,158.4,337.2,357.8
+2026-03,60903,Salem Harbor Power Development LP,MA,3,0001,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,240.7,,
+2026-03,60903,Salem Harbor Power Development LP,MA,4,0002,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,240.7,,
+2026-03,63559,MMWEC Simple Cycle Gas Turbine,MA,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,65.0,63.0,67.0
+2024-05,10678,AES Warrior Run Cogeneration Facility,MD,GEN1,,Conventional Steam Coal,BIT,ST,OP,Operating,229.0,180.0,180.0
+2024-12,1554,Herbert A Wagner,MD,1,,Petroleum Liquids,DFO,ST,OP,Operating,132.8,126.0,126.0
+2020-05,1554,Herbert A Wagner,MD,2,,Conventional Steam Coal,RC,ST,OP,Operating,136.0,118.0,118.0
+2026-03,1554,Herbert A Wagner,MD,3,,Petroleum Liquids,DFO,ST,OP,Operating,359.0,305.0,305.0
+2026-03,1554,Herbert A Wagner,MD,4,,Petroleum Liquids,DFO,ST,OP,Operating,414.7,397.0,397.0
+2025-01,1554,Herbert A Wagner,MD,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,12.9,12.9
+2026-03,1556,Perryman,MD,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,53.1,52.0,64.8
+2026-03,1556,Perryman,MD,GT3,,Petroleum Liquids,DFO,GT,OP,Operating,53.1,51.0,63.6
+2026-03,1556,Perryman,MD,GT4,,Petroleum Liquids,DFO,GT,OP,Operating,53.1,52.0,64.8
+2026-03,1556,Perryman,MD,GT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,192.0,139.0,172.9
+2026-03,1556,Perryman,MD,GT6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,141.0,109.8,128.7
+2020-05,1560,Westport,MD,GT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,121.5,115.8,115.8
+2026-03,1564,Vienna Operations,MD,10,,Petroleum Liquids,DFO,GT,OP,Operating,18.6,14.3,14.3
+2026-03,1564,Vienna Operations,MD,8,,Petroleum Liquids,RFO,ST,OP,Operating,162.0,153.0,153.0
+2026-03,1571,Chalk Point Power,MD,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,659.0,595.0,614.0
+2026-03,1571,Chalk Point Power,MD,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,659.0,585.3,598.2
+2026-03,1571,Chalk Point Power,MD,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,18.0,20.0
+2026-03,1571,Chalk Point Power,MD,GT2,,Petroleum Liquids,DFO,GT,OP,Operating,35.0,26.0,26.0
+2026-03,1571,Chalk Point Power,MD,GT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,103.0,86.0,100.0
+2026-03,1571,Chalk Point Power,MD,GT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,103.0,86.0,100.0
+2026-03,1571,Chalk Point Power,MD,GT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,125.0,109.0,123.0
+2026-03,1571,Chalk Point Power,MD,GT6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,125.0,109.0,126.0
+2020-12,1571,Chalk Point LLC,MD,ST1,,Conventional Steam Coal,BIT,ST,OP,Operating,364.0,333.1,338.2
+2020-12,1571,Chalk Point LLC,MD,ST2,,Conventional Steam Coal,BIT,ST,OP,Operating,364.0,336.9,344.5
+2020-07,1572,Dickerson,MD,2,,Conventional Steam Coal,BIT,ST,OP,Operating,196.0,173.0,173.0
+2020-07,1572,Dickerson,MD,3,,Conventional Steam Coal,BIT,ST,OP,Operating,196.0,173.0,173.0
+2022-09,1572,Dickerson Power,MD,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,19.0,18.0,18.0
+2026-03,1572,Dickerson Power,MD,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,163.0,147.0,167.0
+2026-03,1572,Dickerson Power,MD,GT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,163.0,152.0,167.0
+2020-07,1572,Dickerson,MD,ST1,,Conventional Steam Coal,BIT,ST,OP,Operating,196.0,173.0,173.0
+2026-03,1573,Morgantown Generating Plant,MD,3,,Petroleum Liquids,DFO,GT,OP,Operating,65.0,54.0,59.0
+2026-03,1573,Morgantown Generating Plant,MD,4,,Petroleum Liquids,DFO,GT,OP,Operating,65.0,54.0,59.0
+2026-03,1573,Morgantown Generating Plant,MD,5,,Petroleum Liquids,DFO,GT,OP,Operating,65.0,54.0,59.0
+2026-03,1573,Morgantown Generating Plant,MD,6,,Petroleum Liquids,DFO,GT,OP,Operating,65.0,54.0,59.0
+2022-08,1573,Morgantown Generating Plant,MD,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,18.0,13.0,17.0
+2022-08,1573,Morgantown Generating Plant,MD,GT2,,Petroleum Liquids,DFO,GT,OP,Operating,18.0,13.0,17.0
+2022-05,1573,Morgantown Generating Plant,MD,ST1,,Conventional Steam Coal,BIT,ST,OP,Operating,626.0,596.0,596.0
+2022-05,1573,Morgantown Generating Plant,MD,ST2,,Conventional Steam Coal,BIT,ST,OP,Operating,626.0,609.0,609.0
+2026-03,54795,Domino Sugar Baltimore,MD,GEN1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,5.0,5.0,5.0
+2026-03,54795,Domino Sugar Baltimore,MD,GEN2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,2.5,2.5,2.5
+2026-03,54795,Domino Sugar Baltimore,MD,GEN4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,10.0,10.0,10.0
+2026-03,54832,Brandywine Power Facility,MD,1,F701,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,98.7,,
+2026-03,54832,Brandywine Power Facility,MD,2,F701,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,98.7,,
+2026-03,54832,Brandywine Power Facility,MD,3,F701,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,91.4,230.0,254.0
+2026-03,56668,NIH Cogeneration Facility,MD,CGT,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,28.0,27.6,28.4
+2026-03,56846,CPV St Charles Energy Center,MD,GTG1,G601,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,223.6,215.3,230.2
+2026-03,56846,CPV St Charles Energy Center,MD,GTG2,G601,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,223.6,213.8,230.6
+2026-03,56846,CPV St Charles Energy Center,MD,STGEN,G601,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,328.1,304.2,293.4
+2020-12,59073,Cove Point LNG Terminal,MD,111JA,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,9.4,8.5,9.4
+2020-12,59073,Cove Point LNG Terminal,MD,111JB,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,9.4,8.5,9.4
+2020-12,59073,Cove Point LNG Terminal,MD,111JC,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,9.4,8.5,9.4
+2020-12,59073,Cove Point LNG Terminal,MD,214JA,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,23.9,21.7,23.9
+2020-12,59073,Cove Point LNG Terminal,MD,214JB,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,23.9,21.7,23.9
+2020-12,59073,Cove Point LNG Terminal,MD,311JA,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,15.6,12.9,15.6
+2020-12,59073,Cove Point LNG Terminal,MD,5501,,All Other,OTH,OT,OP,Operating,3.0,3.0,3.0
+2020-12,59073,Cove Point LNG Terminal,MD,5502,,All Other,OTH,OT,OP,Operating,1.3,1.3,1.3
+2020-12,59073,Cove Point LNG Terminal,MD,5511,,All Other,OTH,OT,OP,Operating,1.7,1.7,1.7
+2020-12,59073,Cove Point LNG Terminal,MD,5EG,,Petroleum Liquids,DFO,IC,OP,Operating,1.0,1.0,1.0
+2020-12,59073,Cove Point LNG Terminal,MD,5STA,CC1,Natural Gas Steam Turbine,NG,ST,OP,Operating,65.0,40.0,40.0
+2020-12,59073,Cove Point LNG Terminal,MD,5STB,CC1,Natural Gas Steam Turbine,NG,ST,OP,Operating,65.0,40.0,40.0
+2026-03,59220,Wildcat Point Generation Facility,MD,CT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,310.3,252.3,285.8
+2026-03,59220,Wildcat Point Generation Facility,MD,CT2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,310.3,241.1,303.8
+2026-03,59220,Wildcat Point Generation Facility,MD,ST1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,493.0,497.9,500.0
+2026-03,602,Brandon Shores,MD,1,,Conventional Steam Coal,BIT,ST,OP,Operating,685.1,635.0,635.0
+2026-03,602,Brandon Shores,MD,2,,Conventional Steam Coal,BIT,ST,OP,Operating,685.1,638.0,638.0
+2026-03,60302,Key,MD,10,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,359.6,766.1,777.7
+2026-03,60302,Key,MD,11,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,235.5,,
+2026-03,60302,Key,MD,12,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,235.5,,
+2026-03,7835,Essential Power Rock Springs LLC,MD,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,167.3,167.3
+2026-03,7835,Essential Power Rock Springs LLC,MD,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,164.1,164.1
+2026-03,7835,Essential Power Rock Springs LLC,MD,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,169.0,169.0
+2026-03,7835,Essential Power Rock Springs LLC,MD,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,166.3,166.3
+2026-03,1507,William F Wyman Hybrid,ME,1,,Petroleum Liquids,RFO,ST,OP,Operating,50.0,50.1,49.5
+2026-03,1507,William F Wyman Hybrid,ME,2,,Petroleum Liquids,RFO,ST,OP,Operating,50.0,47.8,52.8
+2026-03,1507,William F Wyman Hybrid,ME,3,,Petroleum Liquids,RFO,ST,OP,Operating,113.6,110.9,113.8
+2026-03,1507,William F Wyman Hybrid,ME,4,,Petroleum Liquids,RFO,ST,OP,Operating,632.4,602.1,605.8
+2026-03,1507,William F Wyman Hybrid,ME,BESS,,Batteries,MWH,BA,OP,Operating,16.7,16.2,16.2
+2026-03,50243,Bucksport Generation LLC,ME,GEN4,CC1,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,186.8,178.0,183.1
+2025-09,55031,Androscoggin Energy Center,ME,CT01,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,54.5,48.9,55.5
+2025-09,55031,Androscoggin Energy Center,ME,CT02,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,54.5,40.7,55.1
+2025-09,55031,Androscoggin Energy Center,ME,CT03,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,54.5,40.6,54.0
+2026-03,55068,Maine Independence Station,ME,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,177.8,161.8,181.5
+2026-03,55068,Maine Independence Station,ME,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,177.8,162.1,185.0
+2026-03,55068,Maine Independence Station,ME,GEN3,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,194.6,173.7,181.5
+2026-03,55100,Rumford Power LLC,ME,UNT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,179.4,167.8,190.6
+2026-03,55100,Rumford Power LLC,ME,UNT2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,95.1,86.0,88.0
+2026-03,55294,Westbrook Energy Center Power Plant,ME,GTG1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,184.2,171.9,192.8
+2026-03,55294,Westbrook Energy Center Power Plant,ME,GTG2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,184.2,173.0,192.0
+2026-03,55294,Westbrook Energy Center Power Plant,ME,STG3,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,195.5,181.9,189.3
+2026-03,1016,Butler-Warner Generation Plant,NC,1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,28.8,20.0,25.0
+2026-03,1016,Butler-Warner Generation Plant,NC,10,,Solar Photovoltaic,SUN,PV,OP,Operating,1.0,1.0,1.0
+2026-03,1016,Butler-Warner Generation Plant,NC,11,,Batteries,MWH,BA,OP,Operating,0.5,0.5,0.5
+2026-03,1016,Butler-Warner Generation Plant,NC,2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,28.8,20.0,25.0
+2026-03,1016,Butler-Warner Generation Plant,NC,3,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,28.8,20.0,25.0
+2026-03,1016,Butler-Warner Generation Plant,NC,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,28.8,20.0,25.0
+2026-03,1016,Butler-Warner Generation Plant,NC,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,28.8,20.0,25.0
+2026-03,1016,Butler-Warner Generation Plant,NC,6,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,28.8,20.0,25.0
+2026-03,1016,Butler-Warner Generation Plant,NC,7,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,28.8,20.0,25.0
+2026-03,1016,Butler-Warner Generation Plant,NC,8,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,28.8,20.0,25.0
+2026-03,1016,Butler-Warner Generation Plant,NC,9,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,73.0,65.0,65.0
+2021-02,10378,CPI USA NC Southport,NC,GEN1,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,67.5,48.0,48.0
+2021-02,10378,CPI USA NC Southport,NC,GEN2,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,67.5,48.0,48.0
+2021-02,10379,CPI USA NC Roxboro,NC,GEN1,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,67.5,47.0,47.0
+2026-03,10382,Lumberton,NC,GEN1,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,34.7,34.7,34.7
+2026-03,10525,Craven County Wood Energy LP,NC,1UNI,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,50.0,47.0,47.0
+2026-03,2706,Asheville,NC,CT5,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,191.2,163.0,190.0
+2026-03,2706,Asheville,NC,CT7,CC2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,191.2,161.0,190.0
+2026-03,2706,Asheville,NC,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,211.7,160.0,185.0
+2026-03,2706,Asheville,NC,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,211.8,160.0,185.0
+2026-03,2706,Asheville,NC,ST6,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,102.8,85.0,90.0
+2026-03,2706,Asheville,NC,ST8,CC2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,102.8,85.0,90.0
+2026-03,2707,Blewett,NC,1,,Conventional Hydroelectric,WAT,HY,OP,Operating,3.2,4.0,4.0
+2026-03,2707,Blewett,NC,2,,Conventional Hydroelectric,WAT,HY,OP,Operating,3.2,4.0,4.0
+2026-03,2707,Blewett,NC,3,,Conventional Hydroelectric,WAT,HY,OP,Operating,3.2,4.0,4.0
+2026-03,2707,Blewett,NC,4,,Conventional Hydroelectric,WAT,HY,OP,Operating,5.0,5.0,5.0
+2026-03,2707,Blewett,NC,5,,Conventional Hydroelectric,WAT,HY,OP,Operating,5.0,5.0,5.0
+2026-03,2707,Blewett,NC,6,,Conventional Hydroelectric,WAT,HY,OP,Operating,5.0,5.0,5.0
+2026-03,2707,Blewett,NC,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,17.5,13.0,17.0
+2026-03,2707,Blewett,NC,GT2,,Petroleum Liquids,DFO,GT,OP,Operating,17.5,13.0,17.0
+2026-03,2707,Blewett,NC,GT3,,Petroleum Liquids,DFO,GT,OP,Operating,17.5,13.0,17.0
+2026-03,2707,Blewett,NC,GT4,,Petroleum Liquids,DFO,GT,OP,Operating,17.5,13.0,17.0
+2026-03,2712,Roxboro,NC,1,,Conventional Steam Coal,BIT,ST,OP,Operating,410.8,379.0,380.0
+2026-03,2712,Roxboro,NC,2,,Conventional Steam Coal,BIT,ST,OP,Operating,657.0,668.0,673.0
+2026-03,2712,Roxboro,NC,3,,Conventional Steam Coal,BIT,ST,OP,Operating,745.2,694.0,698.0
+2026-03,2712,Roxboro,NC,4,,Conventional Steam Coal,BIT,ST,OP,Operating,745.2,698.0,711.0
+2026-03,2716,W H Weatherspoon,NC,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,39.7,31.0,41.0
+2026-03,2716,W H Weatherspoon,NC,GT2,,Petroleum Liquids,DFO,GT,OP,Operating,39.7,31.0,41.0
+2026-03,2716,W H Weatherspoon,NC,GT3,,Petroleum Liquids,DFO,GT,OP,Operating,41.8,32.0,41.0
+2026-03,2716,W H Weatherspoon,NC,GT4,,Petroleum Liquids,DFO,GT,OP,Operating,41.8,30.0,41.0
+2024-11,2718,G G Allen,NC,1,,Conventional Steam Coal,BIT,ST,OP,Operating,163.2,120.0,125.0
+2021-11,2718,G G Allen,NC,2,,Conventional Steam Coal,BIT,ST,OP,Operating,163.2,162.0,167.0
+2021-02,2718,G G Allen,NC,3,,Conventional Steam Coal,BIT,ST,OP,Operating,272.0,258.0,270.0
+2021-11,2718,G G Allen,NC,4,,Conventional Steam Coal,BIT,ST,OP,Operating,278.0,257.0,267.0
+2024-08,2718,G G Allen,NC,5,,Conventional Steam Coal,BIT,ST,OP,Operating,272.0,259.0,259.0
+2026-03,2720,Buck,NC,CT11,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,185.3,182.0,206.0
+2026-03,2720,Buck,NC,CT12,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,185.3,182.0,206.0
+2026-03,2720,Buck,NC,ST10,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,327.3,304.0,306.0
+2026-03,2721,James E. Rogers Energy Complex,NC,5,,Conventional Steam Coal,BIT,ST,OP,Operating,621.0,544.0,546.0
+2026-03,2721,James E. Rogers Energy Complex,NC,6,,Conventional Steam Coal,BIT,ST,OP,Operating,909.5,844.0,849.0
+2026-03,2723,Dan River,NC,CT8,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,185.3,177.0,206.0
+2026-03,2723,Dan River,NC,CT9,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,185.3,177.0,206.0
+2026-03,2723,Dan River,NC,ST7,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,327.3,308.0,306.0
+2026-03,2727,Marshall (NC),NC,1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,348.5,370.0,380.0
+2026-03,2727,Marshall (NC),NC,2,,Conventional Steam Coal,BIT,ST,OP,Operating,348.5,370.0,380.0
+2026-03,2727,Marshall (NC),NC,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,711.0,658.0,658.0
+2026-03,2727,Marshall (NC),NC,4,,Conventional Steam Coal,BIT,ST,OP,Operating,711.0,660.0,660.0
+2026-03,50555,Rosemary Power Station,NC,GEN1,G785,Petroleum Liquids,DFO,CT,OP,Operating,86.0,72.6,89.9
+2026-03,50555,Rosemary Power Station,NC,GEN2,G785,Petroleum Liquids,DFO,CT,OP,Operating,40.0,30.6,37.0
+2026-03,50555,Rosemary Power Station,NC,GEN3,G785,Petroleum Liquids,DFO,CA,OP,Operating,54.0,48.0,53.9
+2026-03,54276,Univ of NC Chapel Hill Cogen Facility,NC,ES001,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.0,1.8,2.0
+2026-03,54276,Univ of NC Chapel Hill Cogen Facility,NC,ES002,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.0,1.8,2.0
+2026-03,54276,Univ of NC Chapel Hill Cogen Facility,NC,TG3,,Conventional Steam Coal,BIT,ST,OP,Operating,28.0,28.7,28.7
+2026-03,55116,Rockingham County CT Station,NC,CT1,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,195.5,165.0,179.0
+2026-03,55116,Rockingham County CT Station,NC,CT2,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,195.5,165.0,179.0
+2026-03,55116,Rockingham County CT Station,NC,CT3,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,195.5,165.0,179.0
+2026-03,55116,Rockingham County CT Station,NC,CT4,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,195.5,165.0,179.0
+2026-03,55116,Rockingham County CT Station,NC,CT5,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,195.5,165.0,179.0
+2026-03,56249,Anson County Generation Facility,NC,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56249,Anson County Generation Facility,NC,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56249,Anson County Generation Facility,NC,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56249,Anson County Generation Facility,NC,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56249,Anson County Generation Facility,NC,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56249,Anson County Generation Facility,NC,6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56292,Hamlet Generating Facility,NC,ES1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56292,Hamlet Generating Facility,NC,ES2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56292,Hamlet Generating Facility,NC,ES3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56292,Hamlet Generating Facility,NC,ES4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56292,Hamlet Generating Facility,NC,ES5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,56292,Hamlet Generating Facility,NC,ES6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.3,56.5,61.1
+2026-03,57029,Cleveland Cnty Generating Facility,NC,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,184.0,181.5,185.2
+2026-03,57029,Cleveland Cnty Generating Facility,NC,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,184.0,186.2,197.4
+2026-03,57029,Cleveland Cnty Generating Facility,NC,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,184.0,187.1,193.5
+2026-03,57029,Cleveland Cnty Generating Facility,NC,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,184.0,183.1,191.6
+2026-03,59325,Kings Mountain Energy Center,NC,KMEC1,KMEC,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,310.2,259.0,305.0
+2026-03,59325,Kings Mountain Energy Center,NC,KMEC2,KMEC,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,233.7,227.0,208.0
+2026-03,6250,Mayo,NC,1,,Conventional Steam Coal,BIT,ST,OP,Operating,763.2,704.0,713.0
+2026-03,7277,Lincoln Combustion,NC,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,73.0,94.0
+2026-03,7277,Lincoln Combustion,NC,10,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,73.0,96.0
+2026-03,7277,Lincoln Combustion,NC,11,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,73.0,95.0
+2026-03,7277,Lincoln Combustion,NC,12,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,73.0,94.0
+2026-03,7277,Lincoln Combustion,NC,13,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,72.0,93.0
+2026-03,7277,Lincoln Combustion,NC,14,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,72.0,94.0
+2026-03,7277,Lincoln Combustion,NC,15,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,73.0,94.0
+2026-03,7277,Lincoln Combustion,NC,16,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,73.0,93.0
+2026-03,7277,Lincoln Combustion,NC,17,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,536.4,365.0,402.0
+2026-03,7277,Lincoln Combustion,NC,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,74.0,96.0
+2026-03,7277,Lincoln Combustion,NC,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,73.0,95.0
+2026-03,7277,Lincoln Combustion,NC,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,73.0,94.0
+2026-03,7277,Lincoln Combustion,NC,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,72.0,93.0
+2026-03,7277,Lincoln Combustion,NC,6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,72.0,93.0
+2026-03,7277,Lincoln Combustion,NC,7,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,72.0,95.0
+2026-03,7277,Lincoln Combustion,NC,8,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,72.0,94.0
+2026-03,7277,Lincoln Combustion,NC,9,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,109.6,71.0,94.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,001,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,199.4,165.0,200.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,002,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,199.4,164.0,200.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,003,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,199.4,160.0,200.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,004,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,199.4,159.0,200.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,10,2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,191.2,178.0,215.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,199.4,152.0,200.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,7,1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,199.4,152.0,193.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,8,1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,199.4,152.0,193.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,9,2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,191.2,178.0,215.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,ST4,1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,195.5,171.0,184.0
+2026-03,7805,Sherwood H Smith Jr Energy Complex,NC,ST5,2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,271.1,252.0,250.0
+2026-03,7826,Rowan,NC,001,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,199.4,156.4,185.2
+2026-03,7826,Rowan,NC,002,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,199.4,162.9,184.4
+2026-03,7826,Rowan,NC,003,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,199.4,156.1,184.6
+2026-03,7826,Rowan,NC,4,G102,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,199.4,155.5,188.5
+2026-03,7826,Rowan,NC,5,G102,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,199.4,155.5,188.5
+2026-03,7826,Rowan,NC,STG,G102,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,195.0,188.0,188.0
+2026-03,8042,Belews Creek,NC,1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,1245.6,1110.0,1110.0
+2026-03,8042,Belews Creek,NC,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,1245.6,1110.0,1110.0
+2026-03,2362,Lost Nation,NH,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,18.0,14.0,18.1
+2026-03,2364,Merrimack,NH,1,,Conventional Steam Coal,BIT,ST,OP,Operating,113.6,108.0,108.0
+2026-03,2364,Merrimack,NH,2,,Conventional Steam Coal,BIT,ST,OS,Out of service and NOT expected to return to service in next calendar year,345.6,330.5,330.0
+2026-03,2364,Merrimack,NH,GT1,,Petroleum Liquids,JF,GT,OP,Operating,18.6,16.8,21.7
+2026-03,2364,Merrimack,NH,GT2,,Petroleum Liquids,JF,GT,OP,Operating,18.6,16.8,21.3
+2025-12,2367,Schiller,NH,4,,Conventional Steam Coal,BIT,ST,OS,Out of service and NOT expected to return to service in next calendar year,50.0,47.5,48.0
+2025-12,2367,Schiller,NH,5,,Wood/Wood Waste Biomass,WDS,ST,OS,Out of service and NOT expected to return to service in next calendar year,50.0,43.1,42.6
+2025-12,2367,Schiller,NH,6,,Conventional Steam Coal,BIT,ST,OS,Out of service and NOT expected to return to service in next calendar year,50.0,47.9,48.6
+2026-03,2367,Schiller,NH,GT1,,Petroleum Liquids,JF,GT,OP,Operating,21.2,17.0,18.0
+2026-03,2369,White Lake,NH,GT1,,Petroleum Liquids,JF,GT,OP,Operating,18.6,17.5,22.4
+2026-03,55170,Granite Ridge,NH,CT11,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,260.0,218.0,243.0
+2026-03,55170,Granite Ridge,NH,CT12,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,260.0,218.0,243.0
+2026-03,55170,Granite Ridge,NH,STG,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,270.0,232.0,243.0
+2026-03,55661,Newington Energy Center,NH,GT-1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,185.6,164.4,201.5
+2026-03,55661,Newington Energy Center,NH,GT-2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,185.6,164.4,201.5
+2026-03,55661,Newington Energy Center,NH,ST,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,234.3,231.7,230.0
+2026-03,58054,Burgess BioPower,NH,ST01,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,75.0,67.5,67.5
+2026-03,8002,Newington,NH,1,,Petroleum Liquids,RFO,ST,OP,Operating,414.0,400.2,400.2
+2022-04,10043,Logan Generating Plant,NJ,GEN1,,Conventional Steam Coal,BIT,ST,OP,Operating,242.3,219.0,219.0
+2022-04,10099,Pedricktown Cogeneration Company LP,NJ,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,112.8,112.6
+2022-04,10099,Pedricktown Cogeneration Company LP,NJ,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,45.0,112.8,112.6
+2026-03,10308,Sayreville Cogeneration Facility,NJ,CT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,143.4,112.0,127.8
+2026-03,10308,Sayreville Cogeneration Facility,NJ,CT2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,143.4,112.0,127.8
+2026-03,10308,Sayreville Cogeneration Facility,NJ,ST1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,143.4,68.0,77.5
+2022-05,10566,Chambers Cogeneration LP,NJ,GEN1,,Conventional Steam Coal,BIT,ST,OP,Operating,285.0,244.0,242.0
+2026-03,10751,Camden Plant Holding LLC,NJ,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,145.0,144.7
+2026-03,10751,Camden Plant Holding LLC,NJ,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,77.7,,
+2026-03,10805,Kenilworth Energy Facility,NJ,GEN1,G741,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,22.0,20.0,22.0
+2026-03,10805,Kenilworth Energy Facility,NJ,GEN2,G741,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,6.8,4.5,5.5
+2024-05,2379,Carlls Corner,NJ,CA1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,37.6,49.8
+2024-05,2379,Carlls Corner,NJ,CA2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,39.2,49.8
+2026-03,2390,Sayreville,NJ,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.0,53.8,70.0
+2026-03,2390,Sayreville,NJ,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.0,50.8,70.0
+2026-03,2390,Sayreville,NJ,GT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.0,50.7,70.0
+2026-03,2390,Sayreville,NJ,GT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.0,47.5,70.0
+2026-03,2393,Gilbert,NJ,4,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,54.0,49.0,56.0
+2026-03,2393,Gilbert,NJ,5,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,54.0,53.0,56.0
+2026-03,2393,Gilbert,NJ,6,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,54.0,55.0,56.0
+2026-03,2393,Gilbert,NJ,7,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,54.0,55.5,56.0
+2026-03,2393,Gilbert,NJ,8,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,135.0,90.0,104.0
+2026-03,2393,Gilbert,NJ,9,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,161.0,152.7,167.0
+2026-03,2398,Bergen Generating Station,NJ,1101,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,112.5,120.0,120.0
+2026-03,2398,Bergen Generating Station,NJ,1201,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,112.5,110.0,110.0
+2026-03,2398,Bergen Generating Station,NJ,1301,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,112.5,115.0,115.0
+2026-03,2398,Bergen Generating Station,NJ,1401,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,112.5,115.0,115.0
+2026-03,2398,Bergen Generating Station,NJ,1501,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,325.2,204.0,204.0
+2026-03,2398,Bergen Generating Station,NJ,2101,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,183.6,178.5,178.5
+2026-03,2398,Bergen Generating Station,NJ,2201,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,183.6,174.0,174.0
+2026-03,2398,Bergen Generating Station,NJ,2301,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,258.4,238.5,238.5
+2026-03,2399,Burlington Generating Station,NJ,121,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,42.9,42.9
+2026-03,2399,Burlington Generating Station,NJ,122,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,42.9,42.9
+2026-03,2399,Burlington Generating Station,NJ,123,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,42.9,42.9
+2026-03,2399,Burlington Generating Station,NJ,124,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,42.9,42.9
+2022-05,2401,PSEG Essex Generating Station,NJ,9,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,93.6,81.0,81.0
+2026-03,2404,Kearny Generating Station,NJ,131,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,46.9,46.9
+2026-03,2404,Kearny Generating Station,NJ,132,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,46.9,46.9
+2026-03,2404,Kearny Generating Station,NJ,133,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,46.9,46.9
+2026-03,2404,Kearny Generating Station,NJ,134,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,46.9,46.9
+2026-03,2404,Kearny Generating Station,NJ,141,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,46.9,46.9
+2026-03,2404,Kearny Generating Station,NJ,142,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,46.9,46.9
+2026-03,2404,Kearny Generating Station,NJ,N121,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,44.8,44.8
+2026-03,2404,Kearny Generating Station,NJ,N122,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,44.0,44.0
+2026-03,2404,Kearny Generating Station,NJ,N123,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,43.8,43.8
+2026-03,2404,Kearny Generating Station,NJ,N124,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,43.9,43.9
+2026-03,2406,PSEG Linden Generating Station,NJ,1001,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,315.0,252.0,252.0
+2026-03,2406,PSEG Linden Generating Station,NJ,1101,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,181.4,199.0,199.0
+2026-03,2406,PSEG Linden Generating Station,NJ,1201,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,181.4,199.0,199.0
+2026-03,2406,PSEG Linden Generating Station,NJ,2001,CC2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,315.0,252.0,252.0
+2026-03,2406,PSEG Linden Generating Station,NJ,2101,CC2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,181.4,199.0,199.0
+2026-03,2406,PSEG Linden Generating Station,NJ,2201,CC2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,181.4,199.0,199.0
+2026-03,2406,PSEG Linden Generating Station,NJ,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,96.1,86.0,86.0
+2026-03,2406,PSEG Linden Generating Station,NJ,6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,96.1,86.0,86.0
+2026-03,2406,PSEG Linden Generating Station,NJ,7,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,96.1,84.0,84.0
+2026-03,2406,PSEG Linden Generating Station,NJ,8,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,96.1,80.2,80.2
+2026-03,2410,PSEG Salem Generating Station,NJ,1,,Nuclear,NUC,ST,OP,Operating,1170.0,1145.8,1145.8
+2026-03,2410,PSEG Salem Generating Station,NJ,2,,Nuclear,NUC,ST,OP,Operating,1170.0,1138.9,1138.9
+2026-03,2410,PSEG Salem Generating Station,NJ,3,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,41.8,38.4,38.4
+2026-03,2411,Sewaren,NJ,701,CC7,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,365.5,338.0,338.0
+2026-03,2411,Sewaren,NJ,702,CC7,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,244.0,203.0,203.0
+2026-03,2434,Howard Down,NJ,11,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,68.2,55.0,60.0
+2026-03,50006,Linden Cogen Plant,NJ,GTG1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,93.5,99.7
+2026-03,50006,Linden Cogen Plant,NJ,GTG2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,93.5,99.7
+2026-03,50006,Linden Cogen Plant,NJ,GTG3,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,93.5,99.7
+2026-03,50006,Linden Cogen Plant,NJ,GTG4,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,93.5,99.7
+2026-03,50006,Linden Cogen Plant,NJ,GTG5,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,93.5,99.7
+2026-03,50006,Linden Cogen Plant,NJ,GTG6,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,212.5,167.1,194.0
+2026-03,50006,Linden Cogen Plant,NJ,STG1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,95.2,93.5,99.7
+2026-03,50006,Linden Cogen Plant,NJ,STG2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,95.2,93.5,99.7
+2026-03,50006,Linden Cogen Plant,NJ,STG3,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,95.2,93.5,99.7
+2022-04,50385,Newark Bay Cogeneration Partnership LP,NJ,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,55.0,120.2,136.2
+2022-04,50385,Newark Bay Cogeneration Partnership LP,NJ,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,55.0,120.2,136.2
+2022-04,50385,Newark Bay Cogeneration Partnership LP,NJ,GEN3,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,42.0,120.2,136.2
+2026-03,50561,Eagle Point Power Generation,NJ,GTG1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,90.0,85.0,90.0
+2026-03,50561,Eagle Point Power Generation,NJ,GTG2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,90.0,85.0,90.0
+2026-03,50561,Eagle Point Power Generation,NJ,STG1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,45.0,47.0,47.0
+2026-03,50561,Eagle Point Power Generation,NJ,STG2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,26.8,27.0,27.0
+2023-12,50799,Parlin Power Plant,NJ,GEN1,PEC,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,45.9,35.9,42.2
+2023-12,50799,Parlin Power Plant,NJ,GEN2,PEC,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,45.9,37.5,43.7
+2023-12,50799,Parlin Power Plant,NJ,GEN3,PEC,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,21.6,20.6,20.6
+2023-12,50799,Parlin Power Plant,NJ,GEN4,PEC,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,21.6,20.6,20.6
+2026-03,5083,Cumberland (NJ),NJ,CUMB,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,99.4,86.9,99.0
+2026-03,5083,Cumberland (NJ),NJ,CUMB2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,131.8,100.0,102.0
+2021-02,50852,Elmwood Park Power LLC,NJ,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,66.6,51.5,51.5
+2021-02,50852,Elmwood Park Power LLC,NJ,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,22.9,17.7,17.7
+2026-03,54640,NAEA Lakewood LLC,NJ,GEN1,LCLP,Natural Gas Fired Combined Cycle,NG,CT,SB,Standby/Backup: available for service but not normally used,101.3,89.5,94.6
+2026-03,54640,NAEA Lakewood LLC,NJ,GEN2,LCLP,Natural Gas Fired Combined Cycle,NG,CT,SB,Standby/Backup: available for service but not normally used,101.3,88.5,93.5
+2026-03,54640,NAEA Lakewood LLC,NJ,GEN3,LCLP,Natural Gas Fired Combined Cycle,NG,CA,SB,Standby/Backup: available for service but not normally used,85.6,87.0,91.9
+2026-03,55239,Red Oak Power LLC,NJ,0001,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,180.2,167.3,182.7
+2026-03,55239,Red Oak Power LLC,NJ,0002,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,180.2,167.3,182.7
+2026-03,55239,Red Oak Power LLC,NJ,0003,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,180.2,167.3,182.7
+2026-03,55239,Red Oak Power LLC,NJ,0004,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,280.5,274.0,275.0
+2026-03,55938,NAEA Ocean Peaking Power LLC,NJ,OPP3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,165.1,168.1
+2026-03,55938,NAEA Ocean Peaking Power LLC,NJ,OPP4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,167.7,167.4
+2026-03,56963,West Deptford Energy Station,NJ,E101,700,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,225.3,213.0,233.8
+2026-03,56963,West Deptford Energy Station,NJ,E102,700,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,225.3,213.6,233.7
+2026-03,56963,West Deptford Energy Station,NJ,STG1,700,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,304.0,309.2,301.0
+2026-03,56964,Bayonne Energy Center,NJ,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,64.0,61.2,62.8
+2026-03,56964,Bayonne Energy Center,NJ,GT10,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,66.0,59.5,65.0
+2026-03,56964,Bayonne Energy Center,NJ,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,64.0,57.0,62.6
+2026-03,56964,Bayonne Energy Center,NJ,GT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,64.0,58.1,63.4
+2026-03,56964,Bayonne Energy Center,NJ,GT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,64.0,59.8,63.2
+2026-03,56964,Bayonne Energy Center,NJ,GT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,64.0,61.8,62.8
+2026-03,56964,Bayonne Energy Center,NJ,GT6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,64.0,61.4,62.8
+2026-03,56964,Bayonne Energy Center,NJ,GT7,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,64.0,59.7,62.9
+2026-03,56964,Bayonne Energy Center,NJ,GT8,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,64.0,59.8,63.4
+2026-03,56964,Bayonne Energy Center,NJ,GT9,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,66.0,59.8,64.8
+2026-03,57839,Woodbridge Energy Center,NJ,CT001,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,222.7,207.9,226.0
+2026-03,57839,Woodbridge Energy Center,NJ,CT002,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,222.7,206.4,226.0
+2026-03,57839,Woodbridge Energy Center,NJ,ST001,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,327.5,312.0,310.9
+2026-03,58079,Newark Energy Center,NJ,GT-1,CCST,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,225.0,209.3,231.4
+2026-03,58079,Newark Energy Center,NJ,GT-2,CCST,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,225.0,210.4,228.2
+2026-03,58079,Newark Energy Center,NJ,STG-1,CCST,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,285.0,285.3,280.4
+2026-03,58235,Clayville,NJ,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,73.0,55.0,61.0
+2022-09,6776,West Station (NJ),NJ,1,,Petroleum Liquids,DFO,GT,OP,Operating,27.0,22.9,27.4
+2026-03,7138,Forked River,NJ,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,38.4,34.0,44.0
+2026-03,7138,Forked River,NJ,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,38.4,31.0,41.0
+2026-03,7288,Sherman Avenue,NJ,SEHR,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,112.8,86.9,99.0
+2024-05,8008,Mickleton Station,NJ,MICK,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,71.2,63.7,78.0
+2026-03,10025,"RED-Rochester, LLC",NY,17TG,,Natural Gas Steam Turbine,NG,ST,OP,Operating,15.0,15.0,15.0
+2020-05,10025,"RED-Rochester, LLC",NY,22TG,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,12.5,12.5,12.5
+2026-03,10025,"RED-Rochester, LLC",NY,41TG,,Natural Gas Steam Turbine,NG,ST,OP,Operating,25.6,25.6,25.6
+2026-03,10025,"RED-Rochester, LLC",NY,42TG,,Natural Gas Steam Turbine,NG,ST,OP,Operating,25.6,25.6,25.6
+2026-03,10025,"RED-Rochester, LLC",NY,43TG,,Natural Gas Steam Turbine,NG,ST,OP,Operating,25.6,25.6,25.6
+2026-03,10025,"RED-Rochester, LLC",NY,44TG,,Natural Gas Steam Turbine,NG,ST,OP,Operating,25.6,25.6,25.6
+2026-03,10025,"RED-Rochester, LLC",NY,49CTG,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,42.0,36.0,42.0
+2026-03,10025,"RED-Rochester, LLC",NY,75TG,,Natural Gas Steam Turbine,NG,ST,OP,Operating,3.0,2.2,2.2
+2026-03,10025,"RED-Rochester, LLC",NY,KPR1,,Conventional Hydroelectric,WAT,HY,OP,Operating,0.4,0.4,0.4
+2026-03,10190,Castleton Energy Center,NY,GEN1,CCCC,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,47.0,67.0,77.3
+2026-03,10190,Castleton Energy Center,NY,GEN2,CCCC,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,25.0,0.0,0.0
+2023-12,10464,ReEnergy Black River,NY,GEN1,,Wood/Wood Waste Biomass,WDS,ST,OS,Out of service and NOT expected to return to service in next calendar year,55.5,55.0,56.0
+2026-03,10617,CH Resources Beaver Falls,NY,GEN1,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,65.5,49.2,58.6
+2026-03,10617,CH Resources Beaver Falls,NY,GEN2,CC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,42.3,30.6,31.8
+2026-03,10620,Carthage Energy LLC,NY,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,40.9,40.1,45.0
+2026-03,10620,Carthage Energy LLC,NY,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,22.0,21.0,21.5
+2026-03,10621,CH Resources Syracuse,NY,GEN1,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,65.5,57.4,70.0
+2026-03,10621,CH Resources Syracuse,NY,GEN2,CC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,37.2,28.8,28.8
+2026-03,10725,Selkirk Cogen,NY,GEN1,F802,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,76.4,101.9
+2026-03,10725,Selkirk Cogen,NY,GEN2,F801,Natural Gas Fired Combined Cycle,NG,CA,SB,Standby/Backup: available for service but not normally used,12.0,,
+2026-03,10725,Selkirk Cogen,NY,GEN3,F802,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,276.6,333.8
+2026-03,10725,Selkirk Cogen,NY,GEN4,F802,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,,
+2026-03,10725,Selkirk Cogen,NY,GEN5,F802,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,148.4,,
+2026-03,10803,Ogdensburg Power,NY,GEN3,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,26.9,23.0,25.0
+2026-03,2480,Danskammer Generating Station,NY,1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,72.0,68.0,68.0
+2026-03,2480,Danskammer Generating Station,NY,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,73.5,65.7,65.5
+2026-03,2480,Danskammer Generating Station,NY,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,147.1,137.7,137.1
+2026-03,2480,Danskammer Generating Station,NY,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,239.4,225.9,229.5
+2026-03,2480,Danskammer Generating Station,NY,5,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.7,2.5,2.5
+2026-03,2480,Danskammer Generating Station,NY,6,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.7,2.5,2.5
+2026-03,2490,Arthur Kill Generating Station,NY,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,342.0,358.2,358.5
+2026-03,2490,Arthur Kill Generating Station,NY,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,535.5,518.4,519.0
+2025-12,2490,Arthur Kill Generating Station,NY,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,18.0,12.4,16.1
+2026-03,2493,East River,NY,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,180.0,152.1,196.7
+2026-03,2493,East River,NY,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,180.0,153.9,199.5
+2026-03,2493,East River,NY,6,,Natural Gas Steam Turbine,NG,ST,OP,Operating,156.2,132.7,132.7
+2026-03,2493,East River,NY,7,,Natural Gas Steam Turbine,NG,ST,OP,Operating,200.0,176.8,185.9
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT11,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,19.1,24.9
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT12,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.1,22.3
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT13,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.2,22.5
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT14,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.1,22.3
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT15,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,16.5,21.6
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT16,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,18.0,23.5
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT17,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.6,23.0
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT18,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.9,23.4
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT21,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,17.9,23.4
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT22,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,18.8,24.6
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT23,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,20.6,26.9
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT24,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,19.3,25.2
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT25,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,18.6,24.3
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT26,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,20.3,26.5
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT27,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,19.6,25.6
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT28,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,17.7,23.1
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT31,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,17.7,23.1
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT32,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,17.7,23.1
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT33,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,19.8,25.9
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT34,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,17.9,23.4
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT35,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,19.0,24.8
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT36,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.6,23.0
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT37,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,18.1,23.6
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT38,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,20.0,19.0,24.8
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT41,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,16.8,21.9
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT42,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.3,22.6
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT43,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.6,23.0
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT44,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.1,22.3
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT45,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,17.1,22.3
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT46,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,18.6,24.3
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT47,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,16.6,21.7
+2026-03,2494,Gowanus Gas Turbines Generating,NY,GT48,,Petroleum Liquids,DFO,GT,OS,Out of service and NOT expected to return to service in next calendar year,20.0,19.0,24.8
+2022-10,2496,Hudson Avenue,NY,GT3,,Petroleum Liquids,KER,GT,OP,Operating,16.3,13.5,14.0
+2022-10,2496,Hudson Avenue,NY,GT5,,Petroleum Liquids,KER,GT,OP,Operating,16.3,14.1,18.5
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT11,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,21.0,27.4
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT12,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,19.5,25.5
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT13,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,20.4,26.6
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT14,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,20.1,26.3
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT15,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,19.8,25.9
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT16,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,18.9,24.7
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT17,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,18.4,24.0
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT18,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,19.9,26.0
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT21,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,22.0,19.4,25.3
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT22,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,18.7,24.4
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT23,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,18.4,24.0
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT24,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,18.4,24.0
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT25,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,19.9,26.0
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT26,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,18.1,23.6
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT27,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,22.0,20.7,27.0
+2026-03,2499,Narrows Gas Turbines Generating,NY,NT28,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.0,17.5,22.9
+2026-03,2500,Ravenswood,NY,1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,400.0,364.5,370.0
+2026-03,2500,Ravenswood,NY,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,400.0,375.2,378.3
+2026-03,2500,Ravenswood,NY,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,1027.0,985.1,976.8
+2026-03,2500,Ravenswood,NY,4,CCR4,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,181.0,149.8,185.1
+2026-03,2500,Ravenswood,NY,4S,CCR4,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,87.5,72.4,89.5
+2023-04,2500,Ravenswood,NY,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,16.0,8.1,11.1
+2023-04,2500,Ravenswood,NY,GT10,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,25.0,16.0,20.3
+2023-04,2500,Ravenswood,NY,GT11,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,25.0,16.4,22.4
+2021-12,2500,Ravenswood,NY,GT21,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,42.9,30.6,41.7
+2021-12,2500,Ravenswood,NY,GT22,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,42.9,32.0,41.9
+2021-12,2500,Ravenswood,NY,GT23,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,42.9,30.7,37.3
+2021-12,2500,Ravenswood,NY,GT24,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,42.9,30.9,41.6
+2021-12,2500,Ravenswood,NY,GT31,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,42.9,30.7,40.8
+2021-12,2500,Ravenswood,NY,GT32,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,42.9,29.7,40.3
+2021-12,2500,Ravenswood,NY,GT34,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,42.9,29.8,40.8
+2020-08,2500,Ravenswood,NY,GT4,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,21.1,12.9,15.6
+2020-08,2500,Ravenswood,NY,GT5,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,21.1,15.5,17.2
+2020-08,2500,Ravenswood,NY,GT6,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,22.0,12.6,16.5
+2020-08,2500,Ravenswood,NY,GT9,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,25.0,16.3,22.8
+2026-03,2503,59th Street,NY,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,17.1,14.5,16.5
+2026-03,2504,74th Street,NY,GT1,,Petroleum Liquids,KER,GT,OP,Operating,18.5,18.5,21.7
+2026-03,2504,74th Street,NY,GT2,,Petroleum Liquids,KER,GT,OP,Operating,18.5,19.3,21.9
+2026-03,2511,E F Barrett,NY,10,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.8,40.6,50.0
+2026-03,2511,E F Barrett,NY,11,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.8,40.1,50.5
+2026-03,2511,E F Barrett,NY,12,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.8,40.9,48.7
+2026-03,2511,E F Barrett,NY,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,18.0,17.7,20.2
+2026-03,2511,E F Barrett,NY,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,18.0,16.8,20.5
+2026-03,2511,E F Barrett,NY,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,18.0,17.6,20.1
+2026-03,2511,E F Barrett,NY,6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,18.0,16.4,19.9
+2026-03,2511,E F Barrett,NY,8,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,18.0,15.1,15.2
+2026-03,2511,E F Barrett,NY,9,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.8,41.2,49.2
+2026-03,2511,E F Barrett,NY,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,18.0,17.4,20.5
+2026-03,2511,E F Barrett,NY,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,18.0,17.6,20.4
+2026-03,2511,E F Barrett,NY,ST1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,188.0,194.2,199.5
+2026-03,2511,E F Barrett,NY,ST2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,188.0,178.0,190.5
+2026-03,2512,East Hampton,NY,1,,Petroleum Liquids,DFO,GT,OP,Operating,21.3,19.2,24.0
+2026-03,2512,East Hampton,NY,2,,Petroleum Liquids,DFO,IC,OP,Operating,2.0,2.0,2.0
+2026-03,2512,East Hampton,NY,3,,Petroleum Liquids,DFO,IC,OP,Operating,2.0,2.0,2.1
+2026-03,2512,East Hampton,NY,4,,Petroleum Liquids,DFO,IC,OP,Operating,2.0,2.0,2.1
+2026-03,2514,Glenwood,NY,GT2,,Petroleum Liquids,DFO,GT,OP,Operating,55.0,49.0,55.1
+2026-03,2514,Glenwood,NY,GT3,,Petroleum Liquids,DFO,GT,OP,Operating,55.0,55.1,68.6
+2026-03,2516,Northport,NY,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,387.0,398.0,399.0
+2026-03,2516,Northport,NY,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,387.0,398.5,394.2
+2026-03,2516,Northport,NY,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,387.0,398.0,396.5
+2026-03,2516,Northport,NY,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,11.8,15.8
+2026-03,2516,Northport,NY,ST1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,387.0,397.7,396.2
+2026-03,2517,Port Jefferson,NY,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,188.0,192.0,189.2
+2026-03,2517,Port Jefferson,NY,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,188.0,193.0,194.7
+2026-03,2517,Port Jefferson,NY,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,12.9,16.6
+2026-03,2517,Port Jefferson,NY,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.0,42.6,46.7
+2026-03,2517,Port Jefferson,NY,GT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.0,40.1,47.1
+2026-03,2521,West Babylon,NY,4,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,52.4,49.7,66.5
+2026-03,2527,Greenidge Generation LLC,NY,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,112.0,104.5,106.3
+2026-03,2539,Bethlehem Energy Center,NY,5,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,194.3,169.1,203.7
+2026-03,2539,Bethlehem Energy Center,NY,6,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,194.3,169.1,203.7
+2026-03,2539,Bethlehem Energy Center,NY,7,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,194.3,169.1,203.7
+2026-03,2539,Bethlehem Energy Center,NY,8,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,310.2,305.4,313.0
+2022-03,2554,Dunkirk Generating Plant,NY,1,,Conventional Steam Coal,SUB,ST,OS,Out of service and NOT expected to return to service in next calendar year,96.0,75.0,75.0
+2020-12,2554,Dunkirk Generating Plant,NY,2,,Conventional Steam Coal,SUB,ST,OS,Out of service and NOT expected to return to service in next calendar year,96.0,75.0,75.0
+2022-03,2554,Dunkirk Generating Plant,NY,3,,Conventional Steam Coal,SUB,ST,OS,Out of service and NOT expected to return to service in next calendar year,217.6,185.0,185.0
+2022-03,2554,Dunkirk Generating Plant,NY,ST4,,Conventional Steam Coal,SUB,ST,OS,Out of service and NOT expected to return to service in next calendar year,217.6,185.0,185.0
+2026-03,2594,Oswego Harbor Power,NY,ST5,,Petroleum Liquids,RFO,ST,OP,Operating,901.8,800.6,807.7
+2026-03,2594,Oswego Harbor Power,NY,ST6,,Petroleum Liquids,RFO,ST,OP,Operating,901.8,812.9,814.5
+2026-03,2625,Bowline Point,NY,1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,621.0,586.0,593.2
+2026-03,2625,Bowline Point,NY,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,621.0,573.6,568.8
+2026-03,2628,Hillburn,NY,GEN1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,46.5,33.1,43.8
+2026-03,2632,Shoemaker,NY,SHOE,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,33.0,40.0
+2026-03,2679,Plant No 2 Freeport,NY,3,,Petroleum Liquids,KER,GT,OP,Operating,18.1,16.8,18.0
+2026-03,2679,Plant No 2 Freeport,NY,CT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,49.0,49.0
+2026-03,2682,S A Carlson,NY,5,1,Natural Gas Steam Turbine,NG,ST,OP,Operating,24.5,22.5,22.5
+2026-03,2682,S A Carlson,NY,6,1,Natural Gas Steam Turbine,NG,ST,OP,Operating,24.5,22.5,22.5
+2026-03,2682,S A Carlson,NY,7,1,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.3,42.0,47.0
+2026-03,50292,Bethpage Power Plant,NY,GEN1,G602,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,33.7,21.3,23.4
+2026-03,50292,Bethpage Power Plant,NY,GEN2,G602,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,33.7,21.1,23.0
+2026-03,50292,Bethpage Power Plant,NY,GEN3,G602,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,16.2,10.2,10.1
+2024-07,50292,Bethpage Power Plant,NY,GEN4,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,0.4,0.4,0.4
+2026-03,50292,Bethpage Power Plant,NY,GEN5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.0,44.1,46.0
+2026-03,50292,Bethpage Power Plant,NY,GEN6,G603,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,60.0,45.6,45.4
+2026-03,50292,Bethpage Power Plant,NY,GEN7,G603,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,36.0,30.8,31.6
+2026-03,50368,Cornell University Central Heat,NY,CT1,CT1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,15.0,12.3,14.5
+2026-03,50368,Cornell University Central Heat,NY,CT2,CT2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,15.0,12.3,14.5
+2026-03,50368,Cornell University Central Heat,NY,EDG1,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,1.0,0.9,1.0
+2026-03,50368,Cornell University Central Heat,NY,EDG2,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,1.0,0.9,1.0
+2026-03,50368,Cornell University Central Heat,NY,TG1,CT1,Natural Gas Fired Combined Cycle,NG,CA,SB,Standby/Backup: available for service but not normally used,1.8,1.0,1.8
+2026-03,50368,Cornell University Central Heat,NY,TG2,CT2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,5.7,5.3,5.7
+2026-03,50449,Indeck Silver Springs Energy Center,NY,GEN1,G722,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,39.4,37.0,42.7
+2026-03,50449,Indeck Silver Springs Energy Center,NY,GEN2,G722,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,17.2,15.3,17.2
+2026-03,50450,Indeck Oswego Energy Center,NY,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,41.2,51.6,58.4
+2026-03,50450,Indeck Oswego Energy Center,NY,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,16.2,,
+2026-03,50451,Indeck Yerkes Energy Center,NY,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,40.6,46.5,54.4
+2026-03,50451,Indeck Yerkes Energy Center,NY,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,19.3,,
+2026-03,50458,Indeck Corinth Energy Center,NY,GEN1,G723,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,92.0,73.0,91.1
+2026-03,50458,Indeck Corinth Energy Center,NY,GEN2,G723,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,55.0,52.5,44.2
+2026-03,50472,Reworld Niagara I,NY,GEN1,,Municipal Solid Waste,MSW,ST,OP,Operating,25.0,18.0,18.0
+2026-03,50472,Reworld Niagara I,NY,GEN2,,Municipal Solid Waste,MSW,ST,OP,Operating,25.0,18.0,18.0
+2026-03,50744,Sterling Power Plant,NY,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,47.7,38.8,47.6
+2026-03,50744,Sterling Power Plant,NY,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,16.5,16.0,16.5
+2026-03,50744,Sterling Power Plant,NY,GEN3,,Petroleum Liquids,DFO,IC,OP,Operating,1.1,1.1,1.1
+2026-03,50978,Carr Street Generating Station,NY,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.8,35.0,40.0
+2026-03,50978,Carr Street Generating Station,NY,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OA,Out of service but expected to return to service in next calendar year,48.8,35.0,40.0
+2026-03,50978,Carr Street Generating Station,NY,GEN3,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,25.0,23.0,25.0
+2022-06,52056,Nassau Energy Corp,NY,GT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,43.0,38.0,45.0
+2022-06,52056,Nassau Energy Corp,NY,ST1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,12.0,12.0,12.0
+2026-03,52168,Riverbay,NY,GEN2,COG1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,16.0,16.0,16.0
+2026-03,52168,Riverbay,NY,GEN3,COG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,12.9,12.3,12.6
+2026-03,52168,Riverbay,NY,GEN4,COG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,12.9,12.3,12.6
+2026-03,52168,Riverbay,NY,U0007,,Petroleum Liquids,DFO,IC,OP,Operating,1.7,1.5,1.5
+2026-03,54034,Rensselaer Cogen,NY,GEN1,G701,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,49.2,47.0,57.0
+2026-03,54034,Rensselaer Cogen,NY,GEN2,G701,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,39.0,32.4,27.0
+2026-03,54041,Lockport Energy Associates LP,NY,GEN1,LEA1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.7,47.0,50.0
+2026-03,54041,Lockport Energy Associates LP,NY,GEN2,LEA1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.7,47.0,50.0
+2026-03,54041,Lockport Energy Associates LP,NY,GEN3,LEA1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.7,47.0,50.0
+2026-03,54041,Lockport Energy Associates LP,NY,GEN4,LEA1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,75.2,78.0,80.0
+2026-03,54076,Indeck Olean Energy Center,NY,GEN1,G721,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,46.0,39.9,39.3
+2026-03,54076,Indeck Olean Energy Center,NY,GEN2,G721,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,44.6,39.3,44.8
+2026-03,54099,Ticonderoga Mill,NY,GEN1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,42.1,41.0,39.0
+2026-03,54114,Kennedy International Airport Cogen,NY,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,47.1,48.5,49.5
+2026-03,54114,Kennedy International Airport Cogen,NY,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,47.1,49.5,51.7
+2026-03,54114,Kennedy International Airport Cogen,NY,GEN3,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,27.0,25.2,25.5
+2026-03,54131,World Generation X,NY,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.7,35.7,40.5
+2026-03,54131,World Generation X,NY,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,17.0,20.0,20.0
+2026-03,54149,Stony Brook Cogen Plant,NY,GEN1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,44.5,47.1
+2026-03,54547,Sithe Independence Station,NY,1,BLK1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,184.0,161.8,193.5
+2026-03,54547,Sithe Independence Station,NY,2,BLK1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,184.0,161.8,193.5
+2026-03,54547,Sithe Independence Station,NY,3,BLK2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,184.0,161.8,193.5
+2026-03,54547,Sithe Independence Station,NY,4,BLK2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,184.0,161.8,193.5
+2026-03,54547,Sithe Independence Station,NY,5,BLK1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,210.9,174.5,208.7
+2026-03,54547,Sithe Independence Station,NY,6,BLK2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,210.9,174.5,208.7
+2026-03,54574,Saranac Facility,NY,GEN1,CA,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,80.9,87.7
+2026-03,54574,Saranac Facility,NY,GEN2,CA,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,95.2,71.9,82.5
+2026-03,54574,Saranac Facility,NY,GEN3,CA,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,95.2,85.0,85.0
+2026-03,54592,Massena Energy Facility,NY,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,66.5,46.0,56.0
+2026-03,54592,Massena Energy Facility,NY,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,35.6,35.0,35.0
+2026-03,54592,Massena Energy Facility,NY,IC,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.0,2.0,2.0
+2026-03,54593,Batavia Power Plant,NY,GEN1,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,47.7,34.3,44.3
+2026-03,54593,Batavia Power Plant,NY,GEN2,CC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,18.5,14.5,14.8
+2026-03,54593,Batavia Power Plant,NY,GEN3,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,1.1,1.0,1.0
+2026-03,54914,Brooklyn Navy Yard Cogeneration,NY,01,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,121.0,95.0,110.0
+2026-03,54914,Brooklyn Navy Yard Cogeneration,NY,02,CC2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,121.0,95.0,110.0
+2026-03,54914,Brooklyn Navy Yard Cogeneration,NY,03,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,40.0,35.0,38.0
+2026-03,54914,Brooklyn Navy Yard Cogeneration,NY,04,CC2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,40.0,35.0,38.0
+2023-04,55243,Astoria Gas Turbines,NY,2-1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,34.9,46.5
+2023-04,55243,Astoria Gas Turbines,NY,2-2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,34.3,45.6
+2023-04,55243,Astoria Gas Turbines,NY,2-3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,36.3,46.7
+2023-04,55243,Astoria Gas Turbines,NY,2-4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,32.5,45.4
+2023-04,55243,Astoria Gas Turbines,NY,3-1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,34.6,45.0
+2023-04,55243,Astoria Gas Turbines,NY,3-2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,35.7,45.3
+2023-04,55243,Astoria Gas Turbines,NY,3-3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,33.9,44.6
+2023-04,55243,Astoria Gas Turbines,NY,3-4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,34.9,45.5
+2023-04,55243,Astoria Gas Turbines,NY,4-1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,33.6,43.8
+2023-04,55243,Astoria Gas Turbines,NY,4-2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,34.3,44.3
+2023-04,55243,Astoria Gas Turbines,NY,4-3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,35.4,46.4
+2023-04,55243,Astoria Gas Turbines,NY,4-4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,41.9,35.2,44.1
+2026-03,55375,Astoria Energy,NY,CT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,170.0,165.0,189.0
+2026-03,55375,Astoria Energy,NY,CT2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,170.0,165.0,189.0
+2026-03,55375,Astoria Energy,NY,ST1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,255.0,228.0,266.0
+2026-03,55405,Athens Generating Plant,NY,CT1,3668,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,270.3,219.7,271.2
+2026-03,55405,Athens Generating Plant,NY,CT2,3670,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,270.3,216.5,267.0
+2026-03,55405,Athens Generating Plant,NY,CT3,3677,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,270.3,221.2,274.6
+2026-03,55405,Athens Generating Plant,NY,ST1,3668,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,136.9,109.5,135.7
+2026-03,55405,Athens Generating Plant,NY,ST2,3670,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,136.9,108.5,131.0
+2026-03,55405,Athens Generating Plant,NY,ST3,3677,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,136.9,109.0,133.7
+2026-03,55699,Bayswater Peaking Facility LLC,NY,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,55.8,50.0
+2026-03,55786,Edgewood Energy LLC,NY,CT01,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,42.5,47.0
+2026-03,55786,Edgewood Energy LLC,NY,CT02,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,50.0,42.5,47.0
+2026-03,55787,Shoreham Energy LLC,NY,CT01,,Petroleum Liquids,KER,GT,OP,Operating,50.0,42.5,47.0
+2026-03,55787,Shoreham Energy LLC,NY,CT02,,Petroleum Liquids,KER,GT,OP,Operating,50.0,42.5,47.0
+2026-03,55969,Hawkeye Energy Greenport LLC,NY,U-01,,Petroleum Liquids,KER,GT,OP,Operating,54.0,54.5,56.6
+2026-03,56032,Equus Freeport Power,NY,0001,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.0,45.9,47.1
+2026-03,56032,Equus Freeport Power,NY,001,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.0,48.1,49.7
+2026-03,56188,Pinelawn Power LLC,NY,CTG,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,50.0,47.0,47.0
+2026-03,56188,Pinelawn Power LLC,NY,STG,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,32.0,27.5,30.1
+2026-03,56196,Zeltmann,NY,CA01,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,188.0,,
+2026-03,56196,Zeltmann,NY,CT01,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,170.0,238.0,270.2
+2026-03,56196,Zeltmann,NY,CT02,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,170.0,238.0,270.2
+2026-03,56234,Caithness Long Island Energy Center,NY,CT01,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,196.2,187.7,216.0
+2026-03,56234,Caithness Long Island Energy Center,NY,ST01,CC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,152.7,129.6,149.2
+2026-03,56259,Empire Generating Co LLC,NY,CT11,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,179.0,155.0,190.0
+2026-03,56259,Empire Generating Co LLC,NY,CT12,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,179.0,155.0,190.0
+2026-03,56259,Empire Generating Co LLC,NY,ST13,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,295.7,270.0,295.7
+2026-03,56940,CPV Valley Energy Center,NY,CTG1,G921,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,235.0,175.8,216.8
+2026-03,56940,CPV Valley Energy Center,NY,CTG2,G921,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,235.0,183.4,224.0
+2026-03,56940,CPV Valley Energy Center,NY,STG,G921,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,300.5,295.1,299.9
+2026-03,57185,Cricket Valley Energy,NY,U001,CCG1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,174.2,143.3,150.3
+2026-03,57185,Cricket Valley Energy,NY,U002,CCG2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,174.2,143.3,150.3
+2026-03,57185,Cricket Valley Energy,NY,U003,CCG3,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,174.2,143.3,150.3
+2026-03,57185,Cricket Valley Energy,NY,U004,CCG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,263.3,195.4,229.1
+2026-03,57185,Cricket Valley Energy,NY,U005,CCG2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,263.3,195.4,229.1
+2026-03,57185,Cricket Valley Energy,NY,U006,CCG3,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,263.3,195.4,229.1
+2020-02,6082,Somerset Operating Co LLC,NY,1,,Conventional Steam Coal,BIT,ST,OP,Operating,655.1,676.4,684.4
+2026-03,7146,Wading River,NY,02,,Petroleum Liquids,DFO,GT,OP,Operating,79.5,76.9,96.2
+2026-03,7146,Wading River,NY,03,,Petroleum Liquids,DFO,GT,OP,Operating,79.5,81.7,99.0
+2026-03,7146,Wading River,NY,1,,Petroleum Liquids,DFO,GT,OP,Operating,79.5,82.0,101.3
+2026-03,7314,Richard M Flynn,NY,NA1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,110.0,139.5,160.0
+2026-03,7314,Richard M Flynn,NY,NA2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,60.0,0.0,0.0
+2026-03,7869,Glenwood Landing,NY,GT1,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,16.0,12.6,17.6
+2026-03,7869,Glenwood Landing,NY,GT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.0,42.6,47.0
+2026-03,7869,Glenwood Landing,NY,GT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.0,42.5,47.0
+2026-03,7909,Vernon Boulevard,NY,VG02,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,40.0,40.0
+2026-03,7909,Vernon Boulevard,NY,VG03,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,39.9,39.9
+2026-03,7910,Joseph J Seymour Power Project,NY,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,40.0,40.0
+2026-03,7910,Joseph J Seymour Power Project,NY,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,39.9,39.9
+2026-03,7912,Brentwood,NY,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,45.0,46.0
+2026-03,7913,Hell Gate,NY,HG01,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,39.9,39.9
+2026-03,7913,Hell Gate,NY,HG02,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,39.6,40.0
+2026-03,7914,Harlem River Yard,NY,HR01,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,39.9,39.9
+2026-03,7914,Harlem River Yard,NY,HR02,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,39.6,40.0
+2026-03,7915,North 1st,NY,N01,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,46.0,46.0
+2026-03,8006,Roseton Generating Facility,NY,1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,621.0,614.8,603.5
+2026-03,8006,Roseton Generating Facility,NY,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,621.0,607.2,605.2
+2026-03,8007,Holtsville,NY,1,,Petroleum Liquids,KER,GT,OP,Operating,56.7,55.5,62.1
+2026-03,8007,Holtsville,NY,10,,Petroleum Liquids,KER,GT,OP,Operating,56.7,54.1,65.6
+2026-03,8007,Holtsville,NY,2,,Petroleum Liquids,KER,GT,OP,Operating,56.7,55.6,61.3
+2026-03,8007,Holtsville,NY,3,,Petroleum Liquids,KER,GT,OP,Operating,56.7,51.0,64.8
+2026-03,8007,Holtsville,NY,4,,Petroleum Liquids,KER,GT,OP,Operating,56.7,52.4,64.3
+2026-03,8007,Holtsville,NY,5,,Petroleum Liquids,KER,GT,OP,Operating,56.7,53.4,65.0
+2026-03,8007,Holtsville,NY,6,,Petroleum Liquids,KER,GT,OP,Operating,56.7,50.4,65.4
+2026-03,8007,Holtsville,NY,7,,Petroleum Liquids,KER,GT,OP,Operating,56.7,49.2,64.8
+2026-03,8007,Holtsville,NY,8,,Petroleum Liquids,KER,GT,OP,Operating,56.7,55.4,66.8
+2026-03,8007,Holtsville,NY,9,,Petroleum Liquids,KER,GT,OP,Operating,56.7,55.3,69.1
+2026-03,8053,Pouch,NY,N01,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,47.0,45.4,46.0
+2026-03,8906,Astoria Generating Station,NY,1,,Natural Gas Fired Combustion Turbine,NG,GT,OS,Out of service and NOT expected to return to service in next calendar year,15.0,15.7,20.5
+2026-03,8906,Astoria Generating Station,NY,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,180.0,177.0,177.0
+2026-03,8906,Astoria Generating Station,NY,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,376.0,369.9,369.9
+2026-03,8906,Astoria Generating Station,NY,4,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,387.0,376.3,376.3
+2026-03,8906,Astoria Generating Station,NY,ST5,,Natural Gas Steam Turbine,NG,ST,OP,Operating,387.0,376.3,376.3
+2026-03,10244,Pixelle Specialty Solutions LLC - Chilli,OH,T-10,,Wood/Wood Waste Biomass,BLQ,ST,OS,Out of service and NOT expected to return to service in next calendar year,10.6,7.3,4.5
+2026-03,10244,Pixelle Specialty Solutions LLC - Chilli,OH,T-11,,Wood/Wood Waste Biomass,BLQ,ST,OP,Operating,24.0,12.3,9.2
+2026-03,10244,Pixelle Specialty Solutions LLC - Chilli,OH,T-12,,Wood/Wood Waste Biomass,BLQ,ST,OP,Operating,31.0,0.2,10.3
+2026-03,10244,Pixelle Specialty Solutions LLC - Chilli,OH,T-13,,Natural Gas Steam Turbine,NG,ST,OP,Operating,27.2,12.7,11.7
+2026-03,2828,Cardinal,OH,1,,Conventional Steam Coal,BIT,ST,OP,Operating,615.2,585.0,595.0
+2026-03,2828,Cardinal,OH,2,,Conventional Steam Coal,BIT,ST,OP,Operating,615.2,585.0,595.0
+2026-03,2828,Cardinal,OH,3,,Conventional Steam Coal,BIT,ST,OP,Operating,650.0,620.0,620.0
+2026-03,2831,Dick's Creek,OH,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,100.0,92.0,110.0
+2026-03,2831,Dick's Creek,OH,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,16.5,14.2,19.5
+2026-03,2831,Dick's Creek,OH,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,21.3,15.0,21.4
+2026-03,2831,Dick's Creek,OH,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,21.3,15.0,21.4
+2026-03,2832,Miami Fort,OH,7,,Conventional Steam Coal,BIT,ST,OP,Operating,557.1,510.0,510.0
+2026-03,2832,Miami Fort,OH,8,,Conventional Steam Coal,BIT,ST,OP,Operating,557.7,510.0,510.0
+2026-03,2832,Miami Fort,OH,GT3,,Petroleum Liquids,DFO,GT,OP,Operating,16.5,14.0,20.0
+2026-03,2832,Miami Fort,OH,GT4,,Petroleum Liquids,DFO,GT,OP,Operating,16.5,14.0,20.0
+2026-03,2832,Miami Fort,OH,GT5,,Petroleum Liquids,DFO,GT,OP,Operating,16.5,14.0,20.0
+2026-03,2832,Miami Fort,OH,GT6,,Petroleum Liquids,DFO,GT,OP,Operating,16.5,14.0,20.0
+2022-02,2836,Avon Lake,OH,10,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,32.1,25.0,30.0
+2022-02,2836,Avon Lake,OH,9,,Conventional Steam Coal,BIT,ST,OP,Operating,680.0,627.0,627.0
+2020-01,2837,FirstEnergy Eastlake,OH,6,,Petroleum Liquids,DFO,GT,OP,Operating,32.0,24.0,29.0
+2020-05,2840,Conesville,OH,4,,Conventional Steam Coal,BIT,ST,OP,Operating,841.5,780.0,780.0
+2026-03,2847,Tait Electric Generating Station,OH,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,103.5,91.0,111.9
+2026-03,2847,Tait Electric Generating Station,OH,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,106.1,91.1,114.9
+2026-03,2847,Tait Electric Generating Station,OH,GT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,84.2,81.0,98.9
+2026-03,2847,Tait Electric Generating Station,OH,GT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,85.0,108.9
+2026-03,2847,Tait Electric Generating Station,OH,GT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,88.0,108.1
+2026-03,2847,Tait Electric Generating Station,OH,GT6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,81.0,104.0
+2026-03,2847,Tait Electric Generating Station,OH,GT7,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,80.0,104.0
+2026-03,2847,Tait Electric Generating Station,OH,IC1,,Petroleum Liquids,DFO,IC,OP,Operating,2.7,2.5,2.5
+2026-03,2847,Tait Electric Generating Station,OH,IC2,,Petroleum Liquids,DFO,IC,OP,Operating,2.7,2.5,2.5
+2026-03,2847,Tait Electric Generating Station,OH,IC3,,Petroleum Liquids,DFO,IC,OP,Operating,2.7,2.5,2.5
+2026-03,2847,Tait Electric Generating Station,OH,IC4,,Petroleum Liquids,DFO,IC,OP,Operating,2.7,2.5,2.5
+2026-03,2848,O H Hutchings,OH,7,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,32.6,25.2,29.9
+2026-03,2861,Niles Power Plant,OH,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,27.0,26.1,30.0
+2020-04,2866,W H Sammis,OH,1,,Conventional Steam Coal,BIT,ST,OP,Operating,190.4,180.0,180.0
+2020-04,2866,W H Sammis,OH,2,,Conventional Steam Coal,BIT,ST,OP,Operating,190.4,180.0,180.0
+2020-04,2866,W H Sammis,OH,3,,Conventional Steam Coal,BIT,ST,OP,Operating,190.4,180.0,180.0
+2020-04,2866,W H Sammis,OH,4,,Conventional Steam Coal,BIT,ST,OP,Operating,190.4,180.0,180.0
+2023-05,2866,W H Sammis,OH,5,,Conventional Steam Coal,BIT,ST,OP,Operating,334.0,290.0,290.0
+2023-05,2866,W H Sammis,OH,6,,Conventional Steam Coal,BIT,ST,OP,Operating,680.0,600.0,600.0
+2023-05,2866,W H Sammis,OH,7,,Conventional Steam Coal,BIT,ST,OP,Operating,680.0,600.0,600.0
+2023-05,2866,W H Sammis,OH,A1,,Petroleum Liquids,DFO,IC,OP,Operating,2.5,3.0,3.0
+2023-05,2866,W H Sammis,OH,B1,,Petroleum Liquids,DFO,IC,OP,Operating,2.5,3.0,3.0
+2023-05,2866,W H Sammis,OH,B2,,Petroleum Liquids,DFO,IC,OP,Operating,2.5,3.0,3.0
+2023-05,2866,W H Sammis,OH,B3,,Petroleum Liquids,DFO,IC,OP,Operating,2.5,2.0,2.0
+2023-05,2866,W H Sammis,OH,B4,,Petroleum Liquids,DFO,IC,OP,Operating,2.5,2.0,2.0
+2026-03,2869,West Lorain,OH,1A,,Petroleum Liquids,DFO,GT,OP,Operating,65.3,49.6,52.1
+2026-03,2869,West Lorain,OH,1B,,Petroleum Liquids,DFO,GT,OP,Operating,65.3,51.3,56.1
+2026-03,2869,West Lorain,OH,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,85.0,79.0,85.0
+2026-03,2869,West Lorain,OH,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,85.0,80.4,85.0
+2026-03,2869,West Lorain,OH,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,85.0,79.1,85.0
+2026-03,2869,West Lorain,OH,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,85.0,81.5,85.0
+2026-03,2869,West Lorain,OH,6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,85.0,79.6,85.0
+2026-03,2876,Kyger Creek,OH,1,,Conventional Steam Coal,BIT,ST,OP,Operating,217.3,194.0,198.7
+2026-03,2876,Kyger Creek,OH,2,,Conventional Steam Coal,BIT,ST,OP,Operating,217.3,192.2,198.0
+2026-03,2876,Kyger Creek,OH,3,,Conventional Steam Coal,BIT,ST,OP,Operating,217.3,192.2,198.0
+2026-03,2876,Kyger Creek,OH,4,,Conventional Steam Coal,BIT,ST,OP,Operating,217.3,192.2,198.0
+2026-03,2876,Kyger Creek,OH,5,,Conventional Steam Coal,BIT,ST,OP,Operating,217.3,192.2,198.0
+2026-03,2878,FirstEnergy Bay Shore,OH,1,,Petroleum Coke,PC,ST,OP,Operating,171.0,139.5,137.0
+2026-03,2878,FirstEnergy Bay Shore,OH,CT,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,14.2,16.2
+2026-03,2880,Richland (OH),OH,1,,Petroleum Liquids,DFO,GT,OP,Operating,15.0,11.0,14.0
+2026-03,2880,Richland (OH),OH,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,15.0,11.0,14.0
+2026-03,2880,Richland (OH),OH,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,15.0,11.0,14.0
+2026-03,2880,Richland (OH),OH,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,135.0,112.0,130.0
+2026-03,2880,Richland (OH),OH,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,135.0,112.0,130.0
+2026-03,2880,Richland (OH),OH,6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,135.0,112.0,130.0
+2021-08,2917,Hamilton (OH),OH,5,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,10.0,10.0,10.0
+2021-08,2917,Hamilton (OH),OH,7,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,25.0,25.0,25.0
+2021-08,2917,Hamilton (OH),OH,8,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,25.0,25.0,25.0
+2021-08,2917,Hamilton (OH),OH,9,,Natural Gas Steam Turbine,NG,ST,OS,Out of service and NOT expected to return to service in next calendar year,50.6,51.0,50.0
+2026-03,2917,Hamilton (OH),OH,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,16.3,12.0,16.0
+2026-03,54207,Clevelandcliffs Warren,OH,GEN1,,Other Gases,OG,ST,OA,Out of service but expected to return to service in next calendar year,3.0,2.8,2.8
+2022-12,54207,Clevelandcliffs Warren,OH,GEN2,,Other Gases,OG,ST,OP,Operating,7.5,7.0,7.1
+2026-03,54207,Clevelandcliffs Warren,OH,GEN3,,Other Gases,OG,ST,OS,Out of service and NOT expected to return to service in next calendar year,10.0,9.3,9.4
+2026-03,55110,Madison,OH,CT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,71.0,88.0
+2026-03,55110,Madison,OH,CT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,71.0,88.0
+2026-03,55110,Madison,OH,CT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,69.0,88.0
+2026-03,55110,Madison,OH,CT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,70.0,88.0
+2026-03,55110,Madison,OH,CT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,70.0,88.0
+2026-03,55110,Madison,OH,CT6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,72.0,88.0
+2026-03,55110,Madison,OH,CT7,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,73.0,88.0
+2026-03,55110,Madison,OH,CT8,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,70.0,88.0
+2026-03,55228,Greenville Electric Generating Station,OH,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,59.0,49.0,59.0
+2026-03,55228,Greenville Electric Generating Station,OH,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,59.0,49.0,59.0
+2026-03,55228,Greenville Electric Generating Station,OH,GT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,59.0,49.0,59.0
+2026-03,55228,Greenville Electric Generating Station,OH,GT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,59.0,49.0,59.0
+2026-03,55247,"Darby Power, LLC",OH,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,80.0,90.0
+2026-03,55247,"Darby Power, LLC",OH,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,80.0,90.0
+2026-03,55247,"Darby Power, LLC",OH,GT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,80.0,90.0
+2026-03,55247,"Darby Power, LLC",OH,GT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,80.0,90.0
+2026-03,55247,"Darby Power, LLC",OH,GT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,80.0,90.0
+2026-03,55247,"Darby Power, LLC",OH,GT6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,94.0,80.0,90.0
+2026-03,55262,Bowling Green Generating Station,OH,CT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,33.0,26.0,33.0
+2026-03,55262,Bowling Green Generating Station,OH,CT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,16.5,12.0,16.5
+2026-03,55263,Galion Generating Station,OH,CT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,33.0,26.0,33.0
+2026-03,55263,Galion Generating Station,OH,CT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,16.5,12.0,16.5
+2026-03,55264,Napoleon Peaking Station,OH,CT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,33.0,26.0,33.0
+2026-03,55264,Napoleon Peaking Station,OH,CT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,16.5,12.0,16.5
+2026-03,55348,Troy Energy LLC,OH,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,176.2,181.0
+2026-03,55348,Troy Energy LLC,OH,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,176.2,181.0
+2026-03,55348,Troy Energy LLC,OH,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,175.1,179.2
+2026-03,55348,Troy Energy LLC,OH,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,177.0,181.1
+2026-03,55350,Dresden Energy Facility,OH,1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,158.3,183.3
+2026-03,55350,Dresden Energy Facility,OH,2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,158.3,183.3
+2026-03,55350,Dresden Energy Facility,OH,3,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,280.5,223.4,258.4
+2026-03,55397,Washington Energy Facility,OH,CT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,179.0,188.0
+2026-03,55397,Washington Energy Facility,OH,CT2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,179.0,188.0
+2026-03,55397,Washington Energy Facility,OH,ST1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,317.1,303.0,310.0
+2026-03,55401,Rolling Hills Generating,OH,CT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,195.5,185.0,209.0
+2026-03,55401,Rolling Hills Generating,OH,CT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,195.5,185.0,209.0
+2026-03,55401,Rolling Hills Generating,OH,CT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,195.5,185.0,209.0
+2026-03,55401,Rolling Hills Generating,OH,CT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,195.5,185.0,209.0
+2026-03,55401,Rolling Hills Generating,OH,CT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,195.5,185.0,209.0
+2026-03,55503,"Waterford Power, LLC",OH,CTG1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,174.2,168.0,190.0
+2026-03,55503,"Waterford Power, LLC",OH,CTG2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,174.2,168.0,190.0
+2026-03,55503,"Waterford Power, LLC",OH,CTG3,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,174.2,168.0,190.0
+2026-03,55503,"Waterford Power, LLC",OH,ST1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,399.0,370.6,390.0
+2026-03,55701,Fremont Energy Center,OH,CA01,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,358.7,345.1,345.1
+2026-03,55701,Fremont Energy Center,OH,CT01,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,190.4,170.0,170.0
+2026-03,55701,Fremont Energy Center,OH,CT02,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,190.4,170.0,170.0
+2026-03,55736,Hanging Rock Energy Facility,OH,1GT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,181.0,200.0
+2026-03,55736,Hanging Rock Energy Facility,OH,1GT2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,183.0,201.0
+2026-03,55736,Hanging Rock Energy Facility,OH,1ST,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,317.1,316.0,311.0
+2026-03,55736,Hanging Rock Energy Facility,OH,2GT1,CC2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,185.0,201.0
+2026-03,55736,Hanging Rock Energy Facility,OH,2GT2,CC2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,186.0,201.0
+2026-03,55736,Hanging Rock Energy Facility,OH,2ST,CC2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,317.1,314.0,312.0
+2026-03,59326,Middletown Energy Center,OH,MEC1,MCC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,310.2,253.3,280.6
+2026-03,59326,Middletown Energy Center,OH,MEC2,MCC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,233.7,209.2,222.2
+2026-03,59764,Oregon Clean Energy Center,OH,CTG11,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,328.0,247.2,291.6
+2026-03,59764,Oregon Clean Energy Center,OH,CTG12,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,328.0,246.7,283.6
+2026-03,59764,Oregon Clean Energy Center,OH,EDG13,,Petroleum Liquids,DFO,IC,OP,Operating,1.5,1.5,1.5
+2026-03,59764,Oregon Clean Energy Center,OH,STG10,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,404.0,323.0,320.4
+2026-03,59773,Carroll County Energy,OH,CGT1,CCE1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,235.5,213.3,228.3
+2026-03,59773,Carroll County Energy,OH,CGT2,CCE1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,235.5,213.3,228.3
+2026-03,59773,Carroll County Energy,OH,SGT1,CCE1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,361.3,288.0,303.8
+2022-04,6019,W H Zimmer,OH,ST1,,Conventional Steam Coal,RC,ST,OP,Operating,1425.6,1305.0,1333.0
+2026-03,60356,South Field Energy,OH,SFCT1,UNT1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,344.4,344.4,344.4
+2026-03,60356,South Field Energy,OH,SFCT2,UNT2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,344.4,344.4,344.4
+2026-03,60356,South Field Energy,OH,SFST1,UNT1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,260.8,260.8,260.8
+2026-03,60356,South Field Energy,OH,SFST2,UNT2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,260.8,260.8,260.8
+2026-03,60376,"Clean Energy Future-Lordstown, LLC",OH,CTG1,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,311.0,267.3,303.4
+2026-03,60376,"Clean Energy Future-Lordstown, LLC",OH,CTG2,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,311.0,267.7,307.4
+2026-03,60376,"Clean Energy Future-Lordstown, LLC",OH,STG1,CC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,340.0,321.5,334.6
+2026-03,61322,Long Ridge Energy Generation,OH,HPPP1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,521.9,485.0,485.0
+2026-03,62949,Guernsey Power Station,OH,GPS1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,685.0,597.6,625.0
+2026-03,62949,Guernsey Power Station,OH,GPS2,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,685.0,596.0,625.0
+2026-03,62949,Guernsey Power Station,OH,GPS3,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,685.0,594.9,625.0
+2026-03,7158,Woodsdale,OH,GT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,95.3,78.0,94.0
+2026-03,7158,Woodsdale,OH,GT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,95.3,80.0,94.0
+2026-03,7158,Woodsdale,OH,GT3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,95.3,80.0,94.0
+2026-03,7158,Woodsdale,OH,GT4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,95.3,78.0,94.0
+2026-03,7158,Woodsdale,OH,GT5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,95.3,80.0,94.0
+2026-03,7158,Woodsdale,OH,GT6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,95.3,80.0,94.0
+2026-03,7782,Hamilton Peaking,OH,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,32.0,29.0,32.0
+2026-03,7783,Bowling Green Peaking,OH,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,32.0,29.0,32.0
+2026-03,7872,Robert P Mone Plant,OH,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,147.0,180.0
+2026-03,7872,Robert P Mone Plant,OH,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,147.0,180.0
+2026-03,7872,Robert P Mone Plant,OH,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,147.0,180.0
+2026-03,8102,"Gavin Power, LLC",OH,1,,Conventional Steam Coal,BIT,ST,OP,Operating,1300.0,1361.0,1361.0
+2026-03,8102,"Gavin Power, LLC",OH,2,,Conventional Steam Coal,BIT,ST,OP,Operating,1300.0,1361.0,1361.0
+2026-03,10113,John B Rich Memorial Power Station,PA,GEN1,,Conventional Steam Coal,WC,ST,OP,Operating,88.4,80.0,80.0
+2026-03,10143,Colver Green Energy,PA,COLV,,Conventional Steam Coal,WC,ST,OP,Operating,118.0,110.0,110.0
+2026-03,10343,Foster Wheeler Mt Carmel Cogen,PA,TG1,,Conventional Steam Coal,WC,ST,OP,Operating,47.3,43.0,40.0
+2026-03,10603,Ebensburg Power,PA,GEN1,,Conventional Steam Coal,WC,ST,OP,Operating,57.6,50.0,50.0
+2026-03,10870,Hazelton,PA,GEN1,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,72.5,58.9,58.9
+2026-03,10870,Hazelton,PA,GEN2,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,33.0,28.3,29.8
+2026-03,10870,Hazelton,PA,GEN3,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,33.0,29.3,31.0
+2026-03,10870,Hazelton,PA,GEN4,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,33.0,29.1,31.2
+2026-03,3096,Brunot Island,PA,1A,,Petroleum Liquids,DFO,GT,OP,Operating,25.5,18.1,15.0
+2026-03,3096,Brunot Island,PA,2A,BICC,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,65.3,47.4,54.0
+2026-03,3096,Brunot Island,PA,2B,BICC,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,65.3,47.0,56.7
+2026-03,3096,Brunot Island,PA,3,BICC,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,65.3,47.5,57.7
+2026-03,3096,Brunot Island,PA,ST4,BICC,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,144.0,101.6,101.0
+2026-03,3111,Mountain,PA,1,,Petroleum Liquids,DFO,GT,OP,Operating,27.0,19.5,25.0
+2026-03,3111,Mountain,PA,2,,Petroleum Liquids,DFO,GT,OP,Operating,27.0,20.6,25.0
+2026-03,3113,Portland (PA),PA,3,,Petroleum Liquids,DFO,GT,OP,Operating,18.0,16.0,15.0
+2026-03,3113,Portland (PA),PA,4,,Petroleum Liquids,DFO,GT,OP,Operating,20.0,21.0,20.0
+2026-03,3113,Portland (PA),PA,5,,Petroleum Liquids,DFO,GT,OP,Operating,156.0,140.5,155.0
+2026-03,3116,Tolna,PA,1,,Petroleum Liquids,DFO,GT,OP,Operating,27.0,21.0,25.0
+2026-03,3116,Tolna,PA,2,,Petroleum Liquids,DFO,GT,OP,Operating,27.0,20.2,25.0
+2026-03,3118,Conemaugh,PA,1,,Conventional Steam Coal,BIT,ST,OP,Operating,975.5,850.0,850.0
+2026-03,3118,Conemaugh,PA,2,,Conventional Steam Coal,BIT,ST,OP,Operating,975.5,850.0,850.0
+2026-03,3118,Conemaugh,PA,A,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,3.0,2.8,2.8
+2026-03,3118,Conemaugh,PA,B,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,3.0,2.8,2.8
+2026-03,3118,Conemaugh,PA,C,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,3.0,2.8,2.8
+2026-03,3118,Conemaugh,PA,D,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,3.0,2.8,2.8
+2024-03,3122,Homer City Generating Station,PA,1,,Conventional Steam Coal,BIT,ST,OP,Operating,660.0,626.1,631.2
+2023-07,3122,Homer City Generating Station,PA,2,,Conventional Steam Coal,BIT,ST,OP,Operating,660.0,613.3,618.5
+2023-06,3122,Homer City Generating Station,PA,3,,Conventional Steam Coal,BIT,ST,OP,Operating,692.0,648.9,665.4
+2026-03,3130,Seward (PA),PA,FB1,,Conventional Steam Coal,WC,ST,OP,Operating,585.0,521.0,521.0
+2026-03,3131,Shawville,PA,1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,125.0,122.3,122.0
+2026-03,3131,Shawville,PA,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,125.0,124.7,124.7
+2026-03,3131,Shawville,PA,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,188.0,174.0,172.0
+2026-03,3131,Shawville,PA,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,188.0,175.0,171.0
+2026-03,3131,Shawville,PA,5,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.0,2.0,2.0
+2026-03,3131,Shawville,PA,6,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.0,2.0,2.0
+2026-03,3131,Shawville,PA,7,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.0,2.0,2.0
+2026-03,3132,Warren,PA,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.1,62.0,50.1
+2026-03,3136,Keystone,PA,1,,Conventional Steam Coal,BIT,ST,OP,Operating,936.0,850.0,850.0
+2026-03,3136,Keystone,PA,2,,Conventional Steam Coal,BIT,ST,OP,Operating,936.0,850.0,850.0
+2026-03,3136,Keystone,PA,3,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.5,2.8,2.8
+2026-03,3136,Keystone,PA,4,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.9,2.8,2.8
+2026-03,3136,Keystone,PA,5,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.9,2.8,2.8
+2026-03,3136,Keystone,PA,6,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.9,2.8,2.8
+2026-03,3138,New Castle Plant,PA,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,98.0,92.3,92.3
+2026-03,3138,New Castle Plant,PA,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,114.0,93.0,93.0
+2026-03,3138,New Castle Plant,PA,5,,Natural Gas Steam Turbine,NG,ST,OP,Operating,136.0,141.0,141.0
+2026-03,3138,New Castle Plant,PA,EMDA,,Petroleum Liquids,DFO,IC,OP,Operating,3.2,2.5,2.5
+2026-03,3138,New Castle Plant,PA,EMDB,,Petroleum Liquids,DFO,IC,OS,Out of service and NOT expected to return to service in next calendar year,3.2,2.5,2.5
+2026-03,3140,Brunner Island,PA,1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,363.3,306.0,306.0
+2026-03,3140,Brunner Island,PA,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,405.0,363.0,363.0
+2026-03,3140,Brunner Island,PA,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,847.8,742.0,742.0
+2026-03,3148,TalenEnergy Martins Creek,PA,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,850.5,850.0,850.0
+2026-03,3148,TalenEnergy Martins Creek,PA,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,850.5,850.0,850.0
+2023-05,3148,TalenEnergy Martins Creek,PA,CTG1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,23.6,18.0,18.0
+2023-05,3148,TalenEnergy Martins Creek,PA,CTG2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,23.6,17.3,17.3
+2022-05,3148,TalenEnergy Martins Creek,PA,CTG3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,22.3,18.0,18.0
+2023-05,3148,TalenEnergy Martins Creek,PA,CTG4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,23.6,17.2,17.2
+2026-03,3149,TalenEnergy Montour,PA,1,,Conventional Steam Coal,BIT,ST,OP,Operating,864.9,752.0,752.0
+2026-03,3149,TalenEnergy Montour,PA,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,893.0,752.0,752.0
+2026-03,3161,Eddystone Generating Station,PA,10,,Petroleum Liquids,DFO,GT,OP,Operating,18.6,13.0,18.7
+2026-03,3161,Eddystone Generating Station,PA,20,,Petroleum Liquids,DFO,GT,OP,Operating,18.6,13.0,18.9
+2026-03,3161,Eddystone Generating Station,PA,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,391.0,380.0,380.0
+2026-03,3161,Eddystone Generating Station,PA,30,,Petroleum Liquids,DFO,GT,OP,Operating,21.2,17.0,20.5
+2026-03,3161,Eddystone Generating Station,PA,4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,391.0,380.0,380.0
+2026-03,3161,Eddystone Generating Station,PA,40,,Petroleum Liquids,DFO,GT,OP,Operating,21.2,17.0,20.1
+2026-03,3168,Richmond Generating Station,PA,91,,Petroleum Liquids,DFO,GT,OP,Operating,65.8,49.0,66.4
+2026-03,3168,Richmond Generating Station,PA,92,,Petroleum Liquids,DFO,GT,OP,Operating,65.8,49.0,66.9
+2026-03,3176,Hunlock Power Station,PA,3,HUN1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,49.9,29.2,30.3
+2026-03,3176,Hunlock Power Station,PA,5,HUN1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.0,48.0,50.3
+2026-03,3176,Hunlock Power Station,PA,6,HUN1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.0,48.0,48.3
+2026-03,50279,Archbald Power Station,PA,GEN1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,23.2,20.0,20.0
+2026-03,50279,Archbald Power Station,PA,GEN5,,Landfill Gas,LFG,GT,OP,Operating,4.6,4.0,4.6
+2026-03,50279,Archbald Power Station,PA,GEN6,,Landfill Gas,LFG,GT,OP,Operating,4.6,4.0,4.6
+2026-03,50279,Archbald Power Station,PA,Gen2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,60.5,43.7,50.0
+2026-03,50397,Pixelle Specialty Solutions LLC - Spring,PA,GEN1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,6.0,5.0,5.0
+2026-03,50397,Pixelle Specialty Solutions LLC - Spring,PA,GEN3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,5.1,4.0,4.0
+2026-03,50397,Pixelle Specialty Solutions LLC - Spring,PA,GEN4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,7.5,8.7,8.7
+2026-03,50397,Pixelle Specialty Solutions LLC - Spring,PA,GEN5,,Conventional Steam Coal,BIT,ST,OP,Operating,45.9,36.1,36.1
+2026-03,50397,Pixelle Specialty Solutions LLC - Spring,PA,GEN6,,Wood/Wood Waste Biomass,BLQ,ST,OP,Operating,39.1,31.2,31.2
+2026-03,50410,Chester Operations,PA,6,6000,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,17.3,14.1,16.3
+2026-03,50410,Chester Operations,PA,6A,6000,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,17.3,14.1,16.3
+2026-03,50410,Chester Operations,PA,7,7000,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,17.3,14.1,16.3
+2026-03,50410,Chester Operations,PA,7A,7000,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,17.3,14.1,16.3
+2026-03,50463,Procter & Gamble Mehoopany Mill,PA,GEN1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,53.6,40.0,59.0
+2026-03,50463,Procter & Gamble Mehoopany Mill,PA,GEN2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,2.6,0.9,1.6
+2026-03,50463,Procter & Gamble Mehoopany Mill,PA,GEN3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,64.0,64.0,64.0
+2026-03,50611,Westwood Generation LLC,PA,GEN1,,Conventional Steam Coal,WC,ST,OP,Operating,36.0,30.0,30.0
+2026-03,50729,Clairton Works,PA,GEN1,,Other Gases,OG,ST,OP,Operating,21.0,16.0,18.0
+2026-03,50729,Clairton Works,PA,GEN3,,Other Gases,OG,ST,OP,Operating,10.0,8.0,8.0
+2026-03,50732,Mon Valley Works,PA,GEN1,,Other Gases,BFG,ST,OP,Operating,25.0,30.0,33.0
+2026-03,50732,Mon Valley Works,PA,GEN2,,Other Gases,BFG,ST,OP,Operating,25.0,30.0,33.0
+2026-03,50732,Mon Valley Works,PA,GEN3,,Other Gases,BFG,ST,OP,Operating,2.5,1.9,1.9
+2026-03,50776,Panther Creek Energy Facility,PA,GEN1,,Conventional Steam Coal,WC,ST,OP,Operating,94.0,80.0,80.0
+2020-01,50879,Wheelabrator Frackville Energy,PA,GEN1,,Conventional Steam Coal,WC,ST,OP,Operating,48.0,42.5,42.5
+2026-03,50888,Northampton Generating Company LP,PA,GEN1,,Conventional Steam Coal,WC,ST,OP,Operating,134.1,112.0,112.0
+2026-03,50974,Scrubgrass Reclamation CO. LP.,PA,GEN1,,Conventional Steam Coal,WC,ST,OP,Operating,94.7,83.8,80.7
+2026-03,52149,West Point (PA),PA,COG3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,38.4,38.5,40.0
+2026-03,52149,West Point (PA),PA,GEN14,,Natural Gas Internal Combustion Engine,NG,IC,SB,Standby/Backup: available for service but not normally used,1.5,1.5,1.5
+2026-03,52149,West Point (PA),PA,GEN15,,Natural Gas Internal Combustion Engine,NG,IC,SB,Standby/Backup: available for service but not normally used,1.3,1.1,1.3
+2026-03,52149,West Point (PA),PA,GEN16,,Natural Gas Internal Combustion Engine,NG,IC,SB,Standby/Backup: available for service but not normally used,1.3,1.1,1.3
+2026-03,52149,West Point (PA),PA,GEN17,,Natural Gas Internal Combustion Engine,NG,IC,SB,Standby/Backup: available for service but not normally used,2.0,2.0,2.0
+2026-03,52149,West Point (PA),PA,GEN18,,Natural Gas Internal Combustion Engine,NG,IC,SB,Standby/Backup: available for service but not normally used,2.5,2.5,2.5
+2026-03,52149,West Point (PA),PA,GEN19,,Natural Gas Internal Combustion Engine,NG,IC,SB,Standby/Backup: available for service but not normally used,1.0,1.0,1.0
+2026-03,52149,West Point (PA),PA,GEN2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,32.3,24.5,26.0
+2026-03,52149,West Point (PA),PA,GEN20,,Natural Gas Internal Combustion Engine,NG,IC,SB,Standby/Backup: available for service but not normally used,2.0,2.0,2.0
+2026-03,52149,West Point (PA),PA,GEN3,,Petroleum Liquids,DFO,IC,OS,Out of service and NOT expected to return to service in next calendar year,2.5,2.4,2.5
+2021-12,52149,West Point (PA),PA,GEN4,,Natural Gas Internal Combustion Engine,NG,IC,OS,Out of service and NOT expected to return to service in next calendar year,1.7,1.7,1.7
+2026-03,52149,West Point (PA),PA,GEN5,,Petroleum Liquids,DFO,IC,OS,Out of service and NOT expected to return to service in next calendar year,1.2,1.2,1.2
+2022-07,52149,West Point (PA),PA,GEN7,,Natural Gas Internal Combustion Engine,NG,IC,OS,Out of service and NOT expected to return to service in next calendar year,0.7,0.7,0.7
+2026-03,52149,West Point (PA),PA,GEN8,,Natural Gas Internal Combustion Engine,NG,IC,OS,Out of service and NOT expected to return to service in next calendar year,1.0,1.0,1.0
+2026-03,52149,West Point (PA),PA,GEN9,,Natural Gas Internal Combustion Engine,NG,IC,SB,Standby/Backup: available for service but not normally used,1.3,0.9,0.9
+2026-03,52149,West Point (PA),PA,GN10,,Natural Gas Internal Combustion Engine,NG,IC,SB,Standby/Backup: available for service but not normally used,1.3,0.9,0.9
+2026-03,52149,West Point (PA),PA,GN11,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,1.0,0.9,0.9
+2021-12,52149,West Point (PA),PA,GN12,,Petroleum Liquids,DFO,IC,SB,Standby/Backup: available for service but not normally used,2.0,2.0,2.0
+2021-12,52149,West Point (PA),PA,GN13,,Petroleum Liquids,DFO,IC,OA,Out of service but expected to return to service in next calendar year,2.0,2.0,2.0
+2026-03,54634,St Nicholas Cogen Project,PA,SNCP,,Conventional Steam Coal,WC,ST,OP,Operating,99.2,86.0,86.0
+2026-03,54638,Johnsonburg Mill,PA,PT1,,Wood/Wood Waste Biomass,BLQ,ST,OP,Operating,54.0,49.0,49.0
+2026-03,54785,Grays Ferry Cogeneration,PA,GEN1,CC1,Natural Gas Steam Turbine,NG,ST,OP,Operating,57.6,56.6,56.6
+2026-03,54785,Grays Ferry Cogeneration,PA,GEN2,CC1,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,135.0,114.0,127.0
+2026-03,55193,Ontelaunee Energy Center,PA,CTG1,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,250.0,186.3,200.3
+2026-03,55193,Ontelaunee Energy Center,PA,CTG2,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,250.0,184.8,201.8
+2026-03,55193,Ontelaunee Energy Center,PA,STG,CC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,228.0,174.8,188.7
+2026-03,55196,Springdale 1 & 2,PA,UNT1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,43.8,48.5,49.0
+2026-03,55196,Springdale 1 & 2,PA,UNT2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,43.8,48.3,49.2
+2026-03,55231,Liberty Electric Power Plant,PA,GTG1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,186.0,169.1,169.1
+2026-03,55231,Liberty Electric Power Plant,PA,GTG2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,186.0,169.1,169.1
+2026-03,55231,Liberty Electric Power Plant,PA,STG,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,242.0,223.8,223.8
+2026-03,55233,Handsome Lake Energy LLC,PA,GT01,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,53.5,53.5
+2026-03,55233,Handsome Lake Energy LLC,PA,GT02,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,53.5,53.5
+2026-03,55233,Handsome Lake Energy LLC,PA,GT03,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,53.5,53.5
+2026-03,55233,Handsome Lake Energy LLC,PA,GT04,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,53.5,53.5
+2026-03,55233,Handsome Lake Energy LLC,PA,GT05,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,53.5,53.5
+2026-03,55298,Fairless Energy Center,PA,CT1A,BLK1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,191.0,207.0
+2026-03,55298,Fairless Energy Center,PA,CT1B,BLK1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,191.0,207.0
+2026-03,55298,Fairless Energy Center,PA,CT2A,BLK2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,191.0,207.0
+2026-03,55298,Fairless Energy Center,PA,CT2B,BLK2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,191.0,207.0
+2026-03,55298,Fairless Energy Center,PA,ST1,BLK1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,271.2,258.0,263.7
+2026-03,55298,Fairless Energy Center,PA,ST2,BLK2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,271.2,258.0,263.7
+2026-03,55337,Ironwood LLC,PA,CT1,CC02,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,259.2,261.6,261.6
+2026-03,55337,Ironwood LLC,PA,CT2,CC02,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,259.2,261.6,261.6
+2026-03,55337,Ironwood LLC,PA,ST4,CC02,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,259.2,236.8,236.8
+2026-03,55347,Armstrong,PA,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,172.0,168.4,208.9
+2026-03,55347,Armstrong,PA,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,172.0,163.6,202.9
+2026-03,55347,Armstrong,PA,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,172.0,169.0,209.6
+2026-03,55347,Armstrong,PA,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,172.0,169.7,208.3
+2026-03,55377,Gans,PA,UNT8,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,43.8,48.7,49.3
+2026-03,55377,Gans,PA,UNT9,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,43.8,48.7,48.9
+2026-03,55516,Fayette Energy Facility,PA,CTG1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,177.7,201.9
+2026-03,55516,Fayette Energy Facility,PA,CTG2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,198.9,177.7,201.9
+2026-03,55516,Fayette Energy Facility,PA,STG1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,317.1,312.2,302.1
+2026-03,55524,York Energy Center,PA,CTG1,CCB1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,120.0,125.0,125.0
+2026-03,55524,York Energy Center,PA,CTG2,CCB1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,120.0,125.0,125.0
+2026-03,55524,York Energy Center,PA,CTG3,CCB1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,120.0,125.0,125.0
+2026-03,55524,York Energy Center,PA,CTG5,CCB2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,234.9,214.0,228.0
+2026-03,55524,York Energy Center,PA,CTG6,CCB2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,234.9,214.0,228.0
+2026-03,55524,York Energy Center,PA,STG1,CCB1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,200.0,194.0,194.0
+2026-03,55524,York Energy Center,PA,STG2,CCB2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,419.6,407.0,408.0
+2026-03,55654,Chambersburg,PA,UN12,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,43.8,50.2,49.8
+2026-03,55654,Chambersburg,PA,UN13,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,43.8,50.2,49.8
+2026-03,55667,Lower Mount Bethel Energy,PA,G1,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,211.5,195.3,195.3
+2026-03,55667,Lower Mount Bethel Energy,PA,G2,CC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,211.5,191.3,191.3
+2026-03,55667,Lower Mount Bethel Energy,PA,G3,CC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,228.6,215.0,215.0
+2026-03,55690,Bethlehem Power Plant,PA,CTG1,1234,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,127.0,125.0,125.0
+2026-03,55690,Bethlehem Power Plant,PA,CTG2,1234,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,127.0,125.0,125.0
+2026-03,55690,Bethlehem Power Plant,PA,CTG3,1234,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,127.0,125.0,125.0
+2026-03,55690,Bethlehem Power Plant,PA,CTG5,5678,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,127.0,125.0,125.0
+2026-03,55690,Bethlehem Power Plant,PA,CTG6,5678,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,127.0,125.0,125.0
+2026-03,55690,Bethlehem Power Plant,PA,CTG7,5678,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,127.0,125.0,125.0
+2026-03,55690,Bethlehem Power Plant,PA,STG4,1234,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,195.5,193.0,193.0
+2026-03,55690,Bethlehem Power Plant,PA,STG8,5678,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,195.5,193.0,193.0
+2026-03,55710,Allegheny Energy Units 3 4 & 5,PA,UNT3,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,184.0,181.4,202.8
+2026-03,55710,Allegheny Energy Units 3 4 & 5,PA,UNT4,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,184.0,182.5,202.8
+2026-03,55710,Allegheny Energy Units 3 4 & 5,PA,UNT5,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,188.0,198.7,188.8
+2026-03,55801,Marcus Hook Energy LP,PA,CT13,CCG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,188.2,190.0,207.0
+2026-03,55801,Marcus Hook Energy LP,PA,CT1A,CCG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,188.2,190.0,207.0
+2026-03,55801,Marcus Hook Energy LP,PA,CTIB,CCG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,188.2,190.0,207.0
+2026-03,55801,Marcus Hook Energy LP,PA,STG,CCG1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,271.5,307.0,307.0
+2026-03,55976,Hunterstown Power Plant,PA,101,CT1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,179.0,165.0,205.0
+2026-03,55976,Hunterstown Power Plant,PA,201,CT1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,179.0,165.0,205.0
+2026-03,55976,Hunterstown Power Plant,PA,301,CT1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,179.0,165.0,205.0
+2026-03,55976,Hunterstown Power Plant,PA,401,CT1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,361.0,315.0,315.0
+2026-03,56397,Hunlock Unit 4,PA,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,44.0,44.8,50.5
+2026-03,58420,Hamilton Liberty,PA,GEN1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,435.0,415.0,455.0
+2026-03,58420,Hamilton Liberty,PA,GEN2,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,435.0,415.0,455.0
+2026-03,58426,Hamilton Patriot Generation Plant,PA,GEN1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,435.0,412.5,453.0
+2026-03,58426,Hamilton Patriot Generation Plant,PA,GEN2,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,435.0,382.5,453.0
+2026-03,58933,Shell Chemical Appalachia LLC,PA,GTG1,COGN,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.4,37.1,46.5
+2026-03,58933,Shell Chemical Appalachia LLC,PA,GTG2,COGN,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.4,37.1,46.5
+2026-03,58933,Shell Chemical Appalachia LLC,PA,GTG3,COGN,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,48.4,37.1,46.5
+2026-03,58933,Shell Chemical Appalachia LLC,PA,STG1,COGN,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,82.3,72.7,75.8
+2026-03,58933,Shell Chemical Appalachia LLC,PA,STG2,COGN,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,82.3,72.7,75.8
+2026-03,59906,Moxie Freedom Generation Plant,PA,GEN1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,552.5,522.5,552.5
+2026-03,59906,Moxie Freedom Generation Plant,PA,GEN2,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,552.5,522.5,552.5
+2026-03,60357,Lackawanna Energy Center,PA,GEN1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,499.5,454.0,489.0
+2026-03,60357,Lackawanna Energy Center,PA,GEN2,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,499.5,454.0,489.0
+2026-03,60357,Lackawanna Energy Center,PA,GEN3,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,499.5,454.0,489.0
+2026-03,60368,Hummel Station LLC,PA,CTG1,HUM1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,244.8,228.8,240.3
+2026-03,60368,Hummel Station LLC,PA,CTG2,HUM1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,244.8,219.9,233.1
+2026-03,60368,Hummel Station LLC,PA,CTG3,HUM1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,244.8,219.9,227.0
+2026-03,60368,Hummel Station LLC,PA,STG,HUM1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,460.0,417.1,389.9
+2026-03,60464,Tenaska Westmoreland Generating Station,PA,CTG1,STG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,370.0,288.0,328.5
+2026-03,60464,Tenaska Westmoreland Generating Station,PA,CTG2,STG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,370.0,288.0,328.5
+2026-03,60464,Tenaska Westmoreland Generating Station,PA,STG1,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,394.0,371.0,375.0
+2026-03,60589,CPV Fairview Energy Center,PA,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,372.0,332.7,351.2
+2026-03,60589,CPV Fairview Energy Center,PA,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OA,Out of service but expected to return to service in next calendar year,372.0,331.5,352.1
+2026-03,60589,CPV Fairview Energy Center,PA,GEN3,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,453.0,392.4,391.4
+2026-03,61028,Hickory Run Energy Station,PA,CTG1,HRES,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,295.0,273.5,302.0
+2026-03,61028,Hickory Run Energy Station,PA,CTG2,HRES,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,295.0,274.6,300.8
+2026-03,61028,Hickory Run Energy Station,PA,STG1,HRES,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,443.7,414.2,417.1
+2026-03,61035,Birdsboro Power,PA,GEN1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,525.0,485.0,485.0
+2026-03,62565,"Hill Top Energy Center, LLC",PA,GEN1,,Natural Gas Fired Combined Cycle,NG,CS,OP,Operating,664.7,623.5,623.7
+2020-05,7701,Fairless Hills,PA,A,,Landfill Gas,LFG,ST,OP,Operating,30.0,30.0,30.0
+2020-05,7701,Fairless Hills,PA,B,,Landfill Gas,LFG,ST,OP,Operating,30.0,30.0,30.0
+2026-03,8012,Croydon CT Generating Station,PA,11,,Petroleum Liquids,DFO,GT,OP,Operating,68.3,49.0,65.7
+2026-03,8012,Croydon CT Generating Station,PA,12,,Petroleum Liquids,DFO,GT,OP,Operating,68.3,49.0,65.4
+2026-03,8012,Croydon CT Generating Station,PA,21,,Petroleum Liquids,DFO,GT,OP,Operating,68.3,49.0,67.0
+2026-03,8012,Croydon CT Generating Station,PA,22,,Petroleum Liquids,DFO,GT,OP,Operating,68.3,49.0,65.9
+2026-03,8012,Croydon CT Generating Station,PA,31,,Petroleum Liquids,DFO,GT,OP,Operating,68.3,49.0,65.5
+2026-03,8012,Croydon CT Generating Station,PA,32,,Petroleum Liquids,DFO,GT,OP,Operating,68.3,48.0,64.2
+2026-03,8012,Croydon CT Generating Station,PA,41,,Petroleum Liquids,DFO,GT,OP,Operating,68.3,49.0,64.2
+2026-03,8012,Croydon CT Generating Station,PA,42,,Petroleum Liquids,DFO,GT,OP,Operating,68.3,49.0,65.6
+2022-02,8226,Cheswick Power Plant,PA,1,,Conventional Steam Coal,BIT,ST,OP,Operating,637.0,565.0,565.0
+2026-03,3236,Manchester Street,RI,G10A,0321,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,125.0,110.1,115.6
+2026-03,3236,Manchester Street,RI,G11A,0322,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,125.0,110.2,115.6
+2026-03,3236,Manchester Street,RI,GE10,0321,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,48.0,46.9,54.4
+2026-03,3236,Manchester Street,RI,GE11,0322,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,46.0,46.8,54.4
+2026-03,3236,Manchester Street,RI,GE9A,0323,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,125.0,110.1,115.6
+2026-03,3236,Manchester Street,RI,GEN9,0323,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,46.0,46.9,54.5
+2026-03,51030,Ocean State Power,RI,GEN1,OSP1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,82.8,71.2,77.8
+2026-03,51030,Ocean State Power,RI,GEN2,OSP1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,82.8,71.2,77.8
+2026-03,51030,Ocean State Power,RI,GEN3,OSP1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,88.6,76.2,83.3
+2021-02,54056,Pawtucket Power Associates,RI,GEN1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,41.8,33.0,42.0
+2021-02,54056,Pawtucket Power Associates,RI,GEN2,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,27.0,27.0,27.0
+2026-03,54324,Ocean State Power II,RI,GEN1,OSP2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,97.3,77.8,97.3
+2026-03,54324,Ocean State Power II,RI,GEN2,OSP2,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,97.3,77.8,97.3
+2026-03,54324,Ocean State Power II,RI,GEN3,OSP2,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,112.0,112.0,112.0
+2026-03,55048,Tiverton Power Plant,RI,UNT1,1226,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,179.4,182.4,196.9
+2026-03,55048,Tiverton Power Plant,RI,UNT2,1226,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,95.1,90.6,94.9
+2026-03,55107,Rhode Island State Energy Center,RI,CTG1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,196.0,168.0,197.5
+2026-03,55107,Rhode Island State Energy Center,RI,CTG2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,196.0,168.0,197.5
+2026-03,55107,Rhode Island State Energy Center,RI,STG1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,204.0,218.0,220.0
+2026-03,10017,WestRock-West Point Mill,VA,GEN8,,Wood/Wood Waste Biomass,BLQ,ST,OS,Out of service and NOT expected to return to service in next calendar year,5.0,5.0,5.0
+2026-03,10017,WestRock-West Point Mill,VA,GEN9,,Wood/Wood Waste Biomass,BLQ,ST,OP,Operating,10.0,10.0,10.0
+2026-03,10017,WestRock-West Point Mill,VA,GN10,,Wood/Wood Waste Biomass,BLQ,ST,OP,Operating,25.0,25.0,25.0
+2026-03,10017,WestRock-West Point Mill,VA,GN11,,Wood/Wood Waste Biomass,BLQ,ST,OP,Operating,15.0,15.0,15.0
+2026-03,10017,WestRock-West Point Mill,VA,GN12,,Wood/Wood Waste Biomass,BLQ,ST,OP,Operating,46.0,46.0,46.0
+2026-03,10633,Hopewell Cogeneration,VA,GT1,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,101.0,94.1,101.0
+2026-03,10633,Hopewell Cogeneration,VA,GT2,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,101.0,94.1,101.0
+2026-03,10633,Hopewell Cogeneration,VA,GT3,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,101.0,94.1,101.0
+2026-03,10633,Hopewell Cogeneration,VA,ST1,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,96.0,96.0,96.0
+2026-03,10771,Hopewell Power Station,VA,1,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,71.1,51.0,51.0
+2026-03,10773,Altavista Power Station,VA,1,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,71.1,51.0,51.0
+2026-03,10774,Southampton Power Station,VA,1,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,71.1,51.0,53.7
+2026-03,3775,Clinch River,VA,1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,237.5,230.0,235.0
+2026-03,3775,Clinch River,VA,2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,237.5,230.0,235.0
+2026-03,3785,Tasley,VA,TAS,,Petroleum Liquids,DFO,GT,SB,Standby/Backup: available for service but not normally used,27.0,29.9,40.3
+2023-04,3797,Chesterfield,VA,5,,Conventional Steam Coal,BIT,ST,OP,Operating,359.0,336.0,342.0
+2023-04,3797,Chesterfield,VA,6,,Conventional Steam Coal,BIT,ST,OP,Operating,693.9,670.0,690.0
+2026-03,3797,Chesterfield,VA,CT7,CH7,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,145.0,135.6,169.3
+2026-03,3797,Chesterfield,VA,CT8,CH8,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,148.0,137.0,171.3
+2026-03,3797,Chesterfield,VA,CW7,CH7,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,74.4,55.6,61.1
+2026-03,3797,Chesterfield,VA,CW8,CH8,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,79.2,57.8,63.8
+2020-11,3804,Possum Point,VA,5,,Petroleum Liquids,RFO,ST,OP,Operating,882.0,786.0,805.0
+2026-03,3804,Possum Point,VA,6A,G784,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,174.0,158.5,198.7
+2026-03,3804,Possum Point,VA,6B,G784,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,174.0,155.9,196.9
+2026-03,3804,Possum Point,VA,6ST,G784,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,265.0,256.3,234.4
+2026-03,3804,Possum Point,VA,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,12.0,15.7
+2026-03,3804,Possum Point,VA,GT2,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,11.9,16.3
+2026-03,3804,Possum Point,VA,GT3,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,11.9,16.4
+2026-03,3804,Possum Point,VA,GT4,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,11.9,16.4
+2026-03,3804,Possum Point,VA,GT5,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,11.9,16.1
+2026-03,3804,Possum Point,VA,GT6,,Petroleum Liquids,DFO,GT,OP,Operating,16.0,11.9,17.4
+2023-04,3809,Yorktown,VA,3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,882.0,790.0,792.0
+2026-03,50479,Georgia-Pacific Big Island,VA,BHG1,,Conventional Hydroelectric,WAT,HY,OP,Operating,0.2,0.2,0.2
+2026-03,50479,Georgia-Pacific Big Island,VA,BHG2,,Conventional Hydroelectric,WAT,HY,OP,Operating,0.2,0.2,0.2
+2026-03,50479,Georgia-Pacific Big Island,VA,GEN1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,7.5,7.0,7.0
+2026-03,50900,Covington Facility,VA,GEN3,,Conventional Steam Coal,BIT,ST,OP,Operating,10.5,10.5,10.5
+2026-03,50900,Covington Facility,VA,GEN4,,Wood/Wood Waste Biomass,BLQ,ST,OP,Operating,34.0,32.5,32.5
+2026-03,50900,Covington Facility,VA,GEN5,,Conventional Steam Coal,BIT,ST,OP,Operating,34.0,32.5,32.5
+2026-03,50900,Covington Facility,VA,GEN7,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,82.4,81.0,82.4
+2026-03,52019,Doswell Energy Center,VA,GEN1,UNT5,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,122.0,112.5,122.0
+2026-03,52019,Doswell Energy Center,VA,GEN2,UNT5,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,122.0,112.5,122.0
+2026-03,52019,Doswell Energy Center,VA,GEN3,UNT5,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,132.0,123.0,132.0
+2026-03,52019,Doswell Energy Center,VA,GEN4,UNT6,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,122.0,112.5,122.0
+2026-03,52019,Doswell Energy Center,VA,GEN5,UNT6,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,122.0,118.0,132.0
+2026-03,52019,Doswell Energy Center,VA,GEN6,UNT6,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,132.0,123.0,132.0
+2026-03,52019,Doswell Energy Center,VA,GEN7,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,187.0,170.0,188.0
+2026-03,52019,Doswell Energy Center,VA,GEN8,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,187.0,165.2,188.0
+2026-03,52019,Doswell Energy Center,VA,GEN9,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,187.0,161.5,188.0
+2026-03,52087,Elizabeth River Power Station,VA,GEN1,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,129.6,109.0,118.6
+2026-03,52087,Elizabeth River Power Station,VA,GEN2,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,129.6,107.0,118.5
+2026-03,52087,Elizabeth River Power Station,VA,GEN3,,Natural Gas Fired Combustion Turbine,NG,GT,SB,Standby/Backup: available for service but not normally used,129.6,109.0,114.2
+2026-03,52089,Celanese Acetate LLC,VA,GEN1,,Natural Gas Steam Turbine,NG,ST,OP,Operating,6.0,6.0,6.0
+2026-03,52089,Celanese Acetate LLC,VA,GEN2,,Natural Gas Steam Turbine,NG,ST,OP,Operating,6.0,6.0,6.0
+2026-03,52089,Celanese Acetate LLC,VA,GEN3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,6.0,6.0,6.0
+2026-03,52089,Celanese Acetate LLC,VA,GEN4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,9.2,9.2,9.2
+2020-12,54081,Spruance Operating Services LLC,VA,GEN1,,Conventional Steam Coal,BIT,ST,OS,Out of service and NOT expected to return to service in next calendar year,57.4,52.5,52.5
+2020-12,54081,Spruance Operating Services LLC,VA,GEN2,,Conventional Steam Coal,BIT,ST,OS,Out of service and NOT expected to return to service in next calendar year,57.4,52.5,52.5
+2026-03,54081,Spruance Operating Services LLC,VA,GEN3,,Natural Gas Steam Turbine,NG,ST,OP,Operating,57.4,42.5,42.5
+2026-03,54081,Spruance Operating Services LLC,VA,GEN4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,57.4,12.5,12.5
+2021-02,54304,Birchwood Power,VA,1,,Conventional Steam Coal,BIT,ST,OP,Operating,258.3,237.7,242.2
+2026-03,54844,Gordonsville Energy LP,VA,GOR1,G782,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,97.2,65.5,75.5
+2026-03,54844,Gordonsville Energy LP,VA,GOR2,G783,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,97.2,65.0,75.0
+2026-03,54844,Gordonsville Energy LP,VA,GOR3,G782,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,53.0,43.5,44.5
+2026-03,54844,Gordonsville Energy LP,VA,GOR4,G783,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,53.0,44.0,45.0
+2026-03,55285,Wolf Hills Energy,VA,WHG1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.0,50.0,57.0
+2026-03,55285,Wolf Hills Energy,VA,WHG2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.0,50.0,57.0
+2026-03,55285,Wolf Hills Energy,VA,WHG3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.0,50.0,57.0
+2026-03,55285,Wolf Hills Energy,VA,WHG4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.0,50.0,57.0
+2026-03,55285,Wolf Hills Energy,VA,WHG5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,57.0,50.0,57.0
+2026-03,55381,Commonwealth Chesapeake,VA,UNT1,,Petroleum Liquids,DFO,GT,OP,Operating,57.5,45.4,46.4
+2026-03,55381,Commonwealth Chesapeake,VA,UNT2,,Petroleum Liquids,DFO,GT,OP,Operating,57.5,45.9,47.4
+2026-03,55381,Commonwealth Chesapeake,VA,UNT3,,Petroleum Liquids,DFO,GT,OP,Operating,57.5,46.1,47.5
+2026-03,55381,Commonwealth Chesapeake,VA,UNT4,,Petroleum Liquids,DFO,GT,OP,Operating,57.5,44.2,45.5
+2026-03,55381,Commonwealth Chesapeake,VA,UNT5,,Petroleum Liquids,DFO,GT,OP,Operating,57.5,45.5,47.2
+2026-03,55381,Commonwealth Chesapeake,VA,UNT6,,Petroleum Liquids,DFO,GT,OP,Operating,57.5,45.2,46.5
+2026-03,55381,Commonwealth Chesapeake,VA,UNT7,,Petroleum Liquids,DFO,GT,OP,Operating,57.5,44.8,45.0
+2026-03,55439,Tenaska Virginia Generating Station,VA,CTG1,STG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,207.0,173.4,189.2
+2026-03,55439,Tenaska Virginia Generating Station,VA,CTG2,STG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,207.0,174.4,190.1
+2026-03,55439,Tenaska Virginia Generating Station,VA,CTG3,STG1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,207.0,183.5,196.2
+2026-03,55439,Tenaska Virginia Generating Station,VA,STG1,STG1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,390.4,406.1,405.7
+2026-03,55738,Buchanan Generation LLC,VA,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,44.0,43.0,47.7
+2026-03,55738,Buchanan Generation LLC,VA,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,44.0,41.0,44.3
+2026-03,55939,Warren County,VA,CT01,WC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,297.5,263.7,293.6
+2026-03,55939,Warren County,VA,CT02,WC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,297.5,260.1,292.4
+2026-03,55939,Warren County,VA,CT03,WC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,297.5,259.4,288.4
+2026-03,55939,Warren County,VA,ST01,WC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,579.7,586.7,610.6
+2026-03,56807,Bear Garden,VA,1A,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,145.0,183.4,190.7
+2026-03,56807,Bear Garden,VA,1B,CC1,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,152.0,183.4,190.7
+2026-03,56807,Bear Garden,VA,1C,CC1,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,262.0,261.4,262.6
+2026-03,56808,Virginia City Hybrid Energy Center,VA,1,,Conventional Steam Coal,BIT,ST,OP,Operating,668.0,610.0,621.5
+2026-03,58260,Brunswick County Power Station,VA,CT01,BC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,297.5,258.0,295.2
+2026-03,58260,Brunswick County Power Station,VA,CT02,BC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,297.5,263.8,292.5
+2026-03,58260,Brunswick County Power Station,VA,CT03,BC01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,297.5,267.5,289.8
+2026-03,58260,Brunswick County Power Station,VA,ST01,BC01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,579.7,586.7,634.0
+2026-03,59004,"Potomac Energy Center, LLC",VA,GEN1,STNL,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,237.0,220.0,224.0
+2026-03,59004,"Potomac Energy Center, LLC",VA,GEN2,STNL,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,237.0,220.0,224.0
+2026-03,59004,"Potomac Energy Center, LLC",VA,GEN3,STNL,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,338.0,326.0,322.0
+2026-03,59913,Greensville County Power Station,VA,CT01,GV01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,369.8,324.2,358.4
+2026-03,59913,Greensville County Power Station,VA,CT02,GV01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,369.8,322.8,355.7
+2026-03,59913,Greensville County Power Station,VA,CT03,GV01,Natural Gas Fired Combined Cycle,NG,CT,OP,Operating,369.8,327.8,349.8
+2026-03,59913,Greensville County Power Station,VA,ST01,GV01,Natural Gas Fired Combined Cycle,NG,CA,OP,Operating,663.9,630.3,663.7
+2026-03,7032,Gravel Neck,VA,1,,Petroleum Liquids,DFO,GT,OP,Operating,16.3,12.0,15.2
+2026-03,7032,Gravel Neck,VA,2,,Petroleum Liquids,DFO,GT,OP,Operating,23.8,16.0,25.7
+2026-03,7032,Gravel Neck,VA,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,91.9,85.0,87.9
+2026-03,7032,Gravel Neck,VA,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,91.9,85.0,89.3
+2026-03,7032,Gravel Neck,VA,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,91.9,85.0,88.4
+2026-03,7032,Gravel Neck,VA,6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,91.9,85.0,90.0
+2026-03,7212,Darbytown,VA,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,92.1,85.0,91.2
+2026-03,7212,Darbytown,VA,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,92.1,85.0,92.0
+2026-03,7212,Darbytown,VA,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,92.1,85.0,88.7
+2026-03,7212,Darbytown,VA,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,92.1,85.0,86.8
+2026-03,7213,Clover,VA,1,,Conventional Steam Coal,BIT,ST,OP,Operating,424.0,440.0,442.9
+2026-03,7213,Clover,VA,2,,Conventional Steam Coal,BIT,ST,OP,Operating,424.0,437.1,439.0
+2026-03,7836,Marsh Run Generation Facility,VA,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,161.8,192.0
+2026-03,7836,Marsh Run Generation Facility,VA,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,160.5,192.0
+2026-03,7836,Marsh Run Generation Facility,VA,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,161.7,192.0
+2026-03,7837,Louisa Generation Facility,VA,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.7,76.5,92.0
+2026-03,7837,Louisa Generation Facility,VA,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.7,77.0,92.0
+2026-03,7837,Louisa Generation Facility,VA,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.7,77.3,92.0
+2026-03,7837,Louisa Generation Facility,VA,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.7,77.2,92.0
+2026-03,7837,Louisa Generation Facility,VA,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,198.9,158.0,187.0
+2026-03,7838,Remington,VA,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,178.5,149.7,190.0
+2026-03,7838,Remington,VA,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,170.0,150.7,190.0
+2026-03,7838,Remington,VA,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,178.5,161.6,190.0
+2026-03,7838,Remington,VA,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,178.5,151.7,190.0
+2026-03,7839,Ladysmith,VA,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,178.5,154.7,187.0
+2026-03,7839,Ladysmith,VA,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,178.5,153.7,187.0
+2026-03,7839,Ladysmith,VA,3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,178.5,159.8,187.0
+2026-03,7839,Ladysmith,VA,4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,178.5,160.1,187.0
+2026-03,7839,Ladysmith,VA,5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,178.5,160.6,187.0
+2026-03,3734,Berlin 5,VT,GT1,,Petroleum Liquids,KER,GT,OP,Operating,41.8,35.0,45.7
+2026-03,3754,Burlington GT,VT,GT1,,Petroleum Liquids,DFO,GT,OP,Operating,25.5,19.7,23.4
+2026-03,589,J C McNeil,VT,1,,Wood/Wood Waste Biomass,WDS,ST,OP,Operating,59.5,52.0,54.0
+2026-03,10151,Grant Town Power Plant,WV,GEN1,,Conventional Steam Coal,WC,ST,OP,Operating,95.7,80.0,80.0
+2026-03,10743,Morgantown Energy Facility,WV,GEN1,,Conventional Steam Coal,WC,ST,OS,Out of service and NOT expected to return to service in next calendar year,68.9,50.0,50.0
+2026-03,3935,John E Amos,WV,1,,Conventional Steam Coal,BIT,ST,OP,Operating,816.3,800.0,800.0
+2026-03,3935,John E Amos,WV,2,,Conventional Steam Coal,BIT,ST,OP,Operating,816.3,800.0,800.0
+2026-03,3935,John E Amos,WV,3,,Conventional Steam Coal,BIT,ST,OP,Operating,1300.0,1300.0,1299.0
+2026-03,3943,FirstEnergy Fort Martin Power Station,WV,1,,Conventional Steam Coal,BIT,ST,OP,Operating,576.0,552.0,552.0
+2026-03,3943,FirstEnergy Fort Martin Power Station,WV,2,,Conventional Steam Coal,BIT,ST,OP,Operating,576.0,546.0,546.0
+2026-03,3944,FirstEnergy Harrison Power Station,WV,1,,Conventional Steam Coal,BIT,ST,OP,Operating,684.0,652.0,662.0
+2026-03,3944,FirstEnergy Harrison Power Station,WV,2,,Conventional Steam Coal,BIT,ST,OP,Operating,684.0,651.0,661.0
+2026-03,3944,FirstEnergy Harrison Power Station,WV,3,,Conventional Steam Coal,BIT,ST,OP,Operating,684.0,651.0,661.0
+2026-03,3948,Mitchell (WV),WV,1,,Conventional Steam Coal,BIT,ST,OP,Operating,816.3,770.0,770.0
+2026-03,3948,Mitchell (WV),WV,2,,Conventional Steam Coal,BIT,ST,OP,Operating,816.3,790.0,790.0
+2026-03,3954,Mt Storm,WV,1,,Conventional Steam Coal,BIT,ST,OP,Operating,570.2,541.9,548.1
+2026-03,3954,Mt Storm,WV,2,,Conventional Steam Coal,BIT,ST,OP,Operating,570.2,551.6,560.4
+2026-03,3954,Mt Storm,WV,3,,Conventional Steam Coal,BIT,ST,OP,Operating,522.0,520.0,522.0
+2026-03,3954,Mt Storm,WV,JF1,,Petroleum Liquids,JF,GT,OP,Operating,18.5,11.0,16.0
+2026-03,50491,Axiall Natrium Plant,WV,GEN4,,Natural Gas Steam Turbine,NG,ST,OP,Operating,7.5,7.5,7.5
+2026-03,50491,Axiall Natrium Plant,WV,GEN6,,Natural Gas Steam Turbine,NG,ST,OP,Operating,26.0,26.0,26.0
+2026-03,50491,Axiall Natrium Plant,WV,GEN7,,Natural Gas Steam Turbine,NG,ST,OP,Operating,82.0,82.0,82.0
+2026-03,55276,Ceredo Generating Station,WV,01,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,75.0,86.0
+2026-03,55276,Ceredo Generating Station,WV,02,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,75.0,86.0
+2026-03,55276,Ceredo Generating Station,WV,03,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,75.0,86.0
+2026-03,55276,Ceredo Generating Station,WV,04,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,75.0,86.0
+2026-03,55276,Ceredo Generating Station,WV,05,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,75.0,86.0
+2026-03,55276,Ceredo Generating Station,WV,06,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,86.5,75.0,86.0
+2026-03,55284,Big Sandy Peaker Plant,WV,BSG1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,50.0,57.0
+2026-03,55284,Big Sandy Peaker Plant,WV,BSG2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,50.0,57.0
+2026-03,55284,Big Sandy Peaker Plant,WV,BSG3,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,50.0,57.0
+2026-03,55284,Big Sandy Peaker Plant,WV,BSG4,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,50.0,57.0
+2026-03,55284,Big Sandy Peaker Plant,WV,BSG5,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,50.0,57.0
+2026-03,55284,Big Sandy Peaker Plant,WV,BSG6,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,58.9,50.0,57.0
+2026-03,55349,Pleasants Energy LLC,WV,1,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,191.4,170.4,170.4
+2026-03,55349,Pleasants Energy LLC,WV,2,,Natural Gas Fired Combustion Turbine,NG,GT,OP,Operating,191.4,170.7,170.7
+2026-03,56671,Longview Power Plant,WV,MKA01,,Conventional Steam Coal,BIT,ST,OP,Operating,807.5,710.0,710.0
+2026-03,6004,Pleasants Power Station,WV,1,,Conventional Steam Coal,BIT,ST,OP,Operating,684.0,639.0,650.0
+2026-03,6004,Pleasants Power Station,WV,2,,Conventional Steam Coal,BIT,ST,OP,Operating,684.0,639.0,650.0
+2026-03,6264,Mountaineer,WV,1,,Conventional Steam Coal,BIT,ST,OP,Operating,1300.0,1299.0,1299.0
