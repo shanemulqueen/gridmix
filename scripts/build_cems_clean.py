@@ -15,8 +15,9 @@ Flag columns:
                           (COATS or CAMD program) AND the state participated
                           that quarter:
                             RGGI 10 states: all of 2020-2025
-                            VA: 2021Q1-2023Q4, and again from 2026Q1 (rejoining)
-                            PA: never (court injunction; compliance never began)
+                            VA: 2021Q1-2023Q4, and again from 2026Q3 (rejoining)
+                            PA: 2022Q3-2023Q4 (emissions tracked in COATS;
+                                courts later voided the rule)
                             OH, WV, DC, NC: never
 
 Output: data/cems_quarterly_clean_2020_2025.csv (+ .parquet if pyarrow present)
@@ -65,8 +66,9 @@ def state_participated(state, year, quarter):
     if state in RGGI_10:
         return True
     if state == "VA":
-        # Joined 2021; withdrew effective end of 2023; rejoining from 2026Q1.
-        return (2021, 1) <= (year, quarter) <= (2023, 4) or (year, quarter) >= (2026, 1)
+        # Joined 2021; withdrew effective end of 2023; compliance obligations
+        # resume July 1, 2026 (HB 29 / DEQ Revision A26, effective 2026-04-24).
+        return (2021, 1) <= (year, quarter) <= (2023, 4) or (year, quarter) >= (2026, 3)
     if state == "PA":
         # Regulation took effect July 2022 (Q3); PA courts invalidated participation,
         # data runs through 2023Q4. Verified against RGGI COATS: PA Q3+Q4 2022 CEMS

@@ -1,0 +1,1339 @@
+oris,cems_unit,coats_unit,state,facility_name,coats_linked,oblig_pre2009,oblig_2020,oblig_2021q1_2022q2,oblig_2022q3_2023q4,oblig_2024q1_2026q2,oblig_2026q3_on
+10567,GT1,GT1,CT,"Ahlstrom Power Windsor Locks, LLC",True,False,True,True,True,True,True
+50498,GT,,CT,Capitol District Energy Center,True,False,True,True,True,True,True
+540,10,,CT,Branford,False,False,False,False,False,False,False
+542,10,,CT,Cos Cob,False,False,False,False,False,False,False
+542,11,,CT,Cos Cob,False,False,False,False,False,False,False
+542,12,,CT,Cos Cob,False,False,False,False,False,False,False
+542,13,,CT,Cos Cob,False,False,False,False,False,False,False
+542,14,,CT,Cos Cob,False,False,False,False,False,False,False
+544,10,,CT,Devon,True,False,True,True,True,True,True
+544,11,11,CT,Devon,True,False,True,True,True,True,True
+544,12,12,CT,Devon,True,False,True,True,True,True,True
+544,13,13,CT,Devon,True,False,True,True,True,True,True
+544,14,14,CT,Devon,True,False,True,True,True,True,True
+544,15,15,CT,Devon,True,False,True,True,True,True,True
+544,16,16,CT,Devon,True,False,True,True,True,True,True
+544,17,17,CT,Devon,True,False,True,True,True,True,True
+544,18,18,CT,Devon,True,False,True,True,True,True,True
+546,5,5,CT,Montville,True,False,True,True,True,True,True
+546,6,6,CT,Montville,True,False,True,True,True,True,True
+54605,001,001,CT,"Pratt & Whitney, East Hartford",True,False,True,True,True,True,True
+55042,BE1,BE1,CT,Bridgeport Energy,True,False,True,True,True,True,True
+55042,BE2,BE2,CT,Bridgeport Energy,True,False,True,True,True,True,True
+55126,CT01,CT01,CT,Milford Power Company LLC,True,False,True,True,True,True,True
+55126,CT02,CT02,CT,Milford Power Company LLC,True,False,True,True,True,True,True
+55149,LRG1,LRG1,CT,Lake Road Generating Company,True,False,True,True,True,True,True
+55149,LRG2,LRG2,CT,Lake Road Generating Company,True,False,True,True,True,True,True
+55149,LRG3,LRG3,CT,Lake Road Generating Company,True,False,True,True,True,True,True
+55517,CT01,CT01,CT,"Wallingford Energy, LLC",True,False,True,True,True,True,True
+55517,CT02,CT02,CT,"Wallingford Energy, LLC",True,False,True,True,True,True,True
+55517,CT03,CT03,CT,"Wallingford Energy, LLC",True,False,True,True,True,True,True
+55517,CT04,CT04,CT,"Wallingford Energy, LLC",True,False,True,True,True,True,True
+55517,CT05,CT05,CT,"Wallingford Energy, LLC",True,False,True,True,True,True,True
+55517,CT06,CT06,CT,"Wallingford Energy, LLC",True,False,True,True,True,True,True
+55517,CT07,CT07,CT,"Wallingford Energy, LLC",True,False,True,True,True,True,True
+557,10,,CT,Tunnel,False,False,False,False,False,False,False
+56047,1,1,CT,CPV Towantic Energy Center,True,False,True,True,True,True,True
+56047,2,2,CT,CPV Towantic Energy Center,True,False,True,True,True,True,True
+561,10,,CT,Franklin Drive,False,False,False,False,False,False,False
+56189,4,,CT,"Waterside Power, LLC",False,False,False,False,False,False,False
+56189,5,,CT,"Waterside Power, LLC",False,False,False,False,False,False,False
+56189,7,,CT,"Waterside Power, LLC",False,False,False,False,False,False,False
+562,10,,CT,Middletown,True,False,True,True,True,True,True
+562,12,12,CT,Middletown,True,False,True,True,True,True,True
+562,13,13,CT,Middletown,True,False,True,True,True,True,True
+562,14,14,CT,Middletown,True,False,True,True,True,True,True
+562,15,15,CT,Middletown,True,False,True,True,True,True,True
+562,2,2,CT,Middletown,True,False,True,True,True,True,True
+562,3,3,CT,Middletown,True,False,True,True,True,True,True
+562,4,4,CT,Middletown,True,False,True,True,True,True,True
+563,11A,,CT,South Meadow Station,True,False,True,True,True,True,True
+563,11B,,CT,South Meadow Station,True,False,True,True,True,True,True
+563,12A,,CT,South Meadow Station,True,False,True,True,True,True,True
+563,12B,,CT,South Meadow Station,True,False,True,True,True,True,True
+563,13A,,CT,South Meadow Station,True,False,True,True,True,True,True
+563,13B,,CT,South Meadow Station,True,False,True,True,True,True,True
+563,14A,,CT,South Meadow Station,True,False,True,True,True,True,True
+563,14B,,CT,South Meadow Station,True,False,True,True,True,True,True
+565,10,,CT,Torrington Terminal,False,False,False,False,False,False,False
+56629,10,10,CT,Waterbury Generation,True,False,True,True,True,True,True
+56798,U1,U1,CT,Kleen Energy Systems Project,True,False,True,True,True,True,True
+56798,U2,U2,CT,Kleen Energy Systems Project,True,False,True,True,True,True,True
+568,BHB3,BHB3,CT,Bridgeport Harbor Station,True,False,True,True,True,True,True
+568,BHB4,,CT,Bridgeport Harbor Station,True,False,True,True,True,True,True
+568,BHB5,BHB5,CT,Bridgeport Harbor Station,True,False,True,True,True,True,True
+581,TRBINE,,CT,Norwich,False,False,False,False,False,False,False
+6156,NHB1,NHB1,CT,New Haven Harbor,True,False,True,True,True,True,True
+6156,NHHS2,NHHS2,CT,New Haven Harbor,True,False,True,True,True,True,True
+6156,NHHS3,NHHS3,CT,New Haven Harbor,True,False,True,True,True,True,True
+6156,NHHS4,NHHS4,CT,New Haven Harbor,True,False,True,True,True,True,True
+6635,AP-1,AP-1,CT,Alfred L Pierce Generating Station,True,False,True,True,True,True,True
+880004,3,,DC,GSA Central Heating,False,False,False,False,False,False,False
+880004,4,,DC,GSA Central Heating,False,False,False,False,False,False,False
+880004,5C,,DC,GSA Central Heating,False,False,False,False,False,False,False
+10030,2,2,DE,Energy Center Dover LLC,True,False,True,True,True,True,True
+10030,3,3,DE,Energy Center Dover LLC,True,False,True,True,True,True,True
+52193,DCPP4,,DE,Delaware City Refinery,True,False,True,True,True,True,True
+57349,1,1,DE,Garrison Energy Center,True,False,True,True,True,True,True
+591,11,11,DE,Christiana Substation,True,False,True,True,True,True,True
+591,14,14,DE,Christiana Substation,True,False,True,True,True,True,True
+592,10,,DE,Delaware City,False,False,False,False,False,False,False
+593,10,,DE,Edge Moor,True,False,True,True,True,True,True
+593,3,3,DE,Edge Moor,True,False,True,True,True,True,True
+593,4,4,DE,Edge Moor,True,False,True,True,True,True,True
+593,5,5,DE,Edge Moor,True,False,True,True,True,True,True
+594,10,,DE,Indian River,True,False,True,True,True,True,True
+594,4,4,DE,Indian River,True,False,True,True,True,True,True
+597,10,,DE,West Substation,False,False,False,False,False,False,False
+599,3,,DE,McKee Run,True,False,True,True,True,True,True
+7153,**3,**3,DE,Hay Road,True,False,True,True,True,True,True
+7153,1,1,DE,Hay Road,True,False,True,True,True,True,True
+7153,2,2,DE,Hay Road,True,False,True,True,True,True,True
+7153,5,5,DE,Hay Road,True,False,True,True,True,True,True
+7153,6,6,DE,Hay Road,True,False,True,True,True,True,True
+7153,7,7,DE,Hay Road,True,False,True,True,True,True,True
+7318,**11,**11,DE,Van Sant,True,False,True,True,True,True,True
+7962,1,1,DE,Warren F. Sam Beasley Pwr Station,True,False,True,True,True,True,True
+7962,2,2,DE,Warren F. Sam Beasley Pwr Station,True,False,True,True,True,True,True
+10029,3,,MA,General Electric Aircraft,False,False,False,False,False,False,False
+10176,A,A,MA,MBTA South Boston Power Facility,True,False,True,True,True,True,True
+10176,B,B,MA,MBTA South Boston Power Facility,True,False,True,True,True,True,True
+10307,1,1,MA,Bellingham,True,False,True,True,True,True,True
+10307,2,2,MA,Bellingham,True,False,True,True,True,True,True
+10726,1,1,MA,MASSPOWER,True,False,True,True,True,True,True
+10726,2,2,MA,MASSPOWER,True,False,True,True,True,True,True
+10823,S42,S42,MA,Deer Island Treatment,True,False,True,True,True,True,True
+10823,S43,S43,MA,Deer Island Treatment,True,False,True,True,True,True,True
+1586,FJ-1,,MA,Framingham Station,False,False,False,False,False,False,False
+1586,FJ-2,,MA,Framingham Station,False,False,False,False,False,False,False
+1586,FJ-3,,MA,Framingham Station,False,False,False,False,False,False,False
+1588,7,7,MA,Mystic,True,False,True,True,True,True,True
+1588,81,81,MA,Mystic,True,False,True,True,True,True,True
+1588,82,82,MA,Mystic,True,False,True,True,True,True,True
+1588,93,93,MA,Mystic,True,False,True,True,True,True,True
+1588,94,94,MA,Mystic,True,False,True,True,True,True,True
+1588,MJ-1,,MA,Mystic,True,False,True,True,True,True,True
+1592,J1T1,J1T1,MA,Medway Station,True,False,True,True,True,True,True
+1592,J1T2,J1T2,MA,Medway Station,True,False,True,True,True,True,True
+1592,J2T1,J2T1,MA,Medway Station,True,False,True,True,True,True,True
+1592,J2T2,J2T2,MA,Medway Station,True,False,True,True,True,True,True
+1592,J3T1,J3T1,MA,Medway Station,True,False,True,True,True,True,True
+1592,J3T2,J3T2,MA,Medway Station,True,False,True,True,True,True,True
+1594,11,,MA,Blackstone,False,False,False,False,False,False,False
+1594,12,,MA,Blackstone,False,False,False,False,False,False,False
+1595,2,2,MA,Kendall Green Energy LLC,True,False,True,True,True,True,True
+1595,3,3,MA,Kendall Green Energy LLC,True,False,True,True,True,True,True
+1595,4,4,MA,Kendall Green Energy LLC,True,False,True,True,True,True,True
+1595,S6,,MA,Kendall Green Energy LLC,True,False,True,True,True,True,True
+1599,1,1,MA,Canal Station,True,False,True,True,True,True,True
+1599,2,2,MA,Canal Station,True,False,True,True,True,True,True
+1599,3,3,MA,Canal Station,True,False,True,True,True,True,True
+1631,10,,MA,Doreen,False,False,False,False,False,False,False
+1642,10,,MA,West Springfield,False,False,False,False,False,False,False
+1642,3,,MA,West Springfield,True,False,True,True,True,True,True
+1642,CTG1,,MA,West Springfield,True,False,True,True,True,True,True
+1642,CTG2,,MA,West Springfield,True,False,True,True,True,True,True
+1643,10,,MA,Woodland Road,False,False,False,False,False,False,False
+1660,3,3,MA,Potter,True,False,True,True,True,True,True
+1660,4,4,MA,Potter,True,False,True,True,True,True,True
+1660,5,5,MA,Potter,True,False,True,True,True,True,True
+1678,1,,MA,Waters River,True,False,True,True,True,True,True
+1678,2,2,MA,Waters River,True,False,True,True,True,True,True
+1682,8,8,MA,Cleary Flood,True,False,True,True,True,True,True
+1682,9,9,MA,Cleary Flood,True,False,True,True,True,True,True
+50002,1,1,MA,Pittsfield Generating,True,False,True,True,True,True,True
+50002,2,2,MA,Pittsfield Generating,True,False,True,True,True,True,True
+50002,3,3,MA,Pittsfield Generating,True,False,True,True,True,True,True
+52026,1,1,MA,Dartmouth Power,True,False,True,True,True,True,True
+52026,2,,MA,Dartmouth Power,True,False,True,True,True,True,True
+54586,2,,MA,"Tanner Street Generation, LLC",True,False,True,True,True,True,True
+54805,1,1,MA,"Milford Power, LLC",True,False,True,True,True,True,True
+54907,1,,MA,MIT Central Utility Plant,False,False,False,False,False,False,False
+55026,1,1,MA,Dighton,True,False,True,True,True,True,True
+55041,1,1,MA,Berkshire Power,True,False,True,True,True,True,True
+55079,1,1,MA,Millennium Power,True,False,True,True,True,True,True
+55211,1,1,MA,Bellingham Power Generation LLC,True,False,True,True,True,True,True
+55211,2,2,MA,Bellingham Power Generation LLC,True,False,True,True,True,True,True
+55212,1,1,MA,Blackstone Power Generation LLC,True,False,True,True,True,True,True
+55212,2,2,MA,Blackstone Power Generation LLC,True,False,True,True,True,True,True
+55317,11,11,MA,Fore River Energy Center,True,False,True,True,True,True,True
+55317,12,12,MA,Fore River Energy Center,True,False,True,True,True,True,True
+59882,J4,J4,MA,Exelon West Medway II,True,False,True,True,True,True,True
+59882,J5,J5,MA,Exelon West Medway II,True,False,True,True,True,True,True
+6081,001,001,MA,Stony Brook Energy Center,True,False,True,True,True,True,True
+6081,002,002,MA,Stony Brook Energy Center,True,False,True,True,True,True,True
+6081,003,003,MA,Stony Brook Energy Center,True,False,True,True,True,True,True
+6081,004,004,MA,Stony Brook Energy Center,True,False,True,True,True,True,True
+6081,005,005,MA,Stony Brook Energy Center,True,False,True,True,True,True,True
+60903,1,1,MA,Salem Harbor Station NGCC,True,False,True,True,True,True,True
+60903,2,2,MA,Salem Harbor Station NGCC,True,False,True,True,True,True,True
+63559,1,1,MA,MMWEC Simple Cycle Gas Turbine,True,False,True,True,True,True,True
+880023,K1,,MA,Kneeland Station,False,False,False,False,False,False,False
+880023,K2,,MA,Kneeland Station,False,False,False,False,False,False,False
+880023,K3,,MA,Kneeland Station,False,False,False,False,False,False,False
+880023,K4,,MA,Kneeland Station,False,False,False,False,False,False,False
+10678,001,001,MD,AES Warrior Run,True,False,True,True,True,True,True
+1554,1,1,MD,Herbert A Wagner,True,False,True,True,True,True,True
+1554,2,2,MD,Herbert A Wagner,True,False,True,True,True,True,True
+1554,3,3,MD,Herbert A Wagner,True,False,True,True,True,True,True
+1554,4,4,MD,Herbert A Wagner,True,False,True,True,True,True,True
+1556,**51,**51,MD,Perryman,True,False,True,True,True,True,True
+1556,6-1,6-1,MD,Perryman,True,False,True,True,True,True,True
+1556,6-2,6-2,MD,Perryman,True,False,True,True,True,True,True
+1556,CT1,CT1,MD,Perryman,True,False,True,True,True,True,True
+1556,CT3,CT3,MD,Perryman,True,False,True,True,True,True,True
+1556,CT4,CT4,MD,Perryman,True,False,True,True,True,True,True
+1560,CT5,,MD,Westport,True,False,True,True,True,True,True
+1564,8,8,MD,Vienna,True,False,True,True,True,True,True
+1571,**GT3,**GT3,MD,Chalk Point,True,False,True,True,True,True,True
+1571,**GT4,**GT4,MD,Chalk Point,True,False,True,True,True,True,True
+1571,**GT5,**GT5,MD,Chalk Point,True,False,True,True,True,True,True
+1571,**GT6,**GT6,MD,Chalk Point,True,False,True,True,True,True,True
+1571,1,1,MD,Chalk Point,True,False,True,True,True,True,True
+1571,2,2,MD,Chalk Point,True,False,True,True,True,True,True
+1571,3,3,MD,Chalk Point,True,False,True,True,True,True,True
+1571,4,4,MD,Chalk Point,True,False,True,True,True,True,True
+1571,GT2,GT2,MD,Chalk Point,True,False,True,True,True,True,True
+1571,SMECO,SMECO,MD,Chalk Point,True,False,True,True,True,True,True
+1572,1,1,MD,Dickerson,True,False,True,True,True,True,True
+1572,2,2,MD,Dickerson,True,False,True,True,True,True,True
+1572,3,3,MD,Dickerson,True,False,True,True,True,True,True
+1572,GT2,GT2,MD,Dickerson,True,False,True,True,True,True,True
+1572,GT3,GT3,MD,Dickerson,True,False,True,True,True,True,True
+1573,1,1,MD,Morgantown,True,False,True,True,True,True,True
+1573,2,2,MD,Morgantown,True,False,True,True,True,True,True
+1573,GT3,GT3,MD,Morgantown,True,False,True,True,True,True,True
+1573,GT4,GT4,MD,Morgantown,True,False,True,True,True,True,True
+1573,GT5,GT5,MD,Morgantown,True,False,True,True,True,True,True
+1573,GT6,GT6,MD,Morgantown,True,False,True,True,True,True,True
+50282,PR003,,MD,Luke Paper Company,True,False,True,True,True,True,True
+50282,PR004,,MD,Luke Paper Company,True,False,True,True,True,True,True
+50282,PR005,,MD,Luke Paper Company,True,False,True,True,True,True,True
+54795,C6,,MD,"American Sugar Refining, Inc.",False,False,False,False,False,False,False
+54832,1,1,MD,Brandywine Power Facility,True,False,True,True,True,True,True
+54832,2,2,MD,Brandywine Power Facility,True,False,True,True,True,True,True
+56668,CGTC,,MD,NIH Cogeneration Facility,False,False,False,False,False,False,False
+56846,GT1,GT1,MD,CPV St. Charles Energy Center,True,False,True,True,True,True,True
+56846,GT2,GT2,MD,CPV St. Charles Energy Center,True,False,True,True,True,True,True
+59073,214JA,,MD,Cove Point LNG Terminal,True,False,True,True,True,True,True
+59073,214JB,,MD,Cove Point LNG Terminal,True,False,True,True,True,True,True
+59073,B921A,B921A,MD,Cove Point LNG Terminal,True,False,True,True,True,True,True
+59073,B921B,B921B,MD,Cove Point LNG Terminal,True,False,True,True,True,True,True
+59073,GT501A,GT501A,MD,Cove Point LNG Terminal,True,False,True,True,True,True,True
+59073,GT501B,GT501B,MD,Cove Point LNG Terminal,True,False,True,True,True,True,True
+59220,CT1,CT1,MD,Wildcat Point Generation Facility,True,False,True,True,True,True,True
+59220,CT2,CT2,MD,Wildcat Point Generation Facility,True,False,True,True,True,True,True
+602,1,1,MD,Brandon Shores,True,False,True,True,True,True,True
+602,2,2,MD,Brandon Shores,True,False,True,True,True,True,True
+60302,11,11,MD,Keys Energy Center,True,False,True,True,True,True,True
+60302,12,12,MD,Keys Energy Center,True,False,True,True,True,True,True
+7835,1,1,MD,Rock Springs Generating Facility,True,False,True,True,True,True,True
+7835,2,2,MD,Rock Springs Generating Facility,True,False,True,True,True,True,True
+7835,3,3,MD,Rock Springs Generating Facility,True,False,True,True,True,True,True
+7835,4,4,MD,Rock Springs Generating Facility,True,False,True,True,True,True,True
+1507,3,3,ME,William F Wyman,True,False,True,True,True,True,True
+1507,4,4,ME,William F Wyman,True,False,True,True,True,True,True
+50243,GEN4,GEN4,ME,Bucksport Generation LLC,True,False,True,True,True,True,True
+55031,CT01,CT01,ME,Androscoggin Energy,True,False,True,True,True,True,True
+55031,CT02,CT02,ME,Androscoggin Energy,True,False,True,True,True,True,True
+55031,CT03,CT03,ME,Androscoggin Energy,True,False,True,True,True,True,True
+55068,1,1,ME,Maine Independence Station,True,False,True,True,True,True,True
+55068,2,2,ME,Maine Independence Station,True,False,True,True,True,True,True
+55100,1,1,ME,Rumford Power,True,False,True,True,True,True,True
+55294,1,1,ME,Westbrook Energy Center,True,False,True,True,True,True,True
+55294,2,2,ME,Westbrook Energy Center,True,False,True,True,True,True,True
+1016,GT-1,,NC,Butler-Warner Generation Plant,False,False,False,False,False,False,False
+1016,GT-2,,NC,Butler-Warner Generation Plant,False,False,False,False,False,False,False
+1016,GT-3,,NC,Butler-Warner Generation Plant,False,False,False,False,False,False,False
+1016,GT-4,,NC,Butler-Warner Generation Plant,False,False,False,False,False,False,False
+1016,GT-5,,NC,Butler-Warner Generation Plant,False,False,False,False,False,False,False
+1016,GT-6,,NC,Butler-Warner Generation Plant,False,False,False,False,False,False,False
+1016,GT-7,,NC,Butler-Warner Generation Plant,False,False,False,False,False,False,False
+1016,GT-8,,NC,Butler-Warner Generation Plant,False,False,False,False,False,False,False
+10378,BLR01A,,NC,CPI USA North Carolina Southport,False,False,False,False,False,False,False
+10378,BLR01B,,NC,CPI USA North Carolina Southport,False,False,False,False,False,False,False
+10378,BLR01C,,NC,CPI USA North Carolina Southport,False,False,False,False,False,False,False
+10378,BLR02A,,NC,CPI USA North Carolina Southport,False,False,False,False,False,False,False
+10378,BLR02B,,NC,CPI USA North Carolina Southport,False,False,False,False,False,False,False
+10378,BLR02C,,NC,CPI USA North Carolina Southport,False,False,False,False,False,False,False
+10379,BLR01A,,NC,CPI USA North Carolina Roxboro,False,False,False,False,False,False,False
+10379,BLR01B,,NC,CPI USA North Carolina Roxboro,False,False,False,False,False,False,False
+10379,BLR01C,,NC,CPI USA North Carolina Roxboro,False,False,False,False,False,False,False
+10382,UNIT1,,NC,NC Renewable Power - Lumberton LLC,False,False,False,False,False,False,False
+10382,UNIT2,,NC,NC Renewable Power - Lumberton LLC,False,False,False,False,False,False,False
+10384,BLR01A,,NC,"Edgecombe Genco, LLC",False,False,False,False,False,False,False
+10384,BLR01B,,NC,"Edgecombe Genco, LLC",False,False,False,False,False,False,False
+10384,BLR02A,,NC,"Edgecombe Genco, LLC",False,False,False,False,False,False,False
+10384,BLR02B,,NC,"Edgecombe Genco, LLC",False,False,False,False,False,False,False
+10525,ES5A,,NC,Craven County Wood Energy,False,False,False,False,False,False,False
+2706,1,,NC,Asheville,False,False,False,False,False,False,False
+2706,2,,NC,Asheville,False,False,False,False,False,False,False
+2706,3,,NC,Asheville,False,False,False,False,False,False,False
+2706,4,,NC,Asheville,False,False,False,False,False,False,False
+2706,CT5,,NC,Asheville,False,False,False,False,False,False,False
+2706,CT7,,NC,Asheville,False,False,False,False,False,False,False
+2707,1,,NC,Blewett,False,False,False,False,False,False,False
+2707,2,,NC,Blewett,False,False,False,False,False,False,False
+2707,3,,NC,Blewett,False,False,False,False,False,False,False
+2707,4,,NC,Blewett,False,False,False,False,False,False,False
+2709,01A,,NC,H F Lee Steam Electric Plant,False,False,False,False,False,False,False
+2709,01B,,NC,H F Lee Steam Electric Plant,False,False,False,False,False,False,False
+2709,01C,,NC,H F Lee Steam Electric Plant,False,False,False,False,False,False,False
+2709,10,,NC,H F Lee Steam Electric Plant,False,False,False,False,False,False,False
+2709,11,,NC,H F Lee Steam Electric Plant,False,False,False,False,False,False,False
+2709,12,,NC,H F Lee Steam Electric Plant,False,False,False,False,False,False,False
+2709,13,,NC,H F Lee Steam Electric Plant,False,False,False,False,False,False,False
+2709,14,,NC,H F Lee Steam Electric Plant,False,False,False,False,False,False,False
+2712,1,,NC,Roxboro,False,False,False,False,False,False,False
+2712,2,,NC,Roxboro,False,False,False,False,False,False,False
+2712,3A,,NC,Roxboro,False,False,False,False,False,False,False
+2712,3B,,NC,Roxboro,False,False,False,False,False,False,False
+2712,4A,,NC,Roxboro,False,False,False,False,False,False,False
+2712,4B,,NC,Roxboro,False,False,False,False,False,False,False
+2713,01A,,NC,L V Sutton,False,False,False,False,False,False,False
+2713,01B,,NC,L V Sutton,False,False,False,False,False,False,False
+2713,4,,NC,L V Sutton,False,False,False,False,False,False,False
+2713,5,,NC,L V Sutton,False,False,False,False,False,False,False
+2716,4,,NC,W H Weatherspoon,False,False,False,False,False,False,False
+2716,5,,NC,W H Weatherspoon,False,False,False,False,False,False,False
+2716,6,,NC,W H Weatherspoon,False,False,False,False,False,False,False
+2716,7,,NC,W H Weatherspoon,False,False,False,False,False,False,False
+2718,1,,NC,G G Allen,False,False,False,False,False,False,False
+2718,2,,NC,G G Allen,False,False,False,False,False,False,False
+2718,3,,NC,G G Allen,False,False,False,False,False,False,False
+2718,4,,NC,G G Allen,False,False,False,False,False,False,False
+2718,5,,NC,G G Allen,False,False,False,False,False,False,False
+2720,11C,,NC,Buck,False,False,False,False,False,False,False
+2720,12C,,NC,Buck,False,False,False,False,False,False,False
+2721,5,,NC,Cliffside,False,False,False,False,False,False,False
+2721,6,,NC,Cliffside,False,False,False,False,False,False,False
+2723,8C,,NC,Dan River,False,False,False,False,False,False,False
+2723,9C,,NC,Dan River,False,False,False,False,False,False,False
+2727,1,,NC,Marshall,False,False,False,False,False,False,False
+2727,2,,NC,Marshall,False,False,False,False,False,False,False
+2727,3,,NC,Marshall,False,False,False,False,False,False,False
+2727,4,,NC,Marshall,False,False,False,False,False,False,False
+50555,1,,NC,Rosemary Power Station,False,False,False,False,False,False,False
+50555,2,,NC,Rosemary Power Station,False,False,False,False,False,False,False
+54276,ES001,,NC,University of NC Chapel Hill,False,False,False,False,False,False,False
+54276,ES002,,NC,University of NC Chapel Hill,False,False,False,False,False,False,False
+54276,ES003,,NC,University of NC Chapel Hill,False,False,False,False,False,False,False
+55116,CT1,,NC,Rockingham County Combustion Turbine,False,False,False,False,False,False,False
+55116,CT2,,NC,Rockingham County Combustion Turbine,False,False,False,False,False,False,False
+55116,CT3,,NC,Rockingham County Combustion Turbine,False,False,False,False,False,False,False
+55116,CT4,,NC,Rockingham County Combustion Turbine,False,False,False,False,False,False,False
+55116,CT5,,NC,Rockingham County Combustion Turbine,False,False,False,False,False,False,False
+56249,ES1-A,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES1-B,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES2-A,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES2-B,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES3-A,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES3-B,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES4-A,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES4-B,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES5-A,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES5-B,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES6-A,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56249,ES6-B,,NC,NCEMC Anson Plant,False,False,False,False,False,False,False
+56292,ES1-A,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES1-B,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES2-A,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES2-B,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES3-A,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES3-B,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES4-A,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES4-B,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES5-A,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES5-B,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES6-A,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+56292,ES6-B,,NC,NCEMC Hamlet Plant,False,False,False,False,False,False,False
+57029,ES1,,NC,Cleveland County Generating Facility,False,False,False,False,False,False,False
+57029,ES2,,NC,Cleveland County Generating Facility,False,False,False,False,False,False,False
+57029,ES3,,NC,Cleveland County Generating Facility,False,False,False,False,False,False,False
+57029,ES4,,NC,Cleveland County Generating Facility,False,False,False,False,False,False,False
+59325,ES-1,,NC,Kings Mountain Energy Center,False,False,False,False,False,False,False
+6250,1A,,NC,Mayo,False,False,False,False,False,False,False
+6250,1B,,NC,Mayo,False,False,False,False,False,False,False
+7277,1,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,10,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,11,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,12,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,13,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,14,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,15,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,16,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,17,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,2,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,3,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,4,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,5,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,6,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,7,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,8,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7277,9,,NC,Lincoln Combustion Turbine,False,False,False,False,False,False,False
+7805,1,,NC,Richmond County Plant,False,False,False,False,False,False,False
+7805,10,,NC,Richmond County Plant,False,False,False,False,False,False,False
+7805,2,,NC,Richmond County Plant,False,False,False,False,False,False,False
+7805,3,,NC,Richmond County Plant,False,False,False,False,False,False,False
+7805,4,,NC,Richmond County Plant,False,False,False,False,False,False,False
+7805,6,,NC,Richmond County Plant,False,False,False,False,False,False,False
+7805,7,,NC,Richmond County Plant,False,False,False,False,False,False,False
+7805,8,,NC,Richmond County Plant,False,False,False,False,False,False,False
+7805,9,,NC,Richmond County Plant,False,False,False,False,False,False,False
+7826,1,,NC,Plant Rowan County,False,False,False,False,False,False,False
+7826,2,,NC,Plant Rowan County,False,False,False,False,False,False,False
+7826,3,,NC,Plant Rowan County,False,False,False,False,False,False,False
+7826,4,,NC,Plant Rowan County,False,False,False,False,False,False,False
+7826,5,,NC,Plant Rowan County,False,False,False,False,False,False,False
+8042,1,,NC,Belews Creek,False,False,False,False,False,False,False
+8042,2,,NC,Belews Creek,False,False,False,False,False,False,False
+2362,CT1,,NH,Lost Nation,False,False,False,False,False,False,False
+2364,1,1,NH,Merrimack,True,False,True,True,True,True,True
+2364,2,2,NH,Merrimack,True,False,True,True,True,True,True
+2364,CT1,,NH,Merrimack,True,False,True,True,True,True,True
+2364,CT2,,NH,Merrimack,True,False,True,True,True,True,True
+2367,4,4,NH,Schiller,True,False,True,True,True,True,True
+2367,5,5,NH,Schiller,True,False,True,True,True,True,True
+2367,6,6,NH,Schiller,True,False,True,True,True,True,True
+2367,CT1,,NH,Schiller,True,False,True,True,True,True,True
+2369,CT1,,NH,White Lake,False,False,False,False,False,False,False
+55170,0001,0001,NH,Granite Ridge Energy,True,False,True,True,True,True,True
+55170,0002,0002,NH,Granite Ridge Energy,True,False,True,True,True,True,True
+55661,1,1,NH,Newington Energy,True,False,True,True,True,True,True
+55661,2,2,NH,Newington Energy,True,False,True,True,True,True,True
+58054,ST01,,NH,Burgess BioPower,False,False,False,False,False,False,False
+8002,1,1,NH,Newington,True,False,True,True,True,True,True
+10043,1001,,NJ,Logan Generating Plant,True,False,True,True,True,True,True
+10099,001001,,NJ,Pedricktown Cogeneration Plant,True,False,True,True,True,True,True
+10308,1001,1001,NJ,Sayreville Power LP,True,False,True,True,True,True,True
+10308,1002,1002,NJ,Sayreville Power LP,True,False,True,True,True,True,True
+10566,1001,,NJ,Carneys Point,True,False,True,True,True,True,True
+10566,1002,,NJ,Carneys Point,True,False,True,True,True,True,True
+10751,002001,002001,NJ,"Camden Plant Holding, LLC",True,False,True,True,True,True,True
+10805,002001,,NJ,"E F Kenilworth, Inc.",False,False,False,False,False,False,False
+2379,002001,002001,NJ,Carlls Corner Energy Center,True,False,True,True,True,True,True
+2379,003001,003001,NJ,Carlls Corner Energy Center,True,False,True,True,True,True,True
+2390,012001,012001,NJ,Sayreville,True,False,True,True,True,True,True
+2390,014001,014001,NJ,Sayreville,True,False,True,True,True,True,True
+2390,015001,015001,NJ,Sayreville,True,False,True,True,True,True,True
+2390,016001,016001,NJ,Sayreville,True,False,True,True,True,True,True
+2393,04,04,NJ,Gilbert Generating Station,True,False,True,True,True,True,True
+2393,05,05,NJ,Gilbert Generating Station,True,False,True,True,True,True,True
+2393,06,06,NJ,Gilbert Generating Station,True,False,True,True,True,True,True
+2393,07,07,NJ,Gilbert Generating Station,True,False,True,True,True,True,True
+2393,9,9,NJ,Gilbert Generating Station,True,False,True,True,True,True,True
+2398,1101,1101,NJ,Bergen Generating Station,True,False,True,True,True,True,True
+2398,1201,1201,NJ,Bergen Generating Station,True,False,True,True,True,True,True
+2398,1301,1301,NJ,Bergen Generating Station,True,False,True,True,True,True,True
+2398,1401,1401,NJ,Bergen Generating Station,True,False,True,True,True,True,True
+2398,2101,2101,NJ,Bergen Generating Station,True,False,True,True,True,True,True
+2398,2201,2201,NJ,Bergen Generating Station,True,False,True,True,True,True,True
+2399,121,121,NJ,Burlington Generating Station,True,False,True,True,True,True,True
+2399,122,122,NJ,Burlington Generating Station,True,False,True,True,True,True,True
+2399,123,123,NJ,Burlington Generating Station,True,False,True,True,True,True,True
+2399,124,124,NJ,Burlington Generating Station,True,False,True,True,True,True,True
+2401,35001,,NJ,Essex,True,False,True,True,True,True,True
+2404,121,121,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2404,122,122,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2404,123,123,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2404,124,124,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2404,131,131,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2404,132,132,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2404,133,133,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2404,134,134,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2404,141,141,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2404,142,142,NJ,Kearny Generating Station,True,False,True,True,True,True,True
+2406,1101,1101,NJ,Linden Generating Station,True,False,True,True,True,True,True
+2406,1201,1201,NJ,Linden Generating Station,True,False,True,True,True,True,True
+2406,2101,2101,NJ,Linden Generating Station,True,False,True,True,True,True,True
+2406,2201,2201,NJ,Linden Generating Station,True,False,True,True,True,True,True
+2406,5,5,NJ,Linden Generating Station,True,False,True,True,True,True,True
+2406,6,6,NJ,Linden Generating Station,True,False,True,True,True,True,True
+2406,7,7,NJ,Linden Generating Station,True,False,True,True,True,True,True
+2406,8,8,NJ,Linden Generating Station,True,False,True,True,True,True,True
+2410,2001,,NJ,Salem Generating Station,False,False,False,False,False,False,False
+2411,7,7,NJ,Sewaren Generating Station,True,False,True,True,True,True,True
+2434,U11,U11,NJ,Howard M Down,True,False,True,True,True,True,True
+50006,004001,004001,NJ,Linden Cogeneration Facility,True,False,True,True,True,True,True
+50006,005001,005001,NJ,Linden Cogeneration Facility,True,False,True,True,True,True,True
+50006,006001,006001,NJ,Linden Cogeneration Facility,True,False,True,True,True,True,True
+50006,007001,007001,NJ,Linden Cogeneration Facility,True,False,True,True,True,True,True
+50006,008001,008001,NJ,Linden Cogeneration Facility,True,False,True,True,True,True,True
+50006,009001,009001,NJ,Linden Cogeneration Facility,True,False,True,True,True,True,True
+50385,1001,,NJ,Newark Bay Cogen,True,False,True,True,True,True,True
+50385,2001,,NJ,Newark Bay Cogen,True,False,True,True,True,True,True
+50561,0001,0001,NJ,Eagle Point Power Generation,True,False,True,True,True,True,True
+50561,0002,0002,NJ,Eagle Point Power Generation,True,False,True,True,True,True,True
+50799,001001,,NJ,"EFS Parlin Holdings, LLC",True,False,True,True,True,True,True
+50799,003001,,NJ,"EFS Parlin Holdings, LLC",True,False,True,True,True,True,True
+5083,004001,004001,NJ,Cumberland Energy Center,True,False,True,True,True,True,True
+5083,05001,05001,NJ,Cumberland Energy Center,True,False,True,True,True,True,True
+50852,002001,,NJ,Elmwood Power LLC,True,False,True,True,True,True,True
+54640,001001,001001,NJ,Lakewood,True,False,True,True,True,True,True
+54640,002001,002001,NJ,Lakewood,True,False,True,True,True,True,True
+55239,1,1,NJ,"Red Oak Power, LLC",True,False,True,True,True,True,True
+55239,2,2,NJ,"Red Oak Power, LLC",True,False,True,True,True,True,True
+55239,3,3,NJ,"Red Oak Power, LLC",True,False,True,True,True,True,True
+55938,OPP3,OPP3,NJ,Ocean Peaking Power,True,False,True,True,True,True,True
+55938,OPP4,OPP4,NJ,Ocean Peaking Power,True,False,True,True,True,True,True
+56963,E101,E101,NJ,West Deptford Energy Station,True,False,True,True,True,True,True
+56963,E102,E102,NJ,West Deptford Energy Station,True,False,True,True,True,True,True
+56964,GT1,GT1,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+56964,GT10,GT10,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+56964,GT2,GT2,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+56964,GT3,GT3,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+56964,GT4,GT4,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+56964,GT5,GT5,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+56964,GT6,GT6,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+56964,GT7,GT7,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+56964,GT8,GT8,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+56964,GT9,GT9,NJ,Bayonne Energy Center,True,False,True,True,True,True,True
+57839,0001,0001,NJ,Woodbridge Energy Center,True,False,True,True,True,True,True
+57839,0002,0002,NJ,Woodbridge Energy Center,True,False,True,True,True,True,True
+58079,U001,U001,NJ,Newark Energy Center,True,False,True,True,True,True,True
+58079,U002,U002,NJ,Newark Energy Center,True,False,True,True,True,True,True
+58235,U1,U1,NJ,Clayville,True,False,True,True,True,True,True
+6776,002001,002001,NJ,West Station,True,False,True,True,True,True,True
+7138,002001,002001,NJ,Forked River Power,True,False,True,True,True,True,True
+7138,003001,003001,NJ,Forked River Power,True,False,True,True,True,True,True
+7288,1,1,NJ,Sherman Avenue,True,False,True,True,True,True,True
+8008,001001,001001,NJ,Mickleton Energy Center,True,False,True,True,True,True,True
+10025,4B,,NY,"RED-Rochester, LLC-Eastman Business Park",False,False,False,False,False,False,False
+10190,1,1,NY,"Castleton Power, LLC",True,False,True,True,True,True,True
+10464,E0001,E0001,NY,"Black River Generation, LLC",True,False,True,True,True,True,True
+10464,E0002,E0002,NY,"Black River Generation, LLC",True,False,True,True,True,True,True
+10464,E0003,E0003,NY,"Black River Generation, LLC",True,False,True,True,True,True,True
+10617,1,1,NY,"Beaver Falls, LLC",True,False,True,True,True,True,True
+10619,00001,00001,NY,Allegany Station No. 133,True,False,True,True,True,True,True
+10620,1,1,NY,Carthage Energy,True,False,True,True,True,True,True
+10621,1,1,NY,"Syracuse, LLC",True,False,True,True,True,True,True
+10725,CTG101,CTG101,NY,Selkirk Cogen Partners,True,False,True,True,True,True,True
+10725,CTG201,CTG201,NY,Selkirk Cogen Partners,True,False,True,True,True,True,True
+10725,CTG301,CTG301,NY,Selkirk Cogen Partners,True,False,True,True,True,True,True
+10803,1,,NY,AG - Energy,True,False,True,True,True,True,True
+10803,2,,NY,AG - Energy,True,False,True,True,True,True,True
+2480,1,1,NY,Danskammer Generating Station,True,False,True,True,True,True,True
+2480,2,2,NY,Danskammer Generating Station,True,False,True,True,True,True,True
+2480,3,3,NY,Danskammer Generating Station,True,False,True,True,True,True,True
+2480,4,4,NY,Danskammer Generating Station,True,False,True,True,True,True,True
+2490,20,20,NY,Arthur Kill,True,False,True,True,True,True,True
+2490,30,30,NY,Arthur Kill,True,False,True,True,True,True,True
+2490,CT0001,CT0001,NY,Arthur Kill,True,False,True,True,True,True,True
+2493,1,1,NY,East River,True,False,True,True,True,True,True
+2493,2,2,NY,East River,True,False,True,True,True,True,True
+2493,60,60,NY,East River,True,False,True,True,True,True,True
+2493,70,70,NY,East River,True,False,True,True,True,True,True
+2494,CT01-1,CT01-1,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT01-2,CT01-2,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT01-3,CT01-3,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT01-4,CT01-4,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT01-5,CT01-5,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT01-6,CT01-6,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT01-7,CT01-7,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT01-8,CT01-8,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT02-1,CT02-1,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT02-2,CT02-2,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT02-3,CT02-3,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT02-4,CT02-4,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT02-5,CT02-5,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT02-6,CT02-6,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT02-7,CT02-7,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT02-8,CT02-8,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT03-1,CT03-1,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT03-2,CT03-2,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT03-3,CT03-3,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT03-4,CT03-4,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT03-5,CT03-5,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT03-6,CT03-6,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT03-7,CT03-7,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT03-8,CT03-8,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT04-1,CT04-1,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT04-2,CT04-2,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT04-3,CT04-3,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT04-4,CT04-4,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT04-5,CT04-5,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT04-6,CT04-6,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT04-7,CT04-7,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2494,CT04-8,CT04-8,NY,Gowanus Generating Station,True,False,True,True,True,True,True
+2496,CT0003,,NY,Hudson Avenue,True,False,True,True,True,True,True
+2496,CT0004,,NY,Hudson Avenue,False,False,False,False,False,False,False
+2496,CT0005,,NY,Hudson Avenue,True,False,True,True,True,True,True
+2499,CT01-1,CT01-1,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT01-2,CT01-2,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT01-3,CT01-3,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT01-4,CT01-4,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT01-5,CT01-5,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT01-6,CT01-6,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT01-7,CT01-7,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT01-8,CT01-8,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT02-1,CT02-1,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT02-2,CT02-2,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT02-3,CT02-3,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT02-4,CT02-4,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT02-5,CT02-5,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT02-6,CT02-6,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT02-7,CT02-7,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2499,CT02-8,CT02-8,NY,Narrows Generating Station,True,False,True,True,True,True,True
+2500,10,10,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,20,20,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,30,30,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT0001,CT0001,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT0004,,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT0005,,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT0006,,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT0007,,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT0008,,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT0009,,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT0010,CT0010,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT0011,CT0011,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT02-1,CT02-1,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT02-2,CT02-2,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT02-3,CT02-3,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT02-4,CT02-4,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT03-1,CT03-1,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT03-2,CT03-2,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT03-3,CT03-3,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,CT03-4,CT03-4,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2500,UCC001,UCC001,NY,Ravenswood Generating Station,True,False,True,True,True,True,True
+2503,BLR114,,NY,59th Street,False,False,False,False,False,False,False
+2503,BLR115,,NY,59th Street,False,False,False,False,False,False,False
+2503,BLR116,,NY,59th Street,False,False,False,False,False,False,False
+2503,BLR117,,NY,59th Street,False,False,False,False,False,False,False
+2503,BLR118,,NY,59th Street,False,False,False,False,False,False,False
+2503,CT0001,,NY,59th Street,False,False,False,False,False,False,False
+2504,120,,NY,74th Street,True,False,True,True,True,True,True
+2504,121,,NY,74th Street,True,False,True,True,True,True,True
+2504,122,,NY,74th Street,True,False,True,True,True,True,True
+2504,CT0001,CT0001,NY,74th Street,True,False,True,True,True,True,True
+2504,CT0002,CT0002,NY,74th Street,True,False,True,True,True,True,True
+2511,10,10,NY,E F Barrett,True,False,True,True,True,True,True
+2511,20,20,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00004,U00004,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00005,U00005,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00006,U00006,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00007,U00007,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00008,U00008,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00009,U00009,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00010,,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00011,U00011,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00012,U00012,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00013,U00013,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00014,U00014,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00015,U00015,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00016,U00016,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00017,U00017,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00018,U00018,NY,E F Barrett,True,False,True,True,True,True,True
+2511,U00019,U00019,NY,E F Barrett,True,False,True,True,True,True,True
+2512,UGT001,,NY,East Hampton Facility,False,False,False,False,False,False,False
+2514,U00020,U00020,NY,Glenwood,True,False,True,True,True,True,True
+2514,U00021,U00021,NY,Glenwood,True,False,True,True,True,True,True
+2516,1,1,NY,Northport,True,False,True,True,True,True,True
+2516,2,2,NY,Northport,True,False,True,True,True,True,True
+2516,3,3,NY,Northport,True,False,True,True,True,True,True
+2516,4,4,NY,Northport,True,False,True,True,True,True,True
+2516,UGT001,UGT001,NY,Northport,True,False,True,True,True,True,True
+2517,3,3,NY,Port Jefferson Energy Center,True,False,True,True,True,True,True
+2517,4,4,NY,Port Jefferson Energy Center,True,False,True,True,True,True,True
+2517,UGT001,UGT001,NY,Port Jefferson Energy Center,True,False,True,True,True,True,True
+2517,UGT002,UGT002,NY,Port Jefferson Energy Center,True,False,True,True,True,True,True
+2517,UGT003,UGT003,NY,Port Jefferson Energy Center,True,False,True,True,True,True,True
+2521,UGT001,UGT001,NY,West Babylon Facility,True,False,True,True,True,True,True
+2527,6,6,NY,Greenidge Generation LLC,True,False,True,True,True,True,True
+2535,1,,NY,"Cayuga Operating Company, LLC",True,False,True,True,True,True,True
+2535,2,,NY,"Cayuga Operating Company, LLC",True,False,True,True,True,True,True
+2539,10001,10001,NY,Bethlehem Energy Center (Albany),True,False,True,True,True,True,True
+2539,10002,10002,NY,Bethlehem Energy Center (Albany),True,False,True,True,True,True,True
+2539,10003,10003,NY,Bethlehem Energy Center (Albany),True,False,True,True,True,True,True
+2554,1,,NY,NRG Dunkirk Power,True,False,True,True,True,True,True
+2554,2,,NY,NRG Dunkirk Power,True,False,True,True,True,True,True
+2554,3,,NY,NRG Dunkirk Power,True,False,True,True,True,True,True
+2554,4,,NY,NRG Dunkirk Power,True,False,True,True,True,True,True
+2594,5,5,NY,Oswego Harbor Power,True,False,True,True,True,True,True
+2594,6,6,NY,Oswego Harbor Power,True,False,True,True,True,True,True
+2625,1,1,NY,Bowline Generating Station,True,False,True,True,True,True,True
+2625,2,2,NY,Bowline Generating Station,True,False,True,True,True,True,True
+2628,001,001,NY,Hillburn,True,False,True,True,True,True,True
+2632,1,1,NY,Shoemaker,True,False,True,True,True,True,True
+2679,5,5,NY,Freeport Power Plant No. 2,True,False,True,True,True,True,True
+2679,CT3,CT3,NY,Freeport Power Plant No. 2,True,False,True,True,True,True,True
+2682,10,10,NY,S A Carlson,True,False,True,True,True,True,True
+2682,20,20,NY,S A Carlson,True,False,True,True,True,True,True
+2682,9,9,NY,S A Carlson,True,False,True,True,True,True,True
+50292,GT1,GT1,NY,Bethpage Energy Center,True,False,True,True,True,True,True
+50292,GT2,GT2,NY,Bethpage Energy Center,True,False,True,True,True,True,True
+50292,GT3,GT3,NY,Bethpage Energy Center,True,False,True,True,True,True,True
+50292,GT4,GT4,NY,Bethpage Energy Center,True,False,True,True,True,True,True
+50368,CT1,,NY,Cornell University Ithaca Campus,False,False,False,False,False,False,False
+50368,CT2,,NY,Cornell University Ithaca Campus,False,False,False,False,False,False,False
+50449,1,1,NY,Indeck-Silver Springs Energy Center,True,False,True,True,True,True,True
+50450,1,1,NY,Indeck-Oswego Energy Center,True,False,True,True,True,True,True
+50451,1,1,NY,Indeck-Yerkes Energy Center,True,False,True,True,True,True,True
+50458,1,1,NY,Indeck-Corinth Energy Center,True,False,True,True,True,True,True
+50472,BLR05,,NY,Covanta Niagara,True,False,True,True,True,True,True
+50472,R1B01,R1B01,NY,Covanta Niagara,True,False,True,True,True,True,True
+50472,R1B02,R1B02,NY,Covanta Niagara,True,False,True,True,True,True,True
+50744,00001,00001,NY,Sterling Power Plant,True,False,True,True,True,True,True
+50978,A,A,NY,Carr Street Generating Station,True,False,True,True,True,True,True
+50978,B,B,NY,Carr Street Generating Station,True,False,True,True,True,True,True
+52056,00004,,NY,Nassau Energy Corporation,True,False,True,True,True,True,True
+52168,00001,,NY,Riverbay Corp. - Co-Op City,False,False,False,False,False,False,False
+52168,00004,,NY,Riverbay Corp. - Co-Op City,False,False,False,False,False,False,False
+52168,00006,,NY,Riverbay Corp. - Co-Op City,False,False,False,False,False,False,False
+52168,0003HP,,NY,Riverbay Corp. - Co-Op City,False,False,False,False,False,False,False
+52168,HPB02,,NY,Riverbay Corp. - Co-Op City,False,False,False,False,False,False,False
+54034,1GTDBS,1GTDBS,NY,Rensselaer Cogen,True,False,True,True,True,True,True
+54041,011854,011854,NY,Lockport,True,False,True,True,True,True,True
+54041,011855,011855,NY,Lockport,True,False,True,True,True,True,True
+54041,011856,011856,NY,Lockport,True,False,True,True,True,True,True
+54076,1,1,NY,Indeck-Olean Energy Center,True,False,True,True,True,True,True
+54099,000044,,NY,Ticonderoga Mill,False,False,False,False,False,False,False
+54114,GT1,GT1,NY,KIAC Cogeneration,True,False,True,True,True,True,True
+54114,GT2,GT2,NY,KIAC Cogeneration,True,False,True,True,True,True,True
+54131,NTCT1,NTCT1,NY,"World Generation X, LLC",True,False,True,True,True,True,True
+54149,1,1,NY,Nissequogue Energy Center,True,False,True,True,True,True,True
+54547,1,1,NY,Independence,True,False,True,True,True,True,True
+54547,2,2,NY,Independence,True,False,True,True,True,True,True
+54547,3,3,NY,Independence,True,False,True,True,True,True,True
+54547,4,4,NY,Independence,True,False,True,True,True,True,True
+54574,00001,00001,NY,"Saranac Power Partners, LP",True,False,True,True,True,True,True
+54574,00002,00002,NY,"Saranac Power Partners, LP",True,False,True,True,True,True,True
+54592,001,001,NY,Massena Energy Facility,True,False,True,True,True,True,True
+54593,1,1,NY,Batavia Energy,True,False,True,True,True,True,True
+54914,1,1,NY,Brooklyn Navy Yard Cogeneration,True,False,True,True,True,True,True
+54914,2,2,NY,Brooklyn Navy Yard Cogeneration,True,False,True,True,True,True,True
+55243,CT0005,,NY,Astoria Gas Turbine Power,False,False,False,False,False,False,False
+55243,CT0007,,NY,Astoria Gas Turbine Power,False,False,False,False,False,False,False
+55243,CT0008,,NY,Astoria Gas Turbine Power,False,False,False,False,False,False,False
+55243,CT0010,,NY,Astoria Gas Turbine Power,False,False,False,False,False,False,False
+55243,CT0011,,NY,Astoria Gas Turbine Power,False,False,False,False,False,False,False
+55243,CT0012,,NY,Astoria Gas Turbine Power,False,False,False,False,False,False,False
+55243,CT0013,,NY,Astoria Gas Turbine Power,False,False,False,False,False,False,False
+55243,CT2-1A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT2-1B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT2-2A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT2-2B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT2-3A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT2-3B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT2-4A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT2-4B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT3-1A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT3-1B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT3-2A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT3-2B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT3-3A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT3-3B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT3-4A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT3-4B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT4-1A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT4-1B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT4-2A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT4-2B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT4-3A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT4-3B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT4-4A,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55243,CT4-4B,,NY,Astoria Gas Turbine Power,True,False,True,True,True,True,True
+55375,CT1,CT1,NY,Astoria Energy,True,False,True,True,True,True,True
+55375,CT2,CT2,NY,Astoria Energy,True,False,True,True,True,True,True
+55375,CT3,CT3,NY,Astoria Energy,True,False,True,True,True,True,True
+55375,CT4,CT4,NY,Astoria Energy,True,False,True,True,True,True,True
+55405,1,1,NY,Athens Generating Company,True,False,True,True,True,True,True
+55405,2,2,NY,Athens Generating Company,True,False,True,True,True,True,True
+55405,3,3,NY,Athens Generating Company,True,False,True,True,True,True,True
+55699,1,1,NY,Bayswater Peaking Facility,True,False,True,True,True,True,True
+55699,2,2,NY,Bayswater Peaking Facility,True,False,True,True,True,True,True
+55786,CT01,CT01,NY,Edgewood Energy,True,False,True,True,True,True,True
+55786,CT02,CT02,NY,Edgewood Energy,True,False,True,True,True,True,True
+55787,CT01,CT01,NY,Shoreham Energy,True,False,True,True,True,True,True
+55787,CT02,CT02,NY,Shoreham Energy,True,False,True,True,True,True,True
+55969,U-01,U-01,NY,"Hawkeye Energy Greenport, LLC",True,False,True,True,True,True,True
+56032,0001,0001,NY,Equus  Power I,True,False,True,True,True,True,True
+56188,00001,00001,NY,Pinelawn Power,True,False,True,True,True,True,True
+56196,CTG7A,CTG7A,NY,Poletti 500 MW CC,True,False,True,True,True,True,True
+56196,CTG7B,CTG7B,NY,Poletti 500 MW CC,True,False,True,True,True,True,True
+56234,0001,0001,NY,Caithness Long Island Energy Center,True,False,True,True,True,True,True
+56259,CT-1,CT-1,NY,"Empire Generating Co, LLC",True,False,True,True,True,True,True
+56259,CT-2,CT-2,NY,"Empire Generating Co, LLC",True,False,True,True,True,True,True
+56940,1,1,NY,Valley Energy Center,True,False,True,True,True,True,True
+56940,2,2,NY,Valley Energy Center,True,False,True,True,True,True,True
+57185,U001,U001,NY,Cricket Valley Energy Center,True,False,True,True,True,True,True
+57185,U002,U002,NY,Cricket Valley Energy Center,True,False,True,True,True,True,True
+57185,U003,U003,NY,Cricket Valley Energy Center,True,False,True,True,True,True,True
+6082,1,,NY,Somerset Operating Company  (Kintigh),True,False,True,True,True,True,True
+7146,UGT007,UGT007,NY,Wading River Facility,True,False,True,True,True,True,True
+7146,UGT008,UGT008,NY,Wading River Facility,True,False,True,True,True,True,True
+7146,UGT009,UGT009,NY,Wading River Facility,True,False,True,True,True,True,True
+7146,UGT013,UGT013,NY,Wading River Facility,True,False,True,True,True,True,True
+7146,UGT014,UGT014,NY,Wading River Facility,True,False,True,True,True,True,True
+7314,001,001,NY,Richard M Flynn (Holtsville),True,False,True,True,True,True,True
+7869,UGT011,UGT011,NY,Glenwood Landing Energy Center,True,False,True,True,True,True,True
+7869,UGT012,UGT012,NY,Glenwood Landing Energy Center,True,False,True,True,True,True,True
+7869,UGT013,UGT013,NY,Glenwood Landing Energy Center,True,False,True,True,True,True,True
+7909,VB01,VB01,NY,Vernon Boulevard,True,False,True,True,True,True,True
+7909,VB02,VB02,NY,Vernon Boulevard,True,False,True,True,True,True,True
+7910,2301,2301,NY,23rd and 3rd,True,False,True,True,True,True,True
+7910,2302,2302,NY,23rd and 3rd,True,False,True,True,True,True,True
+7912,BW01,BW01,NY,Brentwood,True,False,True,True,True,True,True
+7913,HG01,HG01,NY,Hell Gate,True,False,True,True,True,True,True
+7913,HG02,HG02,NY,Hell Gate,True,False,True,True,True,True,True
+7914,HR01,HR01,NY,Harlem River Yard,True,False,True,True,True,True,True
+7914,HR02,HR02,NY,Harlem River Yard,True,False,True,True,True,True,True
+7915,NO1,NO1,NY,North 1st,True,False,True,True,True,True,True
+8006,1,1,NY,Roseton Generating LLC,True,False,True,True,True,True,True
+8006,2,2,NY,Roseton Generating LLC,True,False,True,True,True,True,True
+8007,U00001,U00001,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00002,U00002,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00003,U00003,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00004,U00004,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00005,U00005,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00006,U00006,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00007,U00007,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00008,U00008,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00009,U00009,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00010,U00010,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00011,U00011,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00012,U00012,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00013,U00013,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00014,U00014,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00015,U00015,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00016,U00016,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00017,U00017,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00018,U00018,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00019,U00019,NY,Holtsville Facility,True,False,True,True,True,True,True
+8007,U00020,U00020,NY,Holtsville Facility,True,False,True,True,True,True,True
+8053,PT01,PT01,NY,Pouch Terminal,True,False,True,True,True,True,True
+880100,BLR001,,NY,Ravenswood Steam Plant,False,False,False,False,False,False,False
+880100,BLR002,,NY,Ravenswood Steam Plant,False,False,False,False,False,False,False
+880100,BLR003,,NY,Ravenswood Steam Plant,False,False,False,False,False,False,False
+880100,BLR004,,NY,Ravenswood Steam Plant,False,False,False,False,False,False,False
+8906,20,20,NY,Astoria Generating Station,True,False,True,True,True,True,True
+8906,31RH,31RH,NY,Astoria Generating Station,True,False,True,True,True,True,True
+8906,32SH,32SH,NY,Astoria Generating Station,True,False,True,True,True,True,True
+8906,41SH,41SH,NY,Astoria Generating Station,True,False,True,True,True,True,True
+8906,42RH,42RH,NY,Astoria Generating Station,True,False,True,True,True,True,True
+8906,51RH,51RH,NY,Astoria Generating Station,True,False,True,True,True,True,True
+8906,52SH,52SH,NY,Astoria Generating Station,True,False,True,True,True,True,True
+8906,CT0001,CT0001,NY,Astoria Generating Station,True,False,True,True,True,True,True
+10244,B002,,OH,Pixelle Specialty Solutions LLC,False,False,False,False,False,False,False
+10244,B003,,OH,Pixelle Specialty Solutions LLC,False,False,False,False,False,False,False
+2828,1,,OH,Cardinal,False,False,False,False,False,False,False
+2828,2,,OH,Cardinal,False,False,False,False,False,False,False
+2828,3,,OH,Cardinal,False,False,False,False,False,False,False
+2828,B008,,OH,Cardinal,False,False,False,False,False,False,False
+2828,B010,,OH,Cardinal,False,False,False,False,False,False,False
+2831,1,,OH,Dicks Creek Power Company LLC,False,False,False,False,False,False,False
+2832,6,,OH,Miami Fort Power Station,False,False,False,False,False,False,False
+2832,7,,OH,Miami Fort Power Station,False,False,False,False,False,False,False
+2832,8,,OH,Miami Fort Power Station,False,False,False,False,False,False,False
+2836,12,,OH,Avon Lake Power Plant,False,False,False,False,False,False,False
+2836,CT10,,OH,Avon Lake Power Plant,False,False,False,False,False,False,False
+2837,6,,OH,Eastlake,False,False,False,False,False,False,False
+2840,4,,OH,Conesville,False,False,False,False,False,False,False
+2840,6,,OH,Conesville,False,False,False,False,False,False,False
+2847,1,,OH,Frank M Tait Station,False,False,False,False,False,False,False
+2847,2,,OH,Frank M Tait Station,False,False,False,False,False,False,False
+2847,3,,OH,Frank M Tait Station,False,False,False,False,False,False,False
+2848,H-7,,OH,O H Hutchings,False,False,False,False,False,False,False
+2861,CTA,,OH,Niles,False,False,False,False,False,False,False
+2866,1,,OH,W H Sammis,False,False,False,False,False,False,False
+2866,2,,OH,W H Sammis,False,False,False,False,False,False,False
+2866,3,,OH,W H Sammis,False,False,False,False,False,False,False
+2866,4,,OH,W H Sammis,False,False,False,False,False,False,False
+2866,5,,OH,W H Sammis,False,False,False,False,False,False,False
+2866,6,,OH,W H Sammis,False,False,False,False,False,False,False
+2866,7,,OH,W H Sammis,False,False,False,False,False,False,False
+2869,1A,,OH,West Lorain,False,False,False,False,False,False,False
+2869,1B,,OH,West Lorain,False,False,False,False,False,False,False
+2869,2,,OH,West Lorain,False,False,False,False,False,False,False
+2869,3,,OH,West Lorain,False,False,False,False,False,False,False
+2869,4,,OH,West Lorain,False,False,False,False,False,False,False
+2869,5,,OH,West Lorain,False,False,False,False,False,False,False
+2869,6,,OH,West Lorain,False,False,False,False,False,False,False
+2876,1,,OH,Kyger Creek,False,False,False,False,False,False,False
+2876,2,,OH,Kyger Creek,False,False,False,False,False,False,False
+2876,3,,OH,Kyger Creek,False,False,False,False,False,False,False
+2876,4,,OH,Kyger Creek,False,False,False,False,False,False,False
+2876,5,,OH,Kyger Creek,False,False,False,False,False,False,False
+2878,1,,OH,Bay Shore,False,False,False,False,False,False,False
+2880,CTG4,,OH,Richland Peaking Station,False,False,False,False,False,False,False
+2880,CTG5,,OH,Richland Peaking Station,False,False,False,False,False,False,False
+2880,CTG6,,OH,Richland Peaking Station,False,False,False,False,False,False,False
+2917,9,,OH,Hamilton Municipal Power Plant,False,False,False,False,False,False,False
+50044,B132,,OH,McCracken Power House,False,False,False,False,False,False,False
+54207,B001,,OH,Cleveland-Cliffs Warren,False,False,False,False,False,False,False
+54207,B002,,OH,Cleveland-Cliffs Warren,False,False,False,False,False,False,False
+54207,B004,,OH,Cleveland-Cliffs Warren,False,False,False,False,False,False,False
+55110,1,,OH,Madison Generating Station,False,False,False,False,False,False,False
+55110,2,,OH,Madison Generating Station,False,False,False,False,False,False,False
+55110,3,,OH,Madison Generating Station,False,False,False,False,False,False,False
+55110,4,,OH,Madison Generating Station,False,False,False,False,False,False,False
+55110,5,,OH,Madison Generating Station,False,False,False,False,False,False,False
+55110,6,,OH,Madison Generating Station,False,False,False,False,False,False,False
+55110,7,,OH,Madison Generating Station,False,False,False,False,False,False,False
+55110,8,,OH,Madison Generating Station,False,False,False,False,False,False,False
+55228,G1CT1,,OH,Greenville Electric Gen Station,False,False,False,False,False,False,False
+55228,G1CT2,,OH,Greenville Electric Gen Station,False,False,False,False,False,False,False
+55228,G2CT1,,OH,Greenville Electric Gen Station,False,False,False,False,False,False,False
+55228,G2CT2,,OH,Greenville Electric Gen Station,False,False,False,False,False,False,False
+55228,G3CT1,,OH,Greenville Electric Gen Station,False,False,False,False,False,False,False
+55228,G3CT2,,OH,Greenville Electric Gen Station,False,False,False,False,False,False,False
+55228,G4CT1,,OH,Greenville Electric Gen Station,False,False,False,False,False,False,False
+55228,G4CT2,,OH,Greenville Electric Gen Station,False,False,False,False,False,False,False
+55247,CT1,,OH,Darby Electric Generating Station,False,False,False,False,False,False,False
+55247,CT2,,OH,Darby Electric Generating Station,False,False,False,False,False,False,False
+55247,CT3,,OH,Darby Electric Generating Station,False,False,False,False,False,False,False
+55247,CT4,,OH,Darby Electric Generating Station,False,False,False,False,False,False,False
+55247,CT5,,OH,Darby Electric Generating Station,False,False,False,False,False,False,False
+55247,CT6,,OH,Darby Electric Generating Station,False,False,False,False,False,False,False
+55248,CT4,,OH,Tait Electric Generating Station,False,False,False,False,False,False,False
+55248,CT5,,OH,Tait Electric Generating Station,False,False,False,False,False,False,False
+55248,CT6,,OH,Tait Electric Generating Station,False,False,False,False,False,False,False
+55248,CT7,,OH,Tait Electric Generating Station,False,False,False,False,False,False,False
+55262,CT1,,OH,AMP-Ohio Gas Turbines Bowling Green,False,False,False,False,False,False,False
+55263,CT1,,OH,AMP-Ohio Gas Turbines Galion,False,False,False,False,False,False,False
+55264,CT1,,OH,AMP-Ohio Gas Turbines Napoleon,False,False,False,False,False,False,False
+55348,1,,OH,"Troy Energy, LLC",False,False,False,False,False,False,False
+55348,2,,OH,"Troy Energy, LLC",False,False,False,False,False,False,False
+55348,3,,OH,"Troy Energy, LLC",False,False,False,False,False,False,False
+55348,4,,OH,"Troy Energy, LLC",False,False,False,False,False,False,False
+55350,1A,,OH,Dresden Energy Facility,False,False,False,False,False,False,False
+55350,1B,,OH,Dresden Energy Facility,False,False,False,False,False,False,False
+55397,CT1,,OH,Washington Power Company LLC,False,False,False,False,False,False,False
+55397,CT2,,OH,Washington Power Company LLC,False,False,False,False,False,False,False
+55401,CT-1,,OH,Rolling Hills Generating LLC,False,False,False,False,False,False,False
+55401,CT-2,,OH,Rolling Hills Generating LLC,False,False,False,False,False,False,False
+55401,CT-3,,OH,Rolling Hills Generating LLC,False,False,False,False,False,False,False
+55401,CT-4,,OH,Rolling Hills Generating LLC,False,False,False,False,False,False,False
+55401,CT-5,,OH,Rolling Hills Generating LLC,False,False,False,False,False,False,False
+55503,1,,OH,Waterford Plant,False,False,False,False,False,False,False
+55503,2,,OH,Waterford Plant,False,False,False,False,False,False,False
+55503,3,,OH,Waterford Plant,False,False,False,False,False,False,False
+55701,CT01,,OH,Fremont Energy Center,False,False,False,False,False,False,False
+55701,CT02,,OH,Fremont Energy Center,False,False,False,False,False,False,False
+55736,CTG1,,OH,Hanging Rock Power Company LLC,False,False,False,False,False,False,False
+55736,CTG2,,OH,Hanging Rock Power Company LLC,False,False,False,False,False,False,False
+55736,CTG3,,OH,Hanging Rock Power Company LLC,False,False,False,False,False,False,False
+55736,CTG4,,OH,Hanging Rock Power Company LLC,False,False,False,False,False,False,False
+59326,1,,OH,Middletown Energy Center,False,False,False,False,False,False,False
+59764,01,,OH,Oregon Clean Energy Center,False,False,False,False,False,False,False
+59764,02,,OH,Oregon Clean Energy Center,False,False,False,False,False,False,False
+59773,1,,OH,Carroll County Energy,False,False,False,False,False,False,False
+59773,2,,OH,Carroll County Energy,False,False,False,False,False,False,False
+6019,1,,OH,W H Zimmer Generating Station,False,False,False,False,False,False,False
+6019,A,,OH,W H Zimmer Generating Station,False,False,False,False,False,False,False
+6019,B,,OH,W H Zimmer Generating Station,False,False,False,False,False,False,False
+60356,1,,OH,"South Field Energy, LLC",False,False,False,False,False,False,False
+60356,2,,OH,"South Field Energy, LLC",False,False,False,False,False,False,False
+60376,1,,OH,"Clean Energy Future - Lordstown, LLC",False,False,False,False,False,False,False
+60376,2,,OH,"Clean Energy Future - Lordstown, LLC",False,False,False,False,False,False,False
+61322,CC1,,OH,Long Ridge Energy Generation,False,False,False,False,False,False,False
+62949,P001,,OH,Guernsey Power Station,False,False,False,False,False,False,False
+62949,P002,,OH,Guernsey Power Station,False,False,False,False,False,False,False
+62949,P003,,OH,Guernsey Power Station,False,False,False,False,False,False,False
+66918,GT11,,OH,Trumbull Energy Center,False,False,False,False,False,False,False
+66918,GT12,,OH,Trumbull Energy Center,False,False,False,False,False,False,False
+7158,**GT1,,OH,Woodsdale,False,False,False,False,False,False,False
+7158,**GT2,,OH,Woodsdale,False,False,False,False,False,False,False
+7158,**GT3,,OH,Woodsdale,False,False,False,False,False,False,False
+7158,**GT4,,OH,Woodsdale,False,False,False,False,False,False,False
+7158,**GT5,,OH,Woodsdale,False,False,False,False,False,False,False
+7158,**GT6,,OH,Woodsdale,False,False,False,False,False,False,False
+7782,P001,,OH,Omega JV2 Hamilton,False,False,False,False,False,False,False
+7783,P001,,OH,Omega JV2 Bowling Green,False,False,False,False,False,False,False
+7872,1,,OH,Robert P Mone,False,False,False,False,False,False,False
+7872,2,,OH,Robert P Mone,False,False,False,False,False,False,False
+7872,3,,OH,Robert P Mone,False,False,False,False,False,False,False
+8102,1,,OH,Gen J M Gavin,False,False,False,False,False,False,False
+8102,2,,OH,Gen J M Gavin,False,False,False,False,False,False,False
+8102,B001,,OH,Gen J M Gavin,False,False,False,False,False,False,False
+8102,B002,,OH,Gen J M Gavin,False,False,False,False,False,False,False
+880030,B034,,OH,Ohio Refining Company LLC,False,False,False,False,False,False,False
+880030,B035,,OH,Ohio Refining Company LLC,False,False,False,False,False,False,False
+880039,B004,,OH,Cargill Incorporated - Dayton,False,False,False,False,False,False,False
+880039,B006,,OH,Cargill Incorporated - Dayton,False,False,False,False,False,False,False
+880042,P009,,OH,Cleveland-Cliffs Steel - Middletown,False,False,False,False,False,False,False
+880042,P010,,OH,Cleveland-Cliffs Steel - Middletown,False,False,False,False,False,False,False
+880042,P011,,OH,Cleveland-Cliffs Steel - Middletown,False,False,False,False,False,False,False
+880042,P012,,OH,Cleveland-Cliffs Steel - Middletown,False,False,False,False,False,False,False
+880083,B026,,OH,Lima Refinery,False,False,False,False,False,False,False
+880109,B001,,OH,Pratt Paper (OH),False,False,False,False,False,False,False
+10113,031,031,PA,Gilberton Power Company,True,False,False,False,True,False,False
+10113,032,032,PA,Gilberton Power Company,True,False,False,False,True,False,False
+10143,AAB01,AAB01,PA,Colver Green Energy,True,False,False,False,True,False,False
+10343,SG-101,SG-101,PA,Mt. Carmel Cogeneration,True,False,False,False,True,False,False
+10603,031,031,PA,Ebensburg Power Company,True,False,False,False,True,False,False
+10870,TURB2,TURB2,PA,Hazleton Generation,True,False,False,False,True,False,False
+10870,TURB3,TURB3,PA,Hazleton Generation,True,False,False,False,True,False,False
+10870,TURB4,TURB4,PA,Hazleton Generation,True,False,False,False,True,False,False
+10870,TURBIN,TURBIN,PA,Hazleton Generation,True,False,False,False,True,False,False
+3096,2A,2A,PA,Brunot Island Power Station,True,False,False,False,True,False,False
+3096,2B,2B,PA,Brunot Island Power Station,True,False,False,False,True,False,False
+3096,3,3,PA,Brunot Island Power Station,True,False,False,False,True,False,False
+3111,031,031,PA,Mountain,True,False,False,False,True,False,False
+3111,032,032,PA,Mountain,True,False,False,False,True,False,False
+3113,5,5,PA,Portland,True,False,False,False,True,False,False
+3116,031,031,PA,Tolna,True,False,False,False,True,False,False
+3116,032,032,PA,Tolna,True,False,False,False,True,False,False
+3118,1,1,PA,Conemaugh,True,False,False,False,True,False,False
+3118,2,2,PA,Conemaugh,True,False,False,False,True,False,False
+3122,1,1,PA,Homer City,True,False,False,False,True,False,False
+3122,2,2,PA,Homer City,True,False,False,False,True,False,False
+3122,3,3,PA,Homer City,True,False,False,False,True,False,False
+3130,1,1,PA,Seward,True,False,False,False,True,False,False
+3130,2,2,PA,Seward,True,False,False,False,True,False,False
+3131,1,1,PA,Shawville,True,False,False,False,True,False,False
+3131,2,2,PA,Shawville,True,False,False,False,True,False,False
+3131,3,3,PA,Shawville,True,False,False,False,True,False,False
+3131,4,4,PA,Shawville,True,False,False,False,True,False,False
+3132,005,005,PA,Warren,True,False,False,False,True,False,False
+3136,1,1,PA,Keystone,True,False,False,False,True,False,False
+3136,2,2,PA,Keystone,True,False,False,False,True,False,False
+3138,3,3,PA,New Castle,True,False,False,False,True,False,False
+3138,4,4,PA,New Castle,True,False,False,False,True,False,False
+3138,5,5,PA,New Castle,True,False,False,False,True,False,False
+3140,1,1,PA,"Brunner Island, LLC",True,False,False,False,True,False,False
+3140,2,2,PA,"Brunner Island, LLC",True,False,False,False,True,False,False
+3140,3,3,PA,"Brunner Island, LLC",True,False,False,False,True,False,False
+3148,3,3,PA,"Martins Creek, LLC",True,False,False,False,True,False,False
+3148,4,4,PA,"Martins Creek, LLC",True,False,False,False,True,False,False
+3149,1,1,PA,"Montour, LLC",True,False,False,False,True,False,False
+3149,2,2,PA,"Montour, LLC",True,False,False,False,True,False,False
+3161,3,3,PA,Eddystone Generating Station,True,False,False,False,True,False,False
+3161,4,4,PA,Eddystone Generating Station,True,False,False,False,True,False,False
+3168,91,91,PA,Richmond,True,False,False,False,True,False,False
+3168,92,92,PA,Richmond,True,False,False,False,True,False,False
+3176,CT5,CT5,PA,Hunlock Creek Generating LLC,True,False,False,False,True,False,False
+3176,CT6,CT6,PA,Hunlock Creek Generating LLC,True,False,False,False,True,False,False
+50279,2,2,PA,PEI Power Corporation,True,False,False,False,True,False,False
+50397,036,036,PA,Pixelle Specialty Solutions,True,False,False,False,True,False,False
+50397,038,,PA,Pixelle Specialty Solutions,True,False,False,False,True,False,False
+50397,039,039,PA,Pixelle Specialty Solutions,True,False,False,False,True,False,False
+50410,034,,PA,Kimberly-Clark Tissue Company,False,False,False,False,False,False,False
+50463,328001,328001,PA,Procter & Gamble Paper Products,True,False,False,False,True,False,False
+50463,328002,328002,PA,Procter & Gamble Paper Products,True,False,False,False,True,False,False
+50607,23,,PA,Vicinity Energy Philadelphia- Schuylkill,False,False,False,False,False,False,False
+50607,24,,PA,Vicinity Energy Philadelphia- Schuylkill,False,False,False,False,False,False,False
+50607,26,,PA,Vicinity Energy Philadelphia- Schuylkill,False,False,False,False,False,False,False
+50607,RSB1,,PA,Vicinity Energy Philadelphia- Schuylkill,False,False,False,False,False,False,False
+50607,RSB2,,PA,Vicinity Energy Philadelphia- Schuylkill,False,False,False,False,False,False,False
+50611,031,031,PA,"Rausch Creek Generation, LLC",True,False,False,False,True,False,False
+50729,CLBLR1,,PA,US Steel (Clairton Coke),False,False,False,False,False,False,False
+50729,CLBLR2,,PA,US Steel (Clairton Coke),False,False,False,False,False,False,False
+50732,ETBLR1,,PA,US Steel (Edgar Thomson),False,False,False,False,False,False,False
+50732,ETBLR2,,PA,US Steel (Edgar Thomson),False,False,False,False,False,False,False
+50732,ETBLR3,,PA,US Steel (Edgar Thomson),False,False,False,False,False,False,False
+50776,1,1,PA,Panther Creek Energy Facility,True,False,False,False,True,False,False
+50776,2,2,PA,Panther Creek Energy Facility,True,False,False,False,True,False,False
+50879,GEN1,,PA,Wheelabrator Frackville Energy,False,False,False,False,False,False,False
+50888,NGC01,NGC01,PA,Northampton Generating Plant,True,False,False,False,True,False,False
+50974,1,1,PA,Scrubgrass Generating Plant,True,False,False,False,True,False,False
+50974,2,2,PA,Scrubgrass Generating Plant,True,False,False,False,True,False,False
+52106,150137,,PA,Philadelphia Refinery,False,False,False,False,False,False,False
+52106,150138,,PA,Philadelphia Refinery,False,False,False,False,False,False,False
+52106,150139,,PA,Philadelphia Refinery,False,False,False,False,False,False,False
+52106,150140,,PA,Philadelphia Refinery,False,False,False,False,False,False,False
+52106,150145,,PA,Philadelphia Refinery,False,False,False,False,False,False,False
+52149,039,,PA,Merck & Company - West Point,False,False,False,False,False,False,False
+52149,040,,PA,Merck & Company - West Point,False,False,False,False,False,False,False
+54571,001,,PA,North East Cogeneration Plant,False,False,False,False,False,False,False
+54571,002,,PA,North East Cogeneration Plant,False,False,False,False,False,False,False
+54634,1,1,PA,St. Nicholas Cogeneration Project,True,False,False,False,True,False,False
+54638,040,040,PA,"Domtar Paper Company, LLC",True,False,False,False,True,False,False
+54638,041,041,PA,"Domtar Paper Company, LLC",True,False,False,False,True,False,False
+54785,2,2,PA,Grays Ferry Cogen Partnership,True,False,False,False,True,False,False
+54785,25,25,PA,Grays Ferry Cogen Partnership,True,False,False,False,True,False,False
+55193,CT1,CT1,PA,Ontelaunee Energy Center,True,False,False,False,True,False,False
+55193,CT2,CT2,PA,Ontelaunee Energy Center,True,False,False,False,True,False,False
+55196,1,1,PA,Springdale Generating Station (55196),True,False,False,False,True,False,False
+55196,2,2,PA,Springdale Generating Station (55196),True,False,False,False,True,False,False
+55231,0001,0001,PA,Liberty Electric Power Plant,True,False,False,False,True,False,False
+55231,0002,0002,PA,Liberty Electric Power Plant,True,False,False,False,True,False,False
+55233,EU-1A,EU-1A,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55233,EU-1B,EU-1B,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55233,EU-2A,EU-2A,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55233,EU-2B,EU-2B,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55233,EU-3A,EU-3A,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55233,EU-3B,EU-3B,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55233,EU-4A,EU-4A,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55233,EU-4B,EU-4B,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55233,EU-5A,EU-5A,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55233,EU-5B,EU-5B,PA,Handsome Lake Energy,True,False,False,False,True,False,False
+55298,1A,1A,PA,Fairless Energy Center,True,False,False,False,True,False,False
+55298,1B,1B,PA,Fairless Energy Center,True,False,False,False,True,False,False
+55298,2A,2A,PA,Fairless Energy Center,True,False,False,False,True,False,False
+55298,2B,2B,PA,Fairless Energy Center,True,False,False,False,True,False,False
+55337,0001,0001,PA,Helix Ironwood LLC,True,False,False,False,True,False,False
+55337,0002,0002,PA,Helix Ironwood LLC,True,False,False,False,True,False,False
+55347,1,1,PA,"Armstrong Power, LLC",True,False,False,False,True,False,False
+55347,2,2,PA,"Armstrong Power, LLC",True,False,False,False,True,False,False
+55347,3,3,PA,"Armstrong Power, LLC",True,False,False,False,True,False,False
+55347,4,4,PA,"Armstrong Power, LLC",True,False,False,False,True,False,False
+55377,8,8,PA,Gans Generating Facility,True,False,False,False,True,False,False
+55377,9,9,PA,Gans Generating Facility,True,False,False,False,True,False,False
+55516,CTG1,CTG1,PA,Fayette Power Company LLC,True,False,False,False,True,False,False
+55516,CTG2,CTG2,PA,Fayette Power Company LLC,True,False,False,False,True,False,False
+55524,1,1,PA,York Energy Center,True,False,False,False,True,False,False
+55524,2,2,PA,York Energy Center,True,False,False,False,True,False,False
+55524,3,3,PA,York Energy Center,True,False,False,False,True,False,False
+55524,5,5,PA,York Energy Center,True,False,False,False,True,False,False
+55524,6,6,PA,York Energy Center,True,False,False,False,True,False,False
+55654,12,12,PA,Chambersburg Units 12 & 13,True,False,False,False,True,False,False
+55654,13,13,PA,Chambersburg Units 12 & 13,True,False,False,False,True,False,False
+55667,CT01,CT01,PA,"Lower Mount Bethel Energy, LLC",True,False,False,False,True,False,False
+55667,CT02,CT02,PA,"Lower Mount Bethel Energy, LLC",True,False,False,False,True,False,False
+55690,1,1,PA,Bethlehem Power Plant,True,False,False,False,True,False,False
+55690,2,2,PA,Bethlehem Power Plant,True,False,False,False,True,False,False
+55690,3,3,PA,Bethlehem Power Plant,True,False,False,False,True,False,False
+55690,5,5,PA,Bethlehem Power Plant,True,False,False,False,True,False,False
+55690,6,6,PA,Bethlehem Power Plant,True,False,False,False,True,False,False
+55690,7,7,PA,Bethlehem Power Plant,True,False,False,False,True,False,False
+55710,3,3,PA,Springdale Generating Station (55710),True,False,False,False,True,False,False
+55710,4,4,PA,Springdale Generating Station (55710),True,False,False,False,True,False,False
+55801,0001,0001,PA,"Marcus Hook Energy, LP",True,False,False,False,True,False,False
+55801,0002,0002,PA,"Marcus Hook Energy, LP",True,False,False,False,True,False,False
+55801,0003,0003,PA,"Marcus Hook Energy, LP",True,False,False,False,True,False,False
+55976,CT101,CT101,PA,Hunterstown Combined Cycle,True,False,False,False,True,False,False
+55976,CT201,CT201,PA,Hunterstown Combined Cycle,True,False,False,False,True,False,False
+55976,CT301,CT301,PA,Hunterstown Combined Cycle,True,False,False,False,True,False,False
+56397,4,4,PA,Hunlock Unit 4,True,False,False,False,True,False,False
+58420,CT1,CT1,PA,Hamilton Liberty Generation Plant,True,False,False,False,True,False,False
+58420,CT2,CT2,PA,Hamilton Liberty Generation Plant,True,False,False,False,True,False,False
+58426,CT1,CT1,PA,Hamilton Patriot Generation Plant,True,False,False,False,True,False,False
+58426,CT2,CT2,PA,Hamilton Patriot Generation Plant,True,False,False,False,True,False,False
+58933,101,101,PA,Shell Chemical Appalachia LLC,True,False,False,False,True,False,False
+58933,102,102,PA,Shell Chemical Appalachia LLC,True,False,False,False,True,False,False
+58933,103,103,PA,Shell Chemical Appalachia LLC,True,False,False,False,True,False,False
+59906,201,201,PA,Moxie Freedom Generation Plant,True,False,False,False,True,False,False
+59906,202,202,PA,Moxie Freedom Generation Plant,True,False,False,False,True,False,False
+60357,1,1,PA,Lackawanna Energy Center,True,False,False,False,True,False,False
+60357,2,2,PA,Lackawanna Energy Center,True,False,False,False,True,False,False
+60357,3,3,PA,Lackawanna Energy Center,True,False,False,False,True,False,False
+60368,CT1,CT1,PA,Hummel Station,True,False,False,False,True,False,False
+60368,CT2,CT2,PA,Hummel Station,True,False,False,False,True,False,False
+60368,CT3,CT3,PA,Hummel Station,True,False,False,False,True,False,False
+60464,101,101,PA,Tenaska Westmoreland Generating Station,True,False,False,False,True,False,False
+60464,102,102,PA,Tenaska Westmoreland Generating Station,True,False,False,False,True,False,False
+60589,CT-1,CT-1,PA,"CPV Fairview, LLC",True,False,False,False,True,False,False
+60589,CT-2,CT-2,PA,"CPV Fairview, LLC",True,False,False,False,True,False,False
+6094,1,,PA,Bruce Mansfield,False,False,False,False,False,False,False
+6094,2,,PA,Bruce Mansfield,False,False,False,False,False,False,False
+6094,3,,PA,Bruce Mansfield,False,False,False,False,False,False,False
+61028,CT1,CT1,PA,Hickory Run Energy Station,True,False,False,False,True,False,False
+61028,CT2,CT2,PA,Hickory Run Energy Station,True,False,False,False,True,False,False
+61035,01,01,PA,Birdsboro Power,True,False,False,False,True,False,False
+62565,01,01,PA,Hill Top Energy Center,True,False,False,False,True,False,False
+7701,PHBLR4,,PA,Fairless Hills Generating Station,False,False,False,False,False,False,False
+7701,PHBLR5,,PA,Fairless Hills Generating Station,False,False,False,False,False,False,False
+8012,11,11,PA,Croydon Generating Station,True,False,False,False,True,False,False
+8012,12,12,PA,Croydon Generating Station,True,False,False,False,True,False,False
+8012,21,21,PA,Croydon Generating Station,True,False,False,False,True,False,False
+8012,22,22,PA,Croydon Generating Station,True,False,False,False,True,False,False
+8012,31,31,PA,Croydon Generating Station,True,False,False,False,True,False,False
+8012,32,32,PA,Croydon Generating Station,True,False,False,False,True,False,False
+8012,41,41,PA,Croydon Generating Station,True,False,False,False,True,False,False
+8012,42,42,PA,Croydon Generating Station,True,False,False,False,True,False,False
+8226,1,,PA,Cheswick,False,False,False,False,False,False,False
+880006,1,,PA,Vicinity Energy Philadelphia Edison Sta,False,False,False,False,False,False,False
+880006,2,,PA,Vicinity Energy Philadelphia Edison Sta,False,False,False,False,False,False,False
+880006,3,,PA,Vicinity Energy Philadelphia Edison Sta,False,False,False,False,False,False,False
+880006,4,,PA,Vicinity Energy Philadelphia Edison Sta,False,False,False,False,False,False,False
+880007,052,,PA,AdvanSix Resins & Chemicals LLC,False,False,False,False,False,False,False
+880025,034,,PA,Trainer Refinery,False,False,False,False,False,False,False
+880025,035,,PA,Trainer Refinery,False,False,False,False,False,False,False
+880025,053,,PA,Trainer Refinery,False,False,False,False,False,False,False
+880049,32001,,PA,Bernville Station,False,False,False,False,False,False,False
+880050,31801,,PA,Shermans Dale Station,False,False,False,False,False,False,False
+880071,31301,,PA,Armagh Compressor Station,False,False,False,False,False,False,False
+880072,31601,,PA,Entriken Compressor Station,False,False,False,False,False,False,False
+880107,AB01,,PA,ETMT Marcus Hook Terminal,False,False,False,False,False,False,False
+880107,AB03,,PA,ETMT Marcus Hook Terminal,False,False,False,False,False,False,False
+880107,AB04,,PA,ETMT Marcus Hook Terminal,False,False,False,False,False,False,False
+3236,10,10,RI,Manchester Street Station,True,False,True,True,True,True,True
+3236,11,11,RI,Manchester Street Station,True,False,True,True,True,True,True
+3236,9,9,RI,Manchester Street Station,True,False,True,True,True,True,True
+51030,1,1,RI,Ocean State Power,True,False,True,True,True,True,True
+51030,2,2,RI,Ocean State Power,True,False,True,True,True,True,True
+54056,1,,RI,"Pawtucket Power Associates, LP",True,False,True,True,True,True,True
+54324,3,3,RI,Ocean State Power II,True,False,True,True,True,True,True
+54324,4,4,RI,Ocean State Power II,True,False,True,True,True,True,True
+55048,1,1,RI,"Tiverton Power, LLC",True,False,True,True,True,True,True
+55107,RISEP1,RISEP1,RI,Rhode Island State Energy Center,True,False,True,True,True,True,True
+55107,RISEP2,RISEP2,RI,Rhode Island State Energy Center,True,False,True,True,True,True,True
+10017,002,,VA,RockTenn West Point Mill,False,False,False,False,False,False,False
+10633,1,1,VA,Hopewell Cogeneration Facility,True,False,False,True,True,False,True
+10633,2,2,VA,Hopewell Cogeneration Facility,True,False,False,True,True,False,True
+10633,3,3,VA,Hopewell Cogeneration Facility,True,False,False,True,True,False,True
+10771,1,,VA,Hopewell Power Station,False,False,False,False,False,False,False
+10771,2,,VA,Hopewell Power Station,False,False,False,False,False,False,False
+10773,1,,VA,Altavista Power Station,False,False,False,False,False,False,False
+10773,2,,VA,Altavista Power Station,False,False,False,False,False,False,False
+10774,1,,VA,Southampton Power Station,False,False,False,False,False,False,False
+10774,2,,VA,Southampton Power Station,False,False,False,False,False,False,False
+3775,1,1,VA,Clinch River,True,False,False,True,True,False,True
+3775,2,2,VA,Clinch River,True,False,False,True,True,False,True
+3785,TA10,TA10,VA,Tasley Energy Center,True,False,False,True,True,False,True
+3797,**8A,**8A,VA,Chesterfield Power Station,True,False,False,True,True,False,True
+3797,5,5,VA,Chesterfield Power Station,True,False,False,True,True,False,True
+3797,6,6,VA,Chesterfield Power Station,True,False,False,True,True,False,True
+3797,7,7,VA,Chesterfield Power Station,True,False,False,True,True,False,True
+3804,5,,VA,Possum Point Power Station,True,False,False,True,True,False,True
+3804,6A,6A,VA,Possum Point Power Station,True,False,False,True,True,False,True
+3804,6B,6B,VA,Possum Point Power Station,True,False,False,True,True,False,True
+3809,3,3,VA,Yorktown Power Station,True,False,False,True,True,False,True
+50479,6,,VA,"GP Big Island, LLC",False,False,False,False,False,False,False
+50900,001,,VA,WestRock Virginia Corp Covington Ops,False,False,False,False,False,False,False
+50900,004,,VA,WestRock Virginia Corp Covington Ops,False,False,False,False,False,False,False
+50900,005,,VA,WestRock Virginia Corp Covington Ops,False,False,False,False,False,False,False
+50900,011,,VA,WestRock Virginia Corp Covington Ops,False,False,False,False,False,False,False
+52019,501,501,VA,Doswell Limited Partnership,True,False,False,True,True,False,True
+52019,502,502,VA,Doswell Limited Partnership,True,False,False,True,True,False,True
+52019,601,601,VA,Doswell Limited Partnership,True,False,False,True,True,False,True
+52019,602,602,VA,Doswell Limited Partnership,True,False,False,True,True,False,True
+52019,CT1,CT1,VA,Doswell Limited Partnership,True,False,False,True,True,False,True
+52019,CT2,CT2,VA,Doswell Limited Partnership,True,False,False,True,True,False,True
+52019,CT3,CT3,VA,Doswell Limited Partnership,True,False,False,True,True,False,True
+52087,CT-1,CT-1,VA,Elizabeth River Combustion Turbine Sta,True,False,False,True,True,False,True
+52087,CT-2,CT-2,VA,Elizabeth River Combustion Turbine Sta,True,False,False,True,True,False,True
+52087,CT-3,CT-3,VA,Elizabeth River Combustion Turbine Sta,True,False,False,True,True,False,True
+52089,BLR010,,VA,Celanese Acetate LLC,False,False,False,False,False,False,False
+52089,BLR011,,VA,Celanese Acetate LLC,False,False,False,False,False,False,False
+52089,BLR012,,VA,Celanese Acetate LLC,False,False,False,False,False,False,False
+52089,BLR013,,VA,Celanese Acetate LLC,False,False,False,False,False,False,False
+52089,BLR014,,VA,Celanese Acetate LLC,False,False,False,False,False,False,False
+54081,BLR01A,,VA,"Spruance Operating Services, LLC",False,False,False,False,False,False,False
+54081,BLR01B,,VA,"Spruance Operating Services, LLC",False,False,False,False,False,False,False
+54081,BLR02A,,VA,"Spruance Operating Services, LLC",False,False,False,False,False,False,False
+54081,BLR02B,,VA,"Spruance Operating Services, LLC",False,False,False,False,False,False,False
+54081,BLR03A,,VA,"Spruance Operating Services, LLC",False,False,False,False,False,False,False
+54081,BLR03B,,VA,"Spruance Operating Services, LLC",False,False,False,False,False,False,False
+54081,BLR04A,,VA,"Spruance Operating Services, LLC",False,False,False,False,False,False,False
+54081,BLR04B,,VA,"Spruance Operating Services, LLC",False,False,False,False,False,False,False
+54304,001,001,VA,Birchwood Power Facility,True,False,False,True,True,False,True
+54844,1,1,VA,Gordonsville Power Station,True,False,False,True,True,False,True
+54844,2,2,VA,Gordonsville Power Station,True,False,False,True,True,False,True
+55285,WH01,WH01,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55285,WH02,WH02,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55285,WH03,WH03,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55285,WH04,WH04,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55285,WH05,WH05,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55285,WH06,WH06,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55285,WH07,WH07,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55285,WH08,WH08,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55285,WH09,WH09,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55285,WH10,WH10,VA,Wolf Hills Energy,True,False,False,True,True,False,True
+55381,CT-001,CT-001,VA,Commonwealth Chesapeake,True,False,False,True,True,False,True
+55381,CT-002,CT-002,VA,Commonwealth Chesapeake,True,False,False,True,True,False,True
+55381,CT-003,CT-003,VA,Commonwealth Chesapeake,True,False,False,True,True,False,True
+55381,CT-004,CT-004,VA,Commonwealth Chesapeake,True,False,False,True,True,False,True
+55381,CT-005,CT-005,VA,Commonwealth Chesapeake,True,False,False,True,True,False,True
+55381,CT-006,CT-006,VA,Commonwealth Chesapeake,True,False,False,True,True,False,True
+55381,CT-007,CT-007,VA,Commonwealth Chesapeake,True,False,False,True,True,False,True
+55439,CTGDB1,CTGDB1,VA,Tenaska Virginia Generating Station,True,False,False,True,True,False,True
+55439,CTGDB2,CTGDB2,VA,Tenaska Virginia Generating Station,True,False,False,True,True,False,True
+55439,CTGDB3,CTGDB3,VA,Tenaska Virginia Generating Station,True,False,False,True,True,False,True
+55738,1,1,VA,Buchanan Units 1 & 2,True,False,False,True,True,False,True
+55738,2,2,VA,Buchanan Units 1 & 2,True,False,False,True,True,False,True
+55939,1A,1A,VA,Warren County Power Station,True,False,False,True,True,False,True
+55939,1B,1B,VA,Warren County Power Station,True,False,False,True,True,False,True
+55939,1C,1C,VA,Warren County Power Station,True,False,False,True,True,False,True
+56807,1A,1A,VA,Bear Garden Generating Station,True,False,False,True,True,False,True
+56807,1B,1B,VA,Bear Garden Generating Station,True,False,False,True,True,False,True
+56808,1,1,VA,Virginia City Hybrid Energy Center,True,False,False,True,True,False,True
+56808,2,2,VA,Virginia City Hybrid Energy Center,True,False,False,True,True,False,True
+58260,1A,1A,VA,Brunswick County Power Station,True,False,False,True,True,False,True
+58260,1B,1B,VA,Brunswick County Power Station,True,False,False,True,True,False,True
+58260,1C,1C,VA,Brunswick County Power Station,True,False,False,True,True,False,True
+59004,CT1,CT1,VA,"Potomac Energy Center, LLC",True,False,False,True,True,False,True
+59004,CT2,CT2,VA,"Potomac Energy Center, LLC",True,False,False,True,True,False,True
+59913,1A,1A,VA,Greensville County Power Station,True,False,False,True,True,False,True
+59913,1B,1B,VA,Greensville County Power Station,True,False,False,True,True,False,True
+59913,1C,1C,VA,Greensville County Power Station,True,False,False,True,True,False,True
+7032,3,3,VA,Gravel Neck Combustion Turbine,True,False,False,True,True,False,True
+7032,4,4,VA,Gravel Neck Combustion Turbine,True,False,False,True,True,False,True
+7032,5,5,VA,Gravel Neck Combustion Turbine,True,False,False,True,True,False,True
+7032,6,6,VA,Gravel Neck Combustion Turbine,True,False,False,True,True,False,True
+7212,1,1,VA,Darbytown Combustion Turbine,True,False,False,True,True,False,True
+7212,2,2,VA,Darbytown Combustion Turbine,True,False,False,True,True,False,True
+7212,3,3,VA,Darbytown Combustion Turbine,True,False,False,True,True,False,True
+7212,4,4,VA,Darbytown Combustion Turbine,True,False,False,True,True,False,True
+7213,1,1,VA,Clover Power Station,True,False,False,True,True,False,True
+7213,2,2,VA,Clover Power Station,True,False,False,True,True,False,True
+7836,EU1,EU1,VA,Marsh Run Generation Facility,True,False,False,True,True,False,True
+7836,EU2,EU2,VA,Marsh Run Generation Facility,True,False,False,True,True,False,True
+7836,EU3,EU3,VA,Marsh Run Generation Facility,True,False,False,True,True,False,True
+7837,EU1,EU1,VA,Louisa Generation Facility,True,False,False,True,True,False,True
+7837,EU2,EU2,VA,Louisa Generation Facility,True,False,False,True,True,False,True
+7837,EU3,EU3,VA,Louisa Generation Facility,True,False,False,True,True,False,True
+7837,EU4,EU4,VA,Louisa Generation Facility,True,False,False,True,True,False,True
+7837,EU5,EU5,VA,Louisa Generation Facility,True,False,False,True,True,False,True
+7838,1,1,VA,Remington Combustion Turbine Station,True,False,False,True,True,False,True
+7838,2,2,VA,Remington Combustion Turbine Station,True,False,False,True,True,False,True
+7838,3,3,VA,Remington Combustion Turbine Station,True,False,False,True,True,False,True
+7838,4,4,VA,Remington Combustion Turbine Station,True,False,False,True,True,False,True
+7839,1,1,VA,Ladysmith Combustion Turbine Sta,True,False,False,True,True,False,True
+7839,2,2,VA,Ladysmith Combustion Turbine Sta,True,False,False,True,True,False,True
+7839,3,3,VA,Ladysmith Combustion Turbine Sta,True,False,False,True,True,False,True
+7839,4,4,VA,Ladysmith Combustion Turbine Sta,True,False,False,True,True,False,True
+7839,5,5,VA,Ladysmith Combustion Turbine Sta,True,False,False,True,True,False,True
+880093,10D,,VA,AdvanSix Resins and Chemicals - Hopewell,False,False,False,False,False,False,False
+880093,10E,,VA,AdvanSix Resins and Chemicals - Hopewell,False,False,False,False,False,False,False
+880093,10F,,VA,AdvanSix Resins and Chemicals - Hopewell,False,False,False,False,False,False,False
+3734,A,A,VT,Berlin 5,True,False,True,True,True,True,True
+3734,B,B,VT,Berlin 5,True,False,True,True,True,True,True
+3754,CT1,CT1,VT,Penny Lane Gas Turbine,True,False,True,True,True,True,True
+3754,CT2,CT2,VT,Penny Lane Gas Turbine,True,False,True,True,True,True,True
+589,1,,VT,J C McNeil,False,False,False,False,False,False,False
+10151,1A,,WV,Grant Town Power Plant,False,False,False,False,False,False,False
+10151,1B,,WV,Grant Town Power Plant,False,False,False,False,False,False,False
+10743,CFB1,,WV,Morgantown Energy Facility,False,False,False,False,False,False,False
+10743,CFB2,,WV,Morgantown Energy Facility,False,False,False,False,False,False,False
+10788,612,,WV,Chemours Belle Plant,False,False,False,False,False,False,False
+3935,1,,WV,John E Amos,False,False,False,False,False,False,False
+3935,2,,WV,John E Amos,False,False,False,False,False,False,False
+3935,3,,WV,John E Amos,False,False,False,False,False,False,False
+3935,AUX1,,WV,John E Amos,False,False,False,False,False,False,False
+3935,AUX3,,WV,John E Amos,False,False,False,False,False,False,False
+3943,1,,WV,Fort Martin Power Station,False,False,False,False,False,False,False
+3943,2,,WV,Fort Martin Power Station,False,False,False,False,False,False,False
+3944,1,,WV,Harrison Power Station,False,False,False,False,False,False,False
+3944,2,,WV,Harrison Power Station,False,False,False,False,False,False,False
+3944,3,,WV,Harrison Power Station,False,False,False,False,False,False,False
+3948,1,,WV,Mitchell (WV),False,False,False,False,False,False,False
+3948,2,,WV,Mitchell (WV),False,False,False,False,False,False,False
+3948,AUX1,,WV,Mitchell (WV),False,False,False,False,False,False,False
+3954,1,,WV,Mount Storm Power Station,False,False,False,False,False,False,False
+3954,2,,WV,Mount Storm Power Station,False,False,False,False,False,False,False
+3954,3,,WV,Mount Storm Power Station,False,False,False,False,False,False,False
+50151,B26,,WV,UCC South Charleston Plant,False,False,False,False,False,False,False
+50151,B27,,WV,UCC South Charleston Plant,False,False,False,False,False,False,False
+50491,001,,WV,Axiall Corporation Natrium Plant,False,False,False,False,False,False,False
+50491,002,,WV,Axiall Corporation Natrium Plant,False,False,False,False,False,False,False
+50491,003,,WV,Axiall Corporation Natrium Plant,False,False,False,False,False,False,False
+55276,01,,WV,Ceredo Generating Station,False,False,False,False,False,False,False
+55276,02,,WV,Ceredo Generating Station,False,False,False,False,False,False,False
+55276,03,,WV,Ceredo Generating Station,False,False,False,False,False,False,False
+55276,04,,WV,Ceredo Generating Station,False,False,False,False,False,False,False
+55276,05,,WV,Ceredo Generating Station,False,False,False,False,False,False,False
+55276,06,,WV,Ceredo Generating Station,False,False,False,False,False,False,False
+55284,GS01,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS02,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS03,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS04,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS05,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS06,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS07,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS08,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS09,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS10,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS11,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55284,GS12,,WV,Big Sandy Peaker Plant,False,False,False,False,False,False,False
+55349,1,,WV,"Pleasants Energy, LLC",False,False,False,False,False,False,False
+55349,2,,WV,"Pleasants Energy, LLC",False,False,False,False,False,False,False
+56671,001,,WV,Longview Power,False,False,False,False,False,False,False
+6004,1,,WV,Pleasants Power Station,False,False,False,False,False,False,False
+6004,2,,WV,Pleasants Power Station,False,False,False,False,False,False,False
+6264,1,,WV,Mountaineer (1301),False,False,False,False,False,False,False
+6264,AUX1,,WV,Mountaineer (1301),False,False,False,False,False,False,False
+6264,AUX2,,WV,Mountaineer (1301),False,False,False,False,False,False,False
+880053,B016,,WV,Altivia Services Institute Facility,False,False,False,False,False,False,False
+880053,B017,,WV,Altivia Services Institute Facility,False,False,False,False,False,False,False
