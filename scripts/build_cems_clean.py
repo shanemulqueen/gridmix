@@ -65,8 +65,14 @@ def state_participated(state, year, quarter):
     if state in RGGI_10:
         return True
     if state == "VA":
+        # Joined 2021; withdrew effective end of 2023; rejoining from 2026Q1.
         return (2021, 1) <= (year, quarter) <= (2023, 4) or (year, quarter) >= (2026, 1)
-    return False  # PA never commenced compliance; OH/WV/DC/NC not members
+    if state == "PA":
+        # Regulation took effect July 2022 (Q3); PA courts invalidated participation,
+        # data runs through 2023Q4. Verified against RGGI COATS: PA Q3+Q4 2022 CEMS
+        # CO2 matches RGGI's official 2022 PA total to the ton.
+        return (2022, 3) <= (year, quarter) <= (2023, 4)
+    return False  # OH/WV/DC/NC are not RGGI members
 
 
 def main():
