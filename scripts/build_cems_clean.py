@@ -94,6 +94,13 @@ def main():
     ]
     df["rggi_obligated"] = rggi_linked & pd.Series(participated, index=df.index)
 
+    # Carbon intensity of generation (co2Mass is short tons, grossLoad is MWh).
+    # NaN where the unit didn't run (grossLoad 0 or null).
+    gross = df["grossLoad"].where(df["grossLoad"] > 0)
+    df["co2_intensity_st_per_mwh"] = df["co2Mass"] / gross
+    df["co2_intensity_lb_per_mwh"] = df["co2_intensity_st_per_mwh"] * 2000
+    df["co2_intensity_kg_per_mwh"] = df["co2_intensity_st_per_mwh"] * 907.18474
+
     df = df.drop(columns=["oris", "unit_norm", "unit_id"])
     df = df.sort_values(["stateCode", "facilityId", "unitId", "year", "quarter"])
 
@@ -110,6 +117,17 @@ def main():
                                    "coats_facility_match", "rggi_obligated"]].sum())
     print("\nObligated unit-quarters by year:")
     print(df[df["rggi_obligated"]].groupby("year").size())
+
+    print("\n--- Carbon intensity sanity check (generation-weighted, lb/MWh) ---")
+    ran = df[df["grossLoad"] > 0].copy()
+    ran["fuel_group"] = ran["primaryFuelInfo"].fillna("Unknown").map(
+        lambda f: "Gas" if "Gas" in f else ("Coal" if "Coal" in f else "Oil/Other")
+    )
+    weighted = ran.groupby("fuel_group").apply(
+        lambda g: g["co2Mass"].sum() * 2000 / g["grossLoad"].sum(),
+        include_groups=False,
+    )
+    print(weighted.round(0))
 
 
 if __name__ == "__main__":
